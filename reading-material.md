@@ -1,7 +1,5 @@
 # Reading material
 
-
-
 During the course, you will be given material to read before proceeding to the next part. Typically, these will be academic papers that make use of digital humanities methods. When reading such papers, we ask that you focus on at least:
 
 * Research questions - What are the humanities research questions? Does the project also target computer science research questions? If so, what? What is the relationship between the CS an humanities research questions?

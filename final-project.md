@@ -1,6 +1,6 @@
 # Final project
 
-To pass the course, you are required to demonstrate some grasp of actual digital humanities work. Therefore, you are tasked with **taking some dataset, and processing it in some way to yield an interesting analysis.** 
+To pass the course, you are required to demonstrate some grasp of actual digital humanities work. Therefore, you are tasked with **taking some dataset, and processing it in some way to yield an interesting analysis.**
 
 Potential datasets/APIs are for example:
 
@@ -36,9 +36,9 @@ To return the assignment, you will need to upload your data, code and results in
 3. what do the end results show
 4. how would you continue the work \(towards academic meaning\)
 
-**Further info:** your work doesn't need to be a full-blown pipeline from raw data to interesting results. It can be just some steps towards that. However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\). 
+**Further info:** your work doesn't need to be a full-blown pipeline from raw data to interesting results. It can be just some steps towards that. However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
 
-To further aid you in your work, here are some previous submissions for inspiration \(for most of them, you should actually click the GitHub link on the right to start to make sense of them\): 
+To further aid you in your work, here are some previous submissions for inspiration \(for most of them, you should actually click the GitHub link on the right to start to make sense of them\):
 
 * themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
 * extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)

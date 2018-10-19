@@ -1,7 +1,5 @@
 # Where to continue?
 
-
-
 Here I'll gather some relevant links to further resources. I think these are good, but they're also somewhat of a random selection.
 
 * Further courses
