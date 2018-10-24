@@ -1,10 +1,10 @@
 # Introduction: three approaches to methods for digital humanists
 
-## Context: which of the digital humanities do methods relate to?
+{% hint style="danger" %}
+This content is not yet complete
+{% endhint %}
 
-
-
-
+Presentation: [Introduction: three approaches to methods for digital humanists](https://docs.google.com/presentation/d/e/2PACX-1vQ65t6vb2LpJbHUDNkUdONZxFtDHKfCwPfccRHCtUgmOZILAA8JeA0ZFdU4ck2iifaOeEAj2dYBT6ge/pub?start=false&loop=false&delayms=3000) \([pdf](http://docs.google.com/presentation/d/1PAWx9XMddcnLo6bR9IX7-OhRQdwcsvOTHKk4MhNrmIM/export/pdf), [gd](https://docs.google.com/presentation/d/1PAWx9XMddcnLo6bR9IX7-OhRQdwcsvOTHKk4MhNrmIM/edit?usp=sharing)\)
 
 ## Three approaches to methods for digital humanities
 
