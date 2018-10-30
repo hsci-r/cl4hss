@@ -38,6 +38,8 @@ To return the assignment, you will need to upload your data, code and results in
 
 **Further info:** your work doesn't need to be a full-blown pipeline from raw data to interesting results. It can be just some steps towards that. However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
 
+### Submissions from previous years
+
 To further aid you in your work, here are some previous submissions for inspiration \(for most of them, you should actually click the GitHub link on the right to start to make sense of them\):
 
 * themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)

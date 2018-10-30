@@ -20,17 +20,23 @@ Presentation: [Introduction: three approaches to methods for digital humanists](
 
 "Do you have to know how to code? I’m a tenured professor of digital humanities and I say “yes.” So if you come to my program, you’re going to have to learn to do that eventually." - Stephen Ramsay: Who's In and Who's Out, position paper at the “History and Future of Digital Humanities” panel at the 2011 mla
 
-### Digital humanities as multidisciplinary collaboration
-
-"Our mission is to produce, **through the lens of humanistic inquiry, new modes of thinking in design and computer science** to serve data-driven research in the humanities. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." - About -page of the Humanities + Design research laboratory at Stanford
-
-![](https://lh6.googleusercontent.com/lDzpywLdesGvdFy3j3iLkP-Knl9P0sXtqnG2Q1jsaemirxWjea1QeTY_EYN_ITHLwqQE8wvXfiAKU_Coh_63SBl4YOhbGFg7CxNkt_Qb8JFUn3M_pnIROD-l68UhKd5fzGb6w_bd3Q)
+### Digital humanities as culturomics
 
 {% embed url="http://booksearch.blogspot.fi/2010/12/find-out-whats-in-word-or-five-with.html" %}
 
 ![](https://lh5.googleusercontent.com/_U2RpW-zg5_9YRK2kW3SOylyVuCuGHBCjgSCcSIfimwsT1bKF1C-0R0AucLaB9k7zngWOkOTLVpJE3l-yWMiohE2NCQ6WIRe0pzywRXtT2nSZUTO7jYCXakJYZqPuH7Qjn0ONQsEJQ)
 
 ![](https://lh4.googleusercontent.com/PMy1_BN_BRO8EFnwGzv2Nz2_E6kEIF2rd29SAZ57hT8hDc7VQPZiVAYu8b4eq7Cxxg8XskD9cMe21vyWmDT05Gcnf9Zf55KtIqbXJgks66RYUpVxr-SX6DtzvwesF9Q3Y-kowjMJbg)
+
+### Digital humanities as multidisciplinary collaboration
+
+"Our mission is to produce, **through the lens of humanistic inquiry, new modes of thinking in design and computer science** to serve data-driven research in the humanities. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." - About -page of the Humanities + Design research laboratory at Stanford
+
+> Deep and significant progress in social science, in other words, will require not only new data and methods but also new institutions that  are designed from the ground up to foster long-term, large-scale, multidisciplinary, multimethod, problem-oriented social science research. To succeed, such an institution will require substantial investment, on a par with existing institutes for mind, brain, and behavior, genomics, or cancer, as well as the active cooperation of industry and government partners.
+>
+> — [Duncan J. Watts \(Microsoft Research\): Computational Social Science: Exciting Progress and Future Directions. The Bridge on Frontiers of Engineering, Volume 43, Issue 4](https://www.nae.edu/Publications/Bridge/106112/106118.aspx)
+
+![](https://lh6.googleusercontent.com/lDzpywLdesGvdFy3j3iLkP-Knl9P0sXtqnG2Q1jsaemirxWjea1QeTY_EYN_ITHLwqQE8wvXfiAKU_Coh_63SBl4YOhbGFg7CxNkt_Qb8JFUn3M_pnIROD-l68UhKd5fzGb6w_bd3Q)
 
 ## Don’t get carried away by fancy methods!
 
@@ -42,6 +48,7 @@ Presentation: [Introduction: three approaches to methods for digital humanists](
 
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 * Look over the final projects from last year. Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
+* Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1). Be ready to discuss in groups on the next lecture.
 
 
 

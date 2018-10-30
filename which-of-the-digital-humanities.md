@@ -57,7 +57,7 @@ Read the following historical texts:
 
 After reading the given articles, do your own searches and try to dig up the history of quantitative or computational approaches in your own field, and any analyses on how they ended up relating to the core field. 
 
-After going through your sources, reflect on the general questions above about the development or non-development of humanities computing from the perspective of your field. Add your hypotheses and insights to the discussion on the course Slack in the [\#dhhistory](https://slack.com/app_redirect?channel=dhhistory&team=T276JCMEU) channel. There is no simple answer.
+After going through your sources, reflect on the general questions above about the development or non-development of humanities computing from the perspective of your field. Add your hypotheses and insights to the discussion on the course Slack on the [\#dhhistory](https://slack.com/app_redirect?channel=dhhistory&team=T276JCMEU) channel. There is no simple answer.
 {% endhint %}
 
 My own take is that on the one hand, there really is nothing new under the sun, apart from continuous incremental improvement. All through history, methodologists have developed better analytical, mathematical, statistical and computational methods for exposing and validating phenomena in data, while others have sought to apply them to whatever material and questions they have had. Which is all as it should be.

@@ -1,5 +1,7 @@
 # Introduction to methods for digital humanities
 
+By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [humanities–computing interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
+
 {% hint style="warning" %}
 This content is not yet complete. It is being updated and finalised as the fall 2018 course \(31.10.2018-14.12.2018\) at the University of Helsinki progresses.
 {% endhint %}
@@ -46,8 +48,9 @@ This course is meant for both independent self-study \(reading up on only certai
 
 * Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists/)
   * Assignments: 
-    * [Assignment on the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/~/drafts/-LQ5rbvhsQKHwC09RVa5/primary/background-which-of-the-digital-humanities#assignment-1)
-    * 
+    1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
+    2. Look over the [final projects from last year](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
+    3. Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1). Be ready to discuss in groups on the next lecture.
 * Friday 2.11. — [What is data?](different-types-of-data-data-quality-available-open-datasets.md)
 * Wednesday 7.11. — [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * Friday 9.11. — **No lecture**
