@@ -29,7 +29,7 @@ Tools for processing and analysis are for example:
 * Anomaly detection: [AnomalyDetection](https://github.com/twitter/AnomalyDetection), ...
 * Visualization: [Palladio](http://palladio.designhumanities.org/), [nodegoat](http://nodegoat.net/), [matplotlib](http://matplotlib.org/), [ggplot2](http://ggplot2.org/), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly/), ...
 
-To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/)repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. Include a description of what you've done, **following as best as possible the guidelines for open, reproducible research**:
+To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. Include a description of what you've done, **following as best as possible the guidelines for open, reproducible research**:
 
 1. which data did you use
 2. what did you do to it \(and how can I reproduce it\)

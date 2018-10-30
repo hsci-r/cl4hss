@@ -22,3 +22,7 @@ Presentation: [Easy tools for processing and exploring data](https://docs.google
   * [Tableau](https://www.tableau.com/)
   * [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)
 
+## Resources
+
+* [Flowchart on selecting a good visualization](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) based on what you want to show 
+

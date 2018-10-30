@@ -1,7 +1,7 @@
 # Introduction to methods for digital humanities
 
 {% hint style="warning" %}
-This content is not yet complete
+This content is not yet complete. It is being updated and finalised as the fall 2018 course \(31.10.2018-14.12.2018\) at the University of Helsinki progresses.
 {% endhint %}
 
 ## Target audience
@@ -12,7 +12,7 @@ People of all levels in the humanities interested in digital methods.
 
 ## Course concept and learning goals
 
-This course is an introductory signposting course on applying modern data processing to complex social and historical data. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. To make this clear, from this point on, the course will not refer to digital humanities, but to computational humanities.
+This course is an introductory signposting course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by  taking examples from different fields, a deeper understanding of the field can be attained . For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists.md).
 
 As a signposting course, the course provides students with the knowledge they need to choose their own focus within computational humanities, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 
@@ -20,12 +20,12 @@ After this course the student understands the multiple ways in which methods ben
 
 ## Format
 
-This course is meant for both independent self-study \(reading up on only certain sections of the course\), as well as for completing as a MOOC with a group of likeminded students.
+This course is meant for both independent self-study \(reading up on only certain sections of the course\), as well as for completing as either a contact learning or MOOC course with a group of likeminded students.
 
-## Outline of contents
+## Course contents
 
-1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
-   * Easy, ready-made tools for data cleanup, visualization and exploration
+1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists.md)
+   * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
 2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
@@ -35,4 +35,28 @@ This course is meant for both independent self-study \(reading up on only certai
 6. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
 7. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
 8. [Digital humanities project](final-project.md)
+
+## Practical matters
+
+* The course has a Slack workspace at [meth4dh.slack.com](http://meth4dh.slack.com/) used for both returning some assignments as well as peer and teacher support. Please join it, starting by entering your email [here](https://communityinviter.com/apps/meth4dh/meth4dh).
+* For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\)
+
+## Provisional timetable for fall 2018
+
+* Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists.md)
+* Friday 2.11. — [What is data?](different-types-of-data-data-quality-available-open-datasets.md)
+* Wednesday 7.11. — [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
+* Friday 9.11. — **No lecture**
+* Wednesday 14.11. — [Fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md)
+* Friday 16.11. — **No lecture**
+* Wednesday 21.11. — [Fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
+* Friday 23.11. — [Computational data analysis literacy](computational-data-analysis-method-literacy/)
+* Wednesday 28.11. — [Computational data analysis literacy](computational-data-analysis-method-literacy/)
+* Friday 30.11. — [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+* Wednesday 5.12. — [Final project](final-project.md)
+* Friday 8.12. — [Final project](final-project.md)
+* Wednesday 12.12. — **No lecture**
+* Friday 14.12. — **No lecture**
+
+
 
