@@ -12,7 +12,7 @@ People of all levels in the humanities interested in digital methods.
 
 ## Course concept and learning goals
 
-This course is an introductory signposting course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by  taking examples from different fields, a deeper understanding of the field can be attained . For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists.md).
+This course is an introductory signposting course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by  taking examples from different fields, a deeper understanding of the field can be attained . For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
 
 As a signposting course, the course provides students with the knowledge they need to choose their own focus within computational humanities, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 
@@ -24,17 +24,18 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Course contents
 
-1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists.md)
+1. [Which of the digital humanities?](which-of-the-digital-humanities.md)
+2. [Three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
    * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
-2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
-3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
-4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
-5. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
-6. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
-7. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
-8. [Digital humanities project](final-project.md)
+3. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
+4. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
+5. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
+6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
+7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
+8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+9. [Digital humanities project](final-project.md)
 
 ## Practical matters
 
@@ -43,7 +44,10 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Provisional timetable for fall 2018
 
-* Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists.md)
+* Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists/)
+  * Assignments: 
+    * [Assignment on the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/~/drafts/-LQ5rbvhsQKHwC09RVa5/primary/background-which-of-the-digital-humanities#assignment-1)
+    * 
 * Friday 2.11. — [What is data?](different-types-of-data-data-quality-available-open-datasets.md)
 * Wednesday 7.11. — [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * Friday 9.11. — **No lecture**
