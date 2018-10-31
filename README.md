@@ -65,5 +65,7 @@ This course is meant for both independent self-study \(reading up on only certai
 * Wednesday 12.12. — **No lecture**
 * Friday 14.12. — **No lecture**
 
+**Deadline for returning final project: 21.12.**
+
 
 
