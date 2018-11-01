@@ -14,7 +14,7 @@ People of all levels in the humanities interested in digital methods.
 
 ## Course concept and learning goals
 
-This course is an introductory signposting course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
+This course is an introductory signposting course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the long tradition of humanities computing. On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists.md).
 
 As a signposting course, the course provides students with the knowledge they need to choose their own focus within computational humanities, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 
@@ -27,7 +27,7 @@ This course is meant for both independent self-study \(reading up on only certai
 ## Course contents
 
 1. [Which of the digital humanities?](which-of-the-digital-humanities.md)
-2. [Three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
+2. [Three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists.md)
    * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
@@ -46,11 +46,11 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Provisional timetable for fall 2018
 
-* Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists/)
+* Wednesday 31.10. — [Introduction](introduction-three-approaches-to-methods-for-digital-humanists.md)
   * Assignments: 
     1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
     2. Look over the [final projects from last year](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
-    3. Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1). Be ready to discuss in groups on the next lecture.
+    3. Read up on [the history of humanities computing](which-of-the-digital-humanities.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
 * Friday 2.11. — [What is data?](different-types-of-data-data-quality-available-open-datasets.md)
 * Wednesday 7.11. — [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * Friday 9.11. — **No lecture**
