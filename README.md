@@ -51,7 +51,13 @@ This course is meant for both independent self-study \(reading up on only certai
     1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
     2. Look over the [final projects from last year](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
     3. Read up on [the history of humanities computing](which-of-the-digital-humanities.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
-* Friday 2.11. — [What is data?](different-types-of-data-data-quality-available-open-datasets.md)
+* Friday 2.11. — [Different types of data, data quality, available open datasets](https://docs.google.com/presentation/d/e/2PACX-1vQBZw3s36wdPtPf3gTcz-PW5eRND-59TIrmZki67lR341ycKuQcO1TjvB0Vn6wYJsNySN8QOSzuEDyq/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/export/pdf), [gd](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/edit?usp=sharing)\)
+  * Assignments:
+    1. Find a dataset that could be of interest to you in your final project. Post a message on [\#datasets](https://slack.com/app_redirect?channel=datasets&team=T276JCMEU) on [Slack](http://meth4dh.slack.com/) giving a link to the dataset and a note on why you selected it.
+    2. Read some background on visualisation for next week:
+       * [What is Visualization Really for?](http://arxiv.org/pdf/1305.5670.pdf) sections 2.1-2.4 for a categorisation of different uses for visualisation
+       * [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html) for learning to not trust visualisations blind
+    3. Read your first DH research article on [approaches to visualising relationships between different versions of texts](https://doi.org/10.1093/llc/fqx033).
 * Wednesday 7.11. — [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * Friday 9.11. — **No lecture**
 * Wednesday 14.11. — [Fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md)
