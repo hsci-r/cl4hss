@@ -42,7 +42,7 @@ This course is meant for both independent self-study \(reading up on only certai
 ## Practical matters
 
 * The course has a Slack workspace at [meth4dh.slack.com](http://meth4dh.slack.com/) used for both returning some assignments as well as peer and teacher support. Please join it, starting by entering your email [here](https://communityinviter.com/apps/meth4dh/meth4dh).
-* For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\)
+* For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\). You also naturally need access to the sources \(most commonly through accessing them from a university network / VPN\).
 
 ## Timetable for fall 2018
 
