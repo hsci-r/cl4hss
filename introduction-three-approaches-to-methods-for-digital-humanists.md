@@ -42,7 +42,7 @@ Like those present at Vassar in 1986 \("Admittedly, most panelists and participa
 
 In examining these viewpoints, the course moves gradually from a user perspective onto a more conceptual level. Yet in total, it must be said that the holistic view is on this course much more important, and thus also tools are taught more on a signposting level, more in the pursuit of charting a common landscape than providing deep education in any particular task. 
 
-Similarly, instead of focusing on particular workflows for particular types of data, examples are instead taken from as different fields of the humanities and as different types of data and questions as possible. Through this, it is argued that a deeper understanding of the possibilities afforded by computation can be attained.
+Similarly, instead of focusing on particular workflows for particular types of data, examples are taken from as different fields of the humanities and as different types of data and questions as possible. Through this, it is argued that a deeper understanding of the possibilities afforded by computation can be attained.
 
 ## Assignments
 
