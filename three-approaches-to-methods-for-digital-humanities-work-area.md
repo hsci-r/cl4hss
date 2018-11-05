@@ -5,7 +5,7 @@ This is just a holding area for unfinished content while I work on the chapters.
 {% endhint %}
 
 > “\[technological\] skills training is not research training,” since “the knowledge gained is \[as\] transient” as the tools themselves, whereas “\[critical\] thinking skills are the most important because they are the most deeply embedded and the most transferable.”
-
+>
 > Scholars who are thinking of "computer projects" need, of course, some notion of what computers can and cannot do. But they need not be formally trained or even deeply knowledgeable about computer theory or technique. The reason for this is that we seem to be coming upon a second stage in using computers in the humanities; it is imagination, if only modestly informed, rather than technical expertness that is most needed now.
 
 ### Digital humanities as the programming humanist
@@ -21,8 +21,8 @@ This is just a holding area for unfinished content while I work on the chapters.
 ### Digital humanities as multidisciplinary collaboration
 
 > "Our mission is to produce, **through the lens of humanistic inquiry, new modes of thinking in design and computer science** to serve data-driven research in the humanities. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." - About -page of the Humanities + Design research laboratory at Stanford
-
-> Deep and significant progress in social science, in other words, will require not only new data and methods but also new institutions that  are designed from the ground up to foster long-term, large-scale, multidisciplinary, multimethod, problem-oriented social science research. To succeed, such an institution will require substantial investment, on a par with existing institutes for mind, brain, and behavior, genomics, or cancer, as well as the active cooperation of industry and government partners.
+>
+> Deep and significant progress in social science, in other words, will require not only new data and methods but also new institutions that are designed from the ground up to foster long-term, large-scale, multidisciplinary, multimethod, problem-oriented social science research. To succeed, such an institution will require substantial investment, on a par with existing institutes for mind, brain, and behavior, genomics, or cancer, as well as the active cooperation of industry and government partners.
 >
 > — [Duncan J. Watts \(Microsoft Research\): Computational Social Science: Exciting Progress and Future Directions. The Bridge on Frontiers of Engineering, Volume 43, Issue 4](https://www.nae.edu/Publications/Bridge/106112/106118.aspx)
 
@@ -36,7 +36,7 @@ This is just a holding area for unfinished content while I work on the chapters.
 
 In 1974, even a [dedicated programming language](http://doi.org/10.1007/BF02402344) was developed to each the teaching of programming to students in the humanities. \([in context](https://hyp.is/eXCLFs0_Eei7VM_28E99zw/link.springer.com/content/pdf/10.1007%2FBF00517809.pdf)\)
 
-file:///Users/jiemakel/Downloads/DigitalHumanitiesPedagogy.pdf 
+file:///Users/jiemakel/Downloads/DigitalHumanitiesPedagogy.pdf
 
 [https://link.springer.com/article/10.1007/BF00120965](https://link.springer.com/article/10.1007/BF00120965) Such attitudes can be seen in a person who regards a word processor as something to boost the efficiency of a secretary or in someone who sets out to write an expert system by hiring someone else to do the programming. This tendency to consider the technology as separable from the research or instruction may be fostered by computing and the humanities courses which teach software use or programming in a kind of content-free environment that stresses technique and hopes that desirable and specific applications of the technique will somehow later emerge in students' minds.
 

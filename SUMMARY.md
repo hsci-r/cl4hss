@@ -6,6 +6,7 @@
 * [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
 * [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
+* [Regular expressions](regular-expressions.md)
 * [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
 * [Computational data analysis method literacy](computational-data-analysis-method-literacy/README.md)
   * [Reading material focus questions](computational-data-analysis-method-literacy/reading-material.md)
