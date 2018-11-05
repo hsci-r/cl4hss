@@ -14,8 +14,6 @@ This is just a holding area for unfinished content while I work on the chapters.
 
 ### Digital humanities as culturomics
 
-{% embed url="http://booksearch.blogspot.fi/2010/12/find-out-whats-in-word-or-five-with.html" %}
-
 ![](https://lh5.googleusercontent.com/_U2RpW-zg5_9YRK2kW3SOylyVuCuGHBCjgSCcSIfimwsT1bKF1C-0R0AucLaB9k7zngWOkOTLVpJE3l-yWMiohE2NCQ6WIRe0pzywRXtT2nSZUTO7jYCXakJYZqPuH7Qjn0ONQsEJQ)
 
 ![](https://lh4.googleusercontent.com/PMy1_BN_BRO8EFnwGzv2Nz2_E6kEIF2rd29SAZ57hT8hDc7VQPZiVAYu8b4eq7Cxxg8XskD9cMe21vyWmDT05Gcnf9Zf55KtIqbXJgks66RYUpVxr-SX6DtzvwesF9Q3Y-kowjMJbg)

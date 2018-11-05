@@ -12,9 +12,6 @@ Being the absolute minimum, it is much, much shorter than most introductory prog
 
 The core idea behind this is that nowadays, for everything in data processing or visualisation one wants to do, there is a library \(e.g. [Pandas](http://pandas.pydata.org/), [Tidyverse](https://www.tidyverse.org/packages/), [Mallet](http://mallet.cs.umass.edu/), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/README.html), [Matplotlib](http://matplotlib.org/), [Requests](http://docs.python-requests.org/en/latest/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [plotly](https://plot.ly/)\). So, nowadays, programming is mostly reading up how on to use these libraries from their documentation, and writing glue code to hook them together to perform what one wants. To drive this point home, consider the two programs below. The first prints some statements, the second imports a bunch of libraries, and then uses them to fetch the text of Pride and Prejudice from the Internet, to apply statistical topic modeling to it and to interactively visualise the results.
 
-{% code-tabs %}
-{% code-tabs-item title="hello\_world.py" %}
-
 ```python
 print("Hello World!")
 print("Hello Again")
@@ -25,12 +22,6 @@ print("I'd much rather you 'not'.")
 print('I "said" do not touch this.')
 ```
 
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="output:" %}
-
 ```text
 Hello World!
 Hello Again
@@ -40,12 +31,6 @@ Yay! Printing.
 I'd much rather you 'not'.
 I "said" do not touch this.
 ```
-
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="model\_pride.py" %}
 
 ```python
 import requests
@@ -64,12 +49,7 @@ m = LdaModel(c,num_topics = 15, alpha='auto')
 pyLDAvis.display(pyLDAvis.gensim.prepare(m,c,d))
 ```
 
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="output:" %}
-
+{% raw %}
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
 
 <div id="ldavis_el141404198149032645998876828"></div>
@@ -109,8 +89,7 @@ new LDAvis("#" + "ldavis_el141404198149032645998876828", ldavis_el14140419814903
 });
 }
 </script>
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endraw %}
 
 Gluing the libraries together to a working pipeline is mostly done through trial and error, and lots of googling. However, in order to understand the documentation and examples, knowledge of the fundamental universal concepts of programming is required.
 
