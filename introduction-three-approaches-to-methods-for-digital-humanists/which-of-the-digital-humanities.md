@@ -1,24 +1,4 @@
-# Which of the digital humanities?
-
-## All the different digital humanities
-
-There is no single digital humanities. Instead, it is often used as a tactical term:
-
-> To assert that digital humanities is a “tactical” coinage is to insist on the reality of circumstances in which it is unabashedly deployed to get things done—“things” that might include getting a faculty line or funding a staff position, establishing a curriculum, revamping a lab, or launching a center.
->
-> _— Kirschenbaum, M. \(2012\). Digital Humanities As/Is a Tactical Term. In M. K. Gold \(Ed.\), Debates in the Digital Humanities \(_[_in context_](https://hyp.is/bNjpythNEeiDfqOwZfYFKg/dhdebates.gc.cuny.edu/debates/text/48)_\)_
-
-On a global level, this results in digital humanities as a field being comprised of a complex landscape of _partially_ overlapping domains, including e.g. humanities computing, multimodal cultural heritage and digital culture studies. Crucially, while each of these subcamps have aspects in common with their neighbours, who have things in common with their neighbours, these connections do not extend uniformly across the whole landscape. Therefore, it makes sense to think about, and clearly explicate the subsets of digital humanities meant in each particular context.
-
-On this course, the focus is on **applying modern data processing to complex social and historical data in order to yield new knowledge on phenomena of interest to scholars in the humanities**. This definition aligns nicely with an older version of the definition of digital humanities at King's College London \(replaced in 2011 with a much more [generic description](http://web.archive.org/web/20111204033346/http://www.kcl.ac.uk:80/artshums/depts/ddh/about/dh.aspx)\):
-
-> "The digital humanities comprise the study of what happens at the intersection of **computing tools** with cultural artefacts of all kinds. This study begins where basic familiarity with standard software ends. It probes how these common **tools** may be used to make new knowledge from our cultural inheritance and from the contemporary world. It equips students to analyze problems in terms of **digital methods**, choose those best for the job at hand, apply them creatively and assess the results. It teaches students to use **computing as an instrument** to investigate how we know what we know, hence to strengthen and extend our knowledge of the world past and present." \(highlights added\)
->
->  _— Center for Computing in the Humanities. "Introduction to the Digital Humanities". King's College London._ 13 January 2006 \([in context](https://hyp.is/A3betthREeiK4hfqTp5pCg/web.archive.org/web/20060114101653/http://www.kcl.ac.uk:80/schools/humanities/cch/digihum)\)
-
-What both of these definitions of digital humanities describe is by no means a new thing. In truth, they're just the rebranding of a much older tradition of humanities computing. Thus, to give better context for the material on this course, it is useful to for a moment delve into its history.
-
-## History of humanities computing
+# History of humanities computing
 
 The birth of humanities computing is usually traced to the work of the Jesuit priest Roberto Busa. In 1949, Busa pitched to IBM the novel idea of using general purpose computers to create an index of the words appearing in Thomas Aquinas's works \(see e.g. [this article](http://www.historyofinformation.com/expanded.php?id=2321) for a detailed historical account of the project\). 
 
@@ -49,7 +29,7 @@ At the same time, the texts in the first volume of the Computers and the Humanit
 Now, over 50 years later, the situation and expectations are seemingly exactly the same with regard to digital humanities. So, what went wrong? Why didn't the promised revolution come? Why would this time be any different?
 
 {% hint style="info" %}
-#### **Assignment 1**
+#### **Assignment**
 
 Read the following historical texts:
 

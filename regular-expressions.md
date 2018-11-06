@@ -11,7 +11,7 @@ Regular expressions are a grammar for specifying rules to match text. Suppose yo
 
 
 {% hint style="info" %}
-**Assignment:**
+**Assignment**
 
 1. Go through the [regex tutorial](https://regexone.com/)
 2. Do the [regex assignment](https://regex101.com/r/6439eo/1) \(create regexes to match first names, last names, years, birth places etc\)
