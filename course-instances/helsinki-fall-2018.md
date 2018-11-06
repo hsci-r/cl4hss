@@ -18,8 +18,14 @@
   * Assignments \(two full weeks to do these, need to be done only by 21.11.\):
     1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
     2. Visualisation: Experiment with at least one of the following tools. Post a message on [\#tools](https://slack.com/app_redirect?channel=tools&team=T276JCMEU) on Slack about your experience with the tool you chose.
+       * [RAW](http://rawgraphs.io/)​
+       * ​[Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+       * ​[Voyant](https://voyant-tools.org/)​
+       * ​[Carto](https://carto.com/)​
+       * ​[Tableau](https://www.tableau.com/)​
+       * ​[Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
     3. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
-    4. Regular expressions \(page not ready yet, I'll inform you on Slack when it is\): 
+    4. Regular expressions: 
        1. Do the [https://regexone.com/](https://regexone.com/) tutorial.
        2. Create / Improve the regular expressions for matching last name, first name, birthplace and years at [https://regex101.com/r/6439eo/1](https://regex101.com/r/6439eo/1). Post your best efforts to Eetu on Slack.
     5. In preparation for the lecture on 21.11., read [this research article](https://doi.org/10.1073/pnas.1405984111).
