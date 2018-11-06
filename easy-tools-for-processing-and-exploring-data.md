@@ -6,11 +6,18 @@ This content is not yet complete
 
 Presentation: [Easy tools for processing and exploring data](https://docs.google.com/presentation/d/e/2PACX-1vQ0GNUtEwkYQ4NyRki6SohJ2DLS0wt4MKF3cVzuU7UlLq9yUij5Qd2ZgFltEb8KcPp7aYOXrSLFMdYa/pub?start=false&loop=false&delayms=3000) \([pdf](http://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/export/pdf), [gd](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/edit?usp=sharing)\)
 
+## Data visualisation
+
+Visualisation is the act of taking data and transforming it into visual shapes and forms. The reasoning behind this is that humans are very good at processing visual information, with a lot of the necessary shape and anomaly detection and comparison processes even happening subconsciously.
+
+
+
+Most visualisation is explanatory. 
+
 {% hint style="info" %}
 **Assignment**
 
-* [What is Visualization Really for?](http://arxiv.org/pdf/1305.5670.pdf) sections 2.1-2.4 for a categorization of different uses for visualization
-* [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html) for learning to not trust visualizations blind
+Read [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html). The articles are primarily oriented around explanatory data visualisation, but most computational humanities data analysis is exploratory. How do the problems transfer into that domain, when the only one you can deceive is yourself?
 {% endhint %}
 
 {% hint style="info" %}
@@ -41,4 +48,5 @@ Experiment with at least one of the following tools described in the slides. Pos
 ## Resources
 
 * [Flowchart on selecting a good visualization](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) based on what you want to show 
+* [An example](http://daydreamingnumbers.com/blog/4-ways-to-visualize-likert-scales/) of four ways to visualise the same data and how that affects what you can read from it
 

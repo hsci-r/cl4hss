@@ -14,24 +14,26 @@
        * [What is Visualization Really for?](http://arxiv.org/pdf/1305.5670.pdf) sections 2.1-2.4 for a categorisation of different uses for visualisation.
        * [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html) for learning to not trust visualisations blind.
     3. Read your first DH research article on [approaches to visualising relationships between different versions of texts](https://doi.org/10.1093/llc/fqx033).
+* Wednesday 7.11. — [Easy tools for processing and exploring data](../easy-tools-for-processing-and-exploring-data.md)
+  * Assignments \(two weeks to do these, need to be done only by 21.11.\):
+    1. Data cleanup: the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
+    2. Visualisation: Experiment with at least one of the visualisation tools described. Post a message on [\#tools](https://slack.com/app_redirect?channel=tools&team=T276JCMEU) on Slack about your experience with the tool you chose.
+    3. Work through the [python\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_intro.ipynb) Jupyter notebook
+* Friday 9.11. — **No lecture**
 
 {% hint style="warning" %}
 provisional/referring to old materials after this
 {% endhint %}
 
-* Wednesday 7.11. — [Easy tools for processing and exploring data](../easy-tools-for-processing-and-exploring-data.md)
-  * Assignments \(two weeks to do these, need to be done only by 21.11.\):
-    1. Data cleanup: the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
-    2. Visualisation: Experiment with at least one of the visualisation tools described. Post a message on [\#tools](https://slack.com/app_redirect?channel=tools&team=T276JCMEU) on Slack about your experience with the tool you chose.
-    3. Programming:
+* Wednesday 14.11. — [Fundamental concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
+  * Assignments:
+    1. Programming:
        1. Go through the [fundamental concepts of programming for humanists](https://github.com/jiemakel/dhintro/).
        2. Figure out what exactly [this code](https://github.com/jiemakel/dhintro/blob/master/python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
-    4. Regular expressions:
+    2. Regular expressions:
        1. Do the [https://regexone.com/](https://regexone.com/) tutorial.
        2. Create / Improve the regular expressions for matching last name, first name, birthplace and years at [https://regex101.com/r/6439eo/1](https://regex101.com/r/6439eo/1). Post your best efforts to Eetu on Slack.
-    5. For the lecture on 21.11., read [this research article](https://doi.org/10.1073/pnas.1405984111).
-* Friday 9.11. — **No lecture**
-* Wednesday 14.11. — [Fundamental concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md) \(support clinic for the programming exercises\)
+    3. Read [this research article](https://doi.org/10.1073/pnas.1405984111).
 * Friday 16.11. — **No lecture**
 * Wednesday 21.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md)
   * Assignment: In preparation for next weeks lecture, read \(at least\) one of the following sets of paired articles based on your own interests: 
