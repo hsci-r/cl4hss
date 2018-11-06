@@ -1,6 +1,8 @@
 # Regular expressions
 
-Regular expressions are a grammar for specifying rules to match text. Suppose you have the following text, which comes from an automatic transcription of a Swedish language bank employee matricle:
+Regular expressions are not programming per se, but instead a versatile grammar for specifying text matching patterns. As such, they are useful for finding complex things in unstructured text, be that for close reading or for extracting those things into structured datasets.
+
+For example, suppose you have the following text, which comes from an automatic transcription of a Swedish language bank employee matricle:
 
 > Aaltio \(född Hinderson\), Ellen, född i Björneborg 25/B 1887, genomgått 6 klasser i Björneborgs, svenska samskola och en bokföringskurs 1899. -- Kassör vid Wasa-Aktie-Banks filialkontor i Björneborg från % 1904, i 4 års tid under vintermånaderna tjänstgjort vid Björneborgs Sparbank. 
 >
