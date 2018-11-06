@@ -26,18 +26,17 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Course contents
 
-1. [Context: which of the digital humanities?](introduction-three-approaches-to-methods-for-digital-humanists/which-of-the-digital-humanities.md)
-2. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
+1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
    * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
-3. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
-4. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
-5. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
-6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
-7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
-8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
-9. [Digital humanities project](final-project.md)
+2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
+3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
+4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
+5. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
+6. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
+7. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+8. [Digital humanities project](final-project.md)
 
 ## Practical matters
 

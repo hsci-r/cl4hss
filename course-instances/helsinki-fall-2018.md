@@ -42,6 +42,7 @@ provisional/referring to old materials after this
     * history, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)
     * network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
     * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
+    * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
 * Friday 23.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
   * Assignment: find a computational humanities research paper that interests you
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2

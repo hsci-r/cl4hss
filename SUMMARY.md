@@ -10,7 +10,7 @@
 * [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
 * [Computational data analysis method literacy](computational-data-analysis-method-literacy/README.md)
   * [Reading material focus questions](computational-data-analysis-method-literacy/reading-material.md)
-* [Digging into a method: topic modeling](digging-into-a-method-topic-modeling.md)
+  * [Digging into a method: topic modeling](computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md)
 * [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
 * [Final project](final-project.md)
 * [Where to continue?](where-to-continue.md)
