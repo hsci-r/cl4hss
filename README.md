@@ -33,10 +33,11 @@ This course is meant for both independent self-study \(reading up on only certai
 2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
 3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
-5. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
-6. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
-7. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
-8. [Digital humanities project](final-project.md)
+5. [Data processing: regular expressions](regular-expressions.md)
+6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
+7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
+8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+9. [Digital humanities project](final-project.md)
 
 ## Practical matters
 

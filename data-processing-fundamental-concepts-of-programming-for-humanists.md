@@ -1,7 +1,5 @@
 # Data processing: fundamental concepts of programming for humanists
 
-Presentation: [Data processing: fundamental concepts of programming for humanists](https://docs.google.com/presentation/d/e/2PACX-1vSZSb9hmeRG5vTENcKe7WE8k9Uu32xPgTICPz2-Cw8O5Zssqitv-XfNC6wVLf215sod18n4wGMLoyIx/pub?start=false&loop=false&delayms=3000) \([pdf](http://docs.google.com/presentation/d/1Hor0RqZTZEV-77gdwZPgCpz8MlX4ZmsIwSyGcCDi3Ks/export/pdf), [gd](https://docs.google.com/presentation/d/1Hor0RqZTZEV-77gdwZPgCpz8MlX4ZmsIwSyGcCDi3Ks/edit?usp=sharing)\)
-
 ## The fundamental concepts of programming
 
 This part of the course is an attempt to distil the **absolute minimum understanding** needed for someone from a humanities background to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.

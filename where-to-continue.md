@@ -15,7 +15,6 @@ Here I'll gather some relevant links to further resources. I think these are goo
 * On data:
   * [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) \(simple introduction to different kinds of data in the digital humanities\)
 * On visualizations:
-  * [What is Visualization Really for?](http://arxiv.org/pdf/1305.5670.pdf) \(different uses for visualization: gaining new insight vs communicating said insight to others\)
   * [Perception deception](https://infoactive.co/data-design/ch17.html) \(how visualizations lie if you are not careful\)
   * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/index.html) \(a good introductory book on choosing suitable visualizations for highlighting different aspects in data, and avoiding pitfalls in tuning them\)
 * On statistics:
