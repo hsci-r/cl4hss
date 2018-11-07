@@ -41,5 +41,8 @@ In practice, crafting regular expressions is an iterative process, where you exp
    * [^\[A-Z\]\[a-z\]+](https://regex101.com/r/EMKcIE/1)
 {% endhint %}
 
+### Resources
 
+* [Regular expressions 101](https://regex101.com/), an environment for experimenting with regular expressions
+* [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html) reference
 

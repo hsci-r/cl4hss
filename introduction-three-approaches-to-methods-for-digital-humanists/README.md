@@ -34,9 +34,15 @@ On this course, the focus is on **applying modern data processing to complex soc
 
 What both of these definitions of digital humanities describe is by no means a new thing. In truth, they're just the rebranding of a much older tradition of [humanities computing](which-of-the-digital-humanities.md). 
 
-Now, given the above definition, what does it mean in practice? What should one learn, and on the other side of the coin, how should the content be taught?
+Now, given the above definition, what does it mean in practice? What is the best background for people engaging in such work? What should one learn, and on the other side of the coin, how should the content be taught?
 
-## Interdisciplinary computational humanities
+### Digital humanities as the programming humanist
+
+> "Do you have to know how to code? I’m a tenured professor of digital humanities and I say “yes.” So if you come to my program, you’re going to have to learn to do that eventually."
+>
+>  — Stephen Ramsay: "Who’s in and who’s out.". Defining digital humanities. Routledge, 2016. 255-258.
+
+### Interdisciplinary computational humanities
 
 > "At Humanities + Design our mission is to **produce**, through the lens of humanistic inquiry, **new modes of thinking in design and computer science** to **serve data-driven research in the humanities**. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." \(highlights added\)
 >
