@@ -41,8 +41,16 @@ In practice, crafting regular expressions is an iterative process, where you exp
    * [^\[A-Z\]\[a-z\]+](https://regex101.com/r/EMKcIE/1)
 {% endhint %}
 
+### Further examples
+
+* Removing all punctuation, multiple spaces etc, and replacing them with a single space: `s/\W+/ /g`
+* Finding names \(some basic named-entity recognition or NER\): `[A-ZÅÄÖ][^ ]* [A-ZÅÄÖ][^ ]*`
+* Matching different ways of spelling the word cannot in a varied historical corpus: `[kc]an.?no.?t.`
+
 ### Resources
 
 * [Regular expressions 101](https://regex101.com/), an environment for experimenting with regular expressions
 * [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html) reference
+
+
 
