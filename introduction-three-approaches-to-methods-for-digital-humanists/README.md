@@ -32,7 +32,7 @@ On this course, the focus is on **applying modern data processing to complex soc
 >
 >  _— Center for Computing in the Humanities. "Introduction to the Digital Humanities". King's College London._ 13 January 2006 \([in context](https://hyp.is/A3betthREeiK4hfqTp5pCg/web.archive.org/web/20060114101653/http://www.kcl.ac.uk:80/schools/humanities/cch/digihum)\)
 
-What both of these definitions of digital humanities describe is by no means a new thing. In truth, they're just the rebranding of a much older tradition of [humanities computing](which-of-the-digital-humanities.md). 
+What both of these definitions of digital humanities describe is by no means a new thing. In truth, they're just the rebranding of a much older tradition of [humanities computing](history-of-humanities-computing.md). 
 
 Now, given the above definition, what does it mean in practice? What is the best background for people engaging in such work? What should one learn, and on the other side of the coin, how should the content be taught?
 

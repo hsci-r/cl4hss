@@ -35,14 +35,26 @@ Read your first DH research article on [approaches to visualising relationships 
 {% hint style="info" %}
 **Assignment: data exploration tools**
 
-Experiment with at least one of the following tools described in the slides. Post a message on Slack about your experience with the tool you chose.
+Experiment with at least one of the following tools:
 
-* [RAW](http://rawgraphs.io/)
-* [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)
-* [Voyant](https://voyant-tools.org/)
-* [Carto](https://carto.com/)
-* [Tableau](https://www.tableau.com/)
-* [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)
+* tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
+* tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
+* tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
+* tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+* tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
+* ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+* ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
+* If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
+
+If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio.
+
+Afterwards, post a message on [\#tools](https://slack.com/app_redirect?channel=tools&team=T276JCMEU) on Slack detailing:
+
+1. What is the tool good for?
+2. What kind of data do you need for the tool to be useful? 
+   1. What information does the data need to contain?
+   2. What format does it have to be in?
+3. Your experience with the tool.
 {% endhint %}
 
 ## Resources

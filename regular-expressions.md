@@ -1,4 +1,4 @@
-# Regular expressions
+# Data processing: regular expressions
 
 Regular expressions are not programming per se, but instead a versatile grammar for specifying text matching patterns. As such, they are useful for finding complex things in unstructured text, be that for close reading or for extracting those things into structured datasets.
 

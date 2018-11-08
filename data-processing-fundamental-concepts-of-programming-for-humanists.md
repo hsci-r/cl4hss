@@ -32,9 +32,15 @@ The fundamentals on this course leave out things very important to programming i
 **Assignment**
 
 1. Work through the [python\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_intro.ipynb) and [r\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=r_intro.ipynb) notebooks
-2. Compare the previous notebooks with [scala\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=scala_intro.ipynb)
+2. Compare the previous notebooks with [scala\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=scala_intro.ipynb). There are **three** large conceptual level differences in the design of Scala in comparison to R and Python. Which are they? Post answers as private messages to Eetu on Slack.
 3. Go through the exercise in [korp.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=korp.ipynb)
-4. Figure out what exactly [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
+4. Select a library of relevance to computational humanities \(e.g. [Pandas](http://pandas.pydata.org/), [Tidyverse](https://www.tidyverse.org/packages/), [Mallet](http://mallet.cs.umass.edu/), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/README.html), [Matplotlib](http://matplotlib.org/), [Requests](http://docs.python-requests.org/en/latest/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [plotly](https://plot.ly/)\). Find answers to the following questions about it, and post them as private messages to Eetu on Slack:
+   1. What does the library do? For what tasks would it be useful?
+   2. What type of data does the library take in?
+      1. What information does the input data need to contain?
+      2. What concrete format and structure does the input data need to conform to?
+      3. What is the format and structure of the output?
+5. Figure out what exactly [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
 {% endhint %}
 
 
