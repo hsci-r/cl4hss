@@ -38,7 +38,8 @@
           2. What format does it have to be in?
        3. Your experience with the tool.
 
-       \(also be prepared to discuss this in class\)
+       If someone has already posted on the tool you tested, don't repeat them. Instead, add to what they've said in a thread.  
+       \(also be prepared to discuss the tools in class\)
 
     3. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
     4. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there.
