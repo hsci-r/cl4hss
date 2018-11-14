@@ -1,8 +1,6 @@
 # Three approaches to methods for digital humanists
 
-{% hint style="danger" %}
-This content is not yet complete. In the meantime, see this presentation: [Introduction: three approaches to methods for digital humanists](https://docs.google.com/presentation/d/e/2PACX-1vR9Gl7lS7mWlKzpJvWV1-OVTmpzUdP_F84PTZnSf435dfIEanUwhAeRmmKn9rmqMXXu8LzcZ0vH5U-X/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/export/pdf), [gd](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/edit)\)
-{% endhint %}
+On this course, the following three approaches to methods will be covered:
 
 ## Three approaches to methods for digital humanities - what to learn if you're a humanist?
 
@@ -107,4 +105,8 @@ Similarly, instead of focusing on particular workflows for particular types of d
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 * Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
 * Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
+
+## Further material
+
+* Presentation slides for this part: [Introduction: three approaches to methods for digital humanists](https://docs.google.com/presentation/d/e/2PACX-1vR9Gl7lS7mWlKzpJvWV1-OVTmpzUdP_F84PTZnSf435dfIEanUwhAeRmmKn9rmqMXXu8LzcZ0vH5U-X/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/export/pdf), [gd](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/edit)\)
 
