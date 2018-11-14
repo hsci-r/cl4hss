@@ -44,3 +44,13 @@ This course is meant for both independent self-study \(reading up on only certai
 * The course has a Slack workspace at [meth4dh.slack.com](http://meth4dh.slack.com/) used for both returning some assignments as well as peer and teacher support. Please join it, starting by entering your email [here](https://communityinviter.com/apps/meth4dh/meth4dh).
 * For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\). You also naturally need access to the sources \(most commonly through accessing them from a university network / VPN\).
 
+## Licensing
+
+The text of this course is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means that you are free to use, embed, remix and further develop any part of this course for use in your own course or other material. The only requirement is that you give appropriate credit for this material, provide a link to the license, and indicate if changes were made \(see the [license](https://creativecommons.org/licenses/by/4.0/) for more details\). 
+
+If you do make use of this material, I'd naturally also appreciate a ping, as well as the possibility to merge any improvements to this version, even if neither of those is actually required by the license.
+
+For access to the source code of this GitBook, please see [this](https://github.com/jiemakel/METH4DH) GitHub repository.
+
+![](.gitbook/assets/image%20%282%29.png)
+
