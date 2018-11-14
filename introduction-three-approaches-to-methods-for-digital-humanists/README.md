@@ -12,6 +12,8 @@ This content is not yet complete. In the meantime, see this presentation: [Intro
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
 3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../computational-data-analysis-method-literacy/)
+   * To understand what is possible
+   * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
 
 In the following, these viewpoints will be put into both their disciplinary as well as pedagogical context, and oriented with regard to each other.
@@ -36,29 +38,31 @@ What both of these definitions of digital humanities describe is by no means a n
 
 Now, given the above definition, what does it mean in practice? What is the best background for people engaging in such work? What should one learn, and on the other side of the coin, how should the content be taught?
 
-### Digital humanities as the programming humanist
+## Interdisciplinary computational humanities
 
-> "Do you have to know how to code? I’m a tenured professor of digital humanities and I say “yes.” So if you come to my program, you’re going to have to learn to do that eventually."
->
->  — Stephen Ramsay: "Who’s in and who’s out.". Defining digital humanities. Routledge, 2016. 255-258.
+In our opinion, computational studies in the humanities are currently best done in interdisciplinary collaboration. The reason for this is that contrary to more established statistical social science or clinical research, there are no generally applicable codebooks or protocols on how to reliably conduct even the most common types of computational humanities research in a trustworthy manner. The underlaying cause of this is the complexity of all of 1\) phenomena, 2\) datasets as well as 3\) questions of interest to the humanities. Because these complexities are also often specific to individual datasets and questions, each application of computation must spend significant time and understanding mapping them to the equally complex requirements, considerations and limitations of modern computational and statistical algorithms.
 
-### Interdisciplinary computational humanities
+Due to this complexity, at present,  it is very difficult for a humanities scholar alone to apply the complex methods in a trustworthy manner \(for cases in point, see the many applications of topic modelling to humanities questions which do not understand the method and its limitations enough to be comfortable in actually drawing strong results from the output\). At the same time, this complexity means that neither can computer scientists, statisticians or physicists solve the humanities questions alone, even if they understand the algorithms \(for cases in point, see e.g [The Parable of Google Flu: Traps in Big Data Analysis](https://doi.org/10.1126/science.1248506), [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034) or [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)\). 
 
-> "At Humanities + Design our mission is to **produce**, through the lens of humanistic inquiry, **new modes of thinking in design and computer science** to **serve data-driven research in the humanities**. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." \(highlights added\)
->
-> — Mission statement of the [Humanities + Design research laboratory](http://hdlab.stanford.edu/) at Stanford \([in context](https://hyp.is/Rcp0YuGdEeiZ2N_X5uBWGQ/hdlab.stanford.edu/)\)
+What is needed then is true interdisciplinary collaboration where statisticians, computer scientists and scholars in the social sciences and the humanities all work together to develop, test and apply the methodology to solve complex human questions. 
 
-
+![Interdisciplinary computational humanities and the niche for humanists/social scientists](../.gitbook/assets/dh.svg)
 
 > "Deep and significant progress in social science, in other words, will require not only new data and methods but also new institutions that are designed from the ground up to foster **long-term, large-scale, multidisciplinary, multimethod, problem-oriented social science research**. To succeed, such an institution will require substantial investment, on a par with existing institutes for mind, brain, and behavior, genomics, or cancer, as well as the active cooperation of industry and government partners." \(highlights added\)
 >
 > — [Duncan J. Watts \(Microsoft Research\): Computational Social Science: Exciting Progress and Future Directions. The Bridge on Frontiers of Engineering, Volume 43, Issue 4](https://www.nae.edu/Publications/Bridge/106112/106118.aspx) \([in context](https://hyp.is/jOe_SOGeEeiJrx-GonPsUw/www.nae.edu/Publications/Bridge/106112/106118.aspx)\)
 
+At its best, such collaboration also has something unique to offer each of these groups _inside_ their own field of study: scholars in the humanities/social sciences are able to tackle questions too labour-intensive for manual study, computer scientists encounter new and challenging use cases for their tools and algorithms, and even the institutions providing the data gain valuable insight into, and feedback on their collections and the way they present them.
 
+![Benefits for different actors in a computational humanities collaboration](../.gitbook/assets/dhc.svg)
 
-## What should be taught in computational humanities, and how?
+> "At Humanities + Design our mission is to **produce**, through the lens of humanistic inquiry, **new modes of thinking in design and computer science** to **serve data-driven research in the humanities**. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." \(highlights added\)
+>
+> — Mission statement of the [Humanities + Design research laboratory](http://hdlab.stanford.edu/) at Stanford \([in context](https://hyp.is/Rcp0YuGdEeiZ2N_X5uBWGQ/hdlab.stanford.edu/)\)
 
-This is also not a new question. Surveys canvasing computing courses aimed at people in the humanities were reported on in the "Computers and the Humanities" journal in [1971](https://doi.org/10.1007/BF02402323), [1972](http://doi.org/10.1007/BF02403762), [1974](https://doi.org/10.1007/BF02400288), [1978](http://doi.org/10.1007/BF02400087) and in a special issue wholly focusing on "teaching Computing to Humanists" in [1987](http://doi.org/10.1007/BF00517812). But more interestingly, in the same special issue, the article ["Computers and the Humanities Courses: Philosophical Based and Approach"](https://doi.org/10.1007/BF00517809) already lays out many of the principles guiding also this present course. Summarising discussions held at a workshop the previous year, the article states:
+## What should be taught to humanities students about computational humanities, and how?
+
+Given the above rationalisation of true computational humanities needing to be done in interdisciplinary collaboration, what then should a student coming from the humanities learn? This is also not a new question. Surveys canvasing computing courses aimed at people in the humanities were reported on in the "Computers and the Humanities" journal in [1971](https://doi.org/10.1007/BF02402323), [1972](http://doi.org/10.1007/BF02403762), [1974](https://doi.org/10.1007/BF02400288), [1978](http://doi.org/10.1007/BF02400087) and in a special issue wholly focusing on "teaching Computing to Humanists" in [1987](http://doi.org/10.1007/BF00517812). But more interestingly, in the same special issue, the article ["Computers and the Humanities Courses: Philosophical Based and Approach"](https://doi.org/10.1007/BF00517809) already lays out many of the principles guiding also this present course. Summarising discussions held at a workshop the previous year, the article states:
 
 > The Vassar Workshop generated considerable debate on questions such as whether humanities students need to learn programming, whether to teach programming before or after introductory packaged programs, and the depth of knowledge required in related areas such as statistics. The arguments reflected two distinct philosophies concerning the goals of training humanities students in computing.
 >
@@ -78,17 +82,29 @@ The second, "Expert Users View" is described thusly:
 >
 > — Nancy M. Ide: Computers and the humanities courses: Philosophical bases and approach, Computers and the Humanities, December 1987, Volume 21, Issue 4, page 211
 
-Like those present at Vassar in 1986 \(_"Admittedly, most panelists and participants at the Vassar Workshop did not espouse either extreme opinion outlined above"_\), this course also makes use of both viewpoints as follows:
+Like those present at Vassar in 1986 \(_"Admittedly, most panelists and participants at the Vassar Workshop did not espouse either extreme opinion outlined above"_\), this course also makes use of both viewpoints. Let us return to the three approaches mentioned at the beginning:
 
-In examining these viewpoints, the course moves gradually from a user perspective onto a more conceptual level. Yet in total, it must be said that the holistic view is on this course much more important, and thus also tools are taught more on a signposting level, more in the pursuit of charting a common landscape than providing deep education in any particular task. 
+## Three approaches to methods for digital humanities - what to learn if you're a humanist?
 
-Similarly, instead of focusing on particular workflows for particular types of data, examples are taken from as different fields of the humanities and as different types of data and questions as possible. Through this, it is argued that a deeper understanding of the possibilities afforded by computation can be attained.
+1. [Knowledge of easy to use end-user data processing and visualisation tools](../easy-tools-for-processing-and-exploring-data.md)
+   * Easy to use for their intended purpose, but limited
+2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
+   * Frees you to process your data more efficiently
+   * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
+3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../computational-data-analysis-method-literacy/)
+   * To understand what is possible
+   * To be able to read research in computational humanities
+   * To be able to communicate in collaborative projects
+
+Of these, approaches one and two are things that you can do and master yourself. In learning them, you gain new immediate capabilities to do your research more efficiently. The third approach on the other hand is aimed purely toward understanding of what is possible in the field of computational humanities as a whole, as well as to gain enough understanding of the advanced methods to be able to read research articles using them, or to converse with the experts who develop them.
+
+At the same time, even when going through individual tools and the fundaments of programming, this course teaches them more on a signposting level, more in the pursuit of charting a common landscape and general understanding than to provide deep instructions in any particular task. More so, it is left to the user to figure out which tools are of interest to them, and to then individually pursue further knowledge of how to become proficient in them.
+
+Similarly, instead of focusing on particular workflows for particular types of data, examples on the course are taken from as different fields of the humanities and as different types of data and questions as possible. Through this, it is argued that a deeper understanding of the possibilities afforded by computation can be attained.
 
 ## Assignments
 
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 * Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
-* Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1). Be ready to discuss in groups on the next lecture.
-
-
+* Read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
 

@@ -4,13 +4,19 @@
 This content is not yet complete. In the meantime, see this presentation: [Easy tools for processing and exploring data](https://docs.google.com/presentation/d/e/2PACX-1vQ0GNUtEwkYQ4NyRki6SohJ2DLS0wt4MKF3cVzuU7UlLq9yUij5Qd2ZgFltEb8KcPp7aYOXrSLFMdYa/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/export/pdf), [gd](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/edit?usp=sharing)\)
 {% endhint %}
 
+## Data processing
 
+{% hint style="info" %}
+**Assignment: data processing tools**
 
-## Data visualisation
+* Complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine)
+{% endhint %}
+
+## Data exploration
+
+### Visualisation
 
 Visualisation is the act of taking data and transforming it into visual shapes and forms. The reasoning behind this is that humans are very good at processing visual information, with a lot of the necessary shape and anomaly detection and comparison processes even happening subconsciously.
-
-
 
 Most visualisation is explanatory. 
 
@@ -18,18 +24,6 @@ Most visualisation is explanatory.
 **Assignment**
 
 Read [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html). The articles are primarily oriented around explanatory data visualisation, but most computational humanities data analysis is exploratory. How do the problems transfer into that domain, when the only one you can deceive is yourself?
-{% endhint %}
-
-{% hint style="info" %}
-**Assignment**
-
-Read your first DH research article on [approaches to visualising relationships between different versions of texts](https://doi.org/10.1093/llc/fqx033).
-{% endhint %}
-
-{% hint style="info" %}
-**Assignment: data processing tools**
-
-* Complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 {% endhint %}
 
 {% hint style="info" %}
@@ -55,6 +49,19 @@ Afterwards, post a message on [\#tools](https://slack.com/app_redirect?channel=t
    1. What information does the data need to contain?
    2. What format does it have to be in?
 3. Your experience with the tool.
+{% endhint %}
+
+
+
+{% hint style="info" %}
+**Assignment: visualisation tool development**
+
+Read the following two research articles on developing visualisation tools for particular text-based humanities research questions:
+
+* [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
+* [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
+
+Now, think of a visualisation that would help you in your field. What information would it visualise? Post a message on [\#tools](https://slack.com/app_redirect?channel=tools&team=T276JCMEU) on Slack 
 {% endhint %}
 
 ## Resources
