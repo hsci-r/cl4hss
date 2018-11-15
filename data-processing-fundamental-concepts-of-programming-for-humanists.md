@@ -43,5 +43,16 @@ The fundamentals on this course leave out things very important to programming i
 5. Figure out what exactly [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
 {% endhint %}
 
+## Further resources
+
+* [R short and sweet](https://www.datacamp.com/courses/r-short-and-sweet) at DataCamp \(a part of the [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki\)
+* [The Historian’s Macroscope](http://www.themacroscope.org/?page_id=584), a good general purpose book
+* [Computational and Inferential Thinking - The Foundations of Data Science](https://www.inferentialthinking.com/), an excellent introduction to statistical  analysis with interactive Python notebooks
+* [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/), the best introduction to programming for humanists that I could find
+* [The Programming Historian](http://programminghistorian.org/), lessons and tutorials for doing various DH things
+* [Eloquent Javascript](http://eloquentjavascript.net/), a nicely built general, interactive introduction to programming
+
+
+
 
 
