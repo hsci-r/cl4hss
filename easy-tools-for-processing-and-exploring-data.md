@@ -12,6 +12,10 @@ This content is not yet complete. In the meantime, see this presentation: [Easy 
 * Complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine)
 {% endhint %}
 
+#### Further resources
+
+* [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/) Data Carpentry tutorial, not really for social science but for general cleaning up of data
+* 
 ## Data exploration
 
 ### Visualisation

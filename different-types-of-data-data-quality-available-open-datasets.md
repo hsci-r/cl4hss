@@ -57,3 +57,7 @@ Potential datasets/APIs are for example:
 
 ## Data access
 
+### Further resources
+
+* [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) \(not really anything social science specific\)
+

@@ -28,6 +28,8 @@ Other notebooks of interest include [shakespeare.ipynb](https://mybinder.org/v2/
 
 The fundamentals on this course leave out things very important to programming in general. The most important of these is how to design and organise code into conceptually clear, modular and reusable units such as classes, packages and libraries. The reason this is left out is that while they are of the utmost importance when designing large, long-lived, multipurpose code, such considerations are of much lesser import for the kind of one-off glue code that a data scientist of digital humanities scholar usually needs. You will also passively learn proper organisation practices by reading the documentation of quality libraries, and by going through other peoples code.
 
+Similarly, as already discussed, this course uses Jupyter notebooks for writing and running code. In contrast, "proper software" is usually developed in dedicated editors \(IDEs = [Integrated Development Environments](https://en.wikipedia.org/wiki/Integrated_development_environment)\), which provide robust local support for writing, testing and packaging software. In addition, this introduction doesn't cover any of automated testing, code review, continuous integration, or version management, which are all important concepts in software development in general \(however, to version management we will return later in the chapter on [open, reproducible research and publishing](open-reproducible-research-and-publishing.md)\).
+
 {% hint style="info" %}
 **Assignment**
 
@@ -45,10 +47,14 @@ The fundamentals on this course leave out things very important to programming i
 
 ## Further resources
 
-* [R short and sweet](https://www.datacamp.com/courses/r-short-and-sweet) at DataCamp \(a part of the [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki\)
 * [The Historian’s Macroscope](http://www.themacroscope.org/?page_id=584), a good general purpose book
 * [Computational and Inferential Thinking - The Foundations of Data Science](https://www.inferentialthinking.com/), an excellent introduction to statistical  analysis with interactive Python notebooks
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/), the best introduction to programming for humanists that I could find
+* [R short and sweet](https://www.datacamp.com/courses/r-short-and-sweet) at DataCamp \(a part of the [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki\)
+* [R for Social Scientists](https://datacarpentry.org/r-socialsci/), an R tutorial, not really anything specific to social science
+  * Especially the following are good parts:
+    * [Tidy data manipulation](https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/)
+    * [Data visualisation with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/index.html)
 * [The Programming Historian](http://programminghistorian.org/), lessons and tutorials for doing various DH things
 * [Eloquent Javascript](http://eloquentjavascript.net/), a nicely built general, interactive introduction to programming
 
