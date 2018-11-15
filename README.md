@@ -8,7 +8,7 @@ This content is not yet complete. It is being updated and finalised as the [fall
 
 ## Target audience
 
-People of all levels in the humanities interested in digital methods. 
+People of all levels in the humanities interested in computational methods. 
 
 **Prerequisites:** Absolutely none.
 
