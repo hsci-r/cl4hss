@@ -59,5 +59,6 @@ Potential datasets/APIs are for example:
 
 ### Further resources
 
-* [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) \(not really anything social science specific\)
+* [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) \(not really anything social science specific\) / [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/) \(nothing library specific either\)
+* [Introduction to web scraping](https://librarycarpentry.org/lc-webscraping/) \(quite advanced, but contains a section on a user interface tool as well\)
 

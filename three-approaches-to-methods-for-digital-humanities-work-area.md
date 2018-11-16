@@ -1,5 +1,12 @@
 # Holding area for unfinished content
 
+Data: pictures, artifacts, movies, music, texts, humans, spoken language, archaeological sites, ... -&gt; digital surrogates
+
+History of corpus linguistics:
+
+> while language theory became increasingly interested in language as a universal phenomenon, other linguists had become more and more dissatisfied with the descriptions they found for the various languages they dealt with.  
+>  - Halliday, M.A.K., et al. Lexicology and Corpus Linguistics, Bloomsbury Publishing, 2004. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/helsinki-ebooks/detail.action?docID=436001.
+
 {% hint style="danger" %}
 This is just a holding area for unfinished content while I work on the chapters. It is not meant to make sense to any outside reader.
 {% endhint %}

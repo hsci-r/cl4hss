@@ -8,9 +8,16 @@ This content is not yet complete. It is being updated and finalised as the [fall
 
 ## Target audience
 
-People of all levels in the humanities interested in computational methods. 
+People of all levels in the humanities interested in whether computational methods might help them in their own work. 
 
 **Prerequisites:** Absolutely none.
+
+**Aside:** Why should you  be interested in computational methods? Two reasons:
+
+1. they may allow you yourself to do your work more efficiently, and
+2. they may lead to completely new and powerful ways of addressing questions in your field
+
+The probability of either of these happening very much depends on what you are interested in, but not in any way that can be shortly enumerated. Instead, that is what this course aims at enabling you to discover yourself. 
 
 ## Course concept and learning goals
 
@@ -18,7 +25,12 @@ This course is an introductory signposting course on **applying modern data proc
 
 As a signposting course, the course provides students with the knowledge they need to choose their own focus within computational humanities, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 
-After this course the student understands the multiple ways in which methods benefit work within the computational humanities. She herself is able to use [ready tools](easy-tools-for-processing-and-exploring-data.md) to work with data. In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose. She also learns how [open, reproducible research and publishing](open-reproducible-research-and-publishing.md) is done in practice. Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational humanities, and when to apply them. Finally, she learns to apply all of the above in practice in a [small concrete computational humanities project](final-project.md).
+After this course the student understands the multiple ways in which methods benefit work within the computational humanities. She herself is able to use [ready tools](easy-tools-for-processing-and-exploring-data.md) to work with data. In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose. She also learns how [open, reproducible research and publishing](open-reproducible-research-and-publishing.md) is done in practice. Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational humanities, and when to apply them. Finally, she learns to apply all of the above in practice in a [small concrete computational humanities project](final-project.md). 
+
+Yet most importantly, after this course and utilising all of the above, the student is able to: 
+
+1. make informed decisions on which computational approaches will be of use to herself, and
+2. understand and follow the development of computational approaches within her field in general.
 
 ## Format
 
