@@ -46,7 +46,7 @@ Experiment with at least one of the following tools:
 * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
 * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
 * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
-  * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) on network analysis.
+  * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
 * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
 * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
 * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
