@@ -52,5 +52,7 @@ In practice, crafting regular expressions is an iterative process, where you exp
 * [Regular expressions 101](https://regex101.com/), an environment for experimenting with regular expressions
 * [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html) reference
 
+![Regular Expressions. Source: https://xkcd.com/208/, CC BY-NC 2.5 license.](.gitbook/assets/image%20%284%29.png)
+
 
 
