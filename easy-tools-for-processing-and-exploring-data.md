@@ -61,6 +61,8 @@ Afterwards, post a message on [\#tools](https://slack.com/app_redirect?channel=t
    1. What information does the data need to contain?
    2. What format does it have to be in?
 3. Your experience with the tool.
+
+If someone has already posted on the tool you tested, don't repeat them. Instead, add to what they've said in a thread.
 {% endhint %}
 
 

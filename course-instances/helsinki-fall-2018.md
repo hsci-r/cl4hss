@@ -76,9 +76,9 @@ provisional/referring to old materials after this
   * Assignment: find a computational humanities research paper that interests you
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
   * Reading assignment for next week: [Open Science: One Term, Five Schools of Thought](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036) - [better version](http://doi.org/10.1007/978-3-319-00026-8_2)
-* Friday 30.11. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md)
-* Wednesday 5.12. — [Final project](../final-project.md)
-* Friday 8.12. — [Final project](../final-project.md), part 2
+* Friday 30.11. — **No lecture**
+* Wednesday 5.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md)
+* Friday 8.12. — [Final project](../final-project.md)
 * Wednesday 12.12. — **No lecture**
 * Friday 14.12. — **No lecture**
 
