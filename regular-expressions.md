@@ -36,15 +36,15 @@ In practice, crafting regular expressions is an iterative process, where you exp
 
 1. Go through [this regex tutorial](https://regexone.com/)
 2. Create regexes to extract first names, last names, years, birth places etc from the bank matricle. To start with, here are some different attempts for matching the last names:
-   * [^\[^ \]+](https://regex101.com/r/LHc1xP/1)
-   * [^\w+](https://regex101.com/r/wwKHlt/1)
-   * [^\[A-Z\]\[a-z\]+](https://regex101.com/r/EMKcIE/1)
+   * [^\[^ \]+](https://regex101.com/r/LHc1xP/1) \(everything before a space at the start of the line\)
+   * [^\w+](https://regex101.com/r/wwKHlt/1) \(consecutive word characters at the start of the line \[but see below\]\)
+   * [^\p{Lu}\p{L}+](https://regex101.com/r/nAy4fr/1) \(One uppercase character followed by consecutive upper or lower case characters. Here, the `\p{Lu}` and `\p{L}` come from [Unicode character classes](https://www.regular-expressions.info/unicode.html). This is important, because historically, regular expressions were very Anglocentric. Therefore `\w` only matches the letters a-z, and not for example the Scandinavian characters åäö or symbols from completely different sets such as Hangul or Kanji. Using the Unicode character classes fixes all this.\)
 {% endhint %}
 
 ### Further examples
 
 * Removing all punctuation, multiple spaces etc, and replacing them with a single space: `s/\W+/ /g`
-* Finding names \(some basic named-entity recognition or NER\): `[A-ZÅÄÖ][^ ]* [A-ZÅÄÖ][^ ]*`
+* Finding full names \(some basic named-entity recognition or NER\): `\p{Lu}\p{L}* \p{Lu}\p{L}*`
 * Matching different ways of spelling the word cannot in a varied historical corpus: `[kc]an.?no.?t.`
 
 ### Resources
