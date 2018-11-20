@@ -47,6 +47,8 @@ In practice, crafting regular expressions is an iterative process, where you exp
 * Finding full names \(some basic named-entity recognition or NER\): `\p{Lu}\p{L}* \p{Lu}\p{L}*`
 * Matching different ways of spelling the word cannot in a varied historical corpus: `[kc]an.?no.?t.`
 
+One of the problems with regular expressions is that when you develop them iteratively, you invariably end up with [patterns that are indecipherable](https://blog.codinghorror.com/regex-use-vs-regex-abuse/) \(even to yourself later on\). Here's for example my best effort in crafting a single regular expression to capture both last as well as first names from the matricle: [`^*?(\p{Lu}\p{L}+)(?: (+?))?, (?:(+?) )?((?:\p{Lu}\p{L}+ ?)+)`](https://regex101.com/r/KUSHk2/1).
+
 ### Resources
 
 * [Regular expressions 101](https://regex101.com/), an environment for experimenting with regular expressions
