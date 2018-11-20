@@ -48,11 +48,6 @@
 * Friday 9.11. — **No lecture**
 * Wednesday 14.11. — Clinic for support in the assignments
 * Friday 16.11. — **No lecture**
-
-{% hint style="warning" %}
-provisional/referring to old materials after this
-{% endhint %}
-
 * Wednesday 21.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md)
   * Assignment: In preparation for next weeks lecture, select \(at least\) one of the following sets of paired articles based on your own interests: 
 
@@ -72,6 +67,11 @@ provisional/referring to old materials after this
     3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
     5. How do the two articles relate to each other? 
+
+{% hint style="warning" %}
+provisional/referring to old materials after this
+{% endhint %}
+
 * Friday 23.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
   * Assignment: find a computational humanities research paper that interests you
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
