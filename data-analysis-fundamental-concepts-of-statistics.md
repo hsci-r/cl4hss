@@ -13,5 +13,9 @@ This content is not yet complete. In the meantime, see this presentation: [Data 
 2. Check out the [Explained Visually](http://setosa.io/ev/) site
 3. [Exploring bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
 
+
+
+[How to use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)
+
 ## 
 
