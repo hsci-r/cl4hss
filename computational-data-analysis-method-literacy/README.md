@@ -21,13 +21,12 @@ This content is not yet complete. In the meantime, see these presentations:
 {% endhint %}
 
 * Assignments:
-  * [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
   * [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
   * [Visualizing K-means clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) \([2](http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html)\)
   * Read on some small, actual work:
-    * The [presentation](http://dayofdh2015.uned.es/fnewspapers/wp-content/uploads/sites/129/2015/05/Key-concepts-of-Socialism-Friday.pdf) of the DHH15 key concepts of socialism group
+    * The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
     * The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
-    * If you understand Finnish, the [election questionnaire analysis and visualization](https://users.aalto.fi/~leinona1/vaalit2015/)
+    * If you understand Finnish, the [election questionnaire analysis and visualization](https://jiemakel.github.io/vaalikonedatavisu/)
 
 
 

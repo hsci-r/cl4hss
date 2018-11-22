@@ -64,15 +64,19 @@
     3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
     5. How do the two articles relate to each other? 
+* Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
+  * Assignments:
+    1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
+    2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
+    3. Read on some small, actual work:
+       1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
+       2. The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
+       3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
 
 {% hint style="warning" %}
 provisional/referring to old materials after this
 {% endhint %}
 
-* Friday 23.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
-  * Assignments:
-    * Check out the [Explained Visually](http://setosa.io/ev/) site
-    * [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
   * Assignments: 
     1. For 5.12.: Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 

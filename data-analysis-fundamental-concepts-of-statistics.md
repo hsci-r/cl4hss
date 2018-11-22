@@ -10,12 +10,8 @@ This content is not yet complete. In the meantime, see this presentation: [Data 
 
 1. Reading assignment: [The civilizing process in London’s Old Bailey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084475/pdf/pnas.201405984.pdf)
    * Try to answer the questions given under the "Reading material" heading
-2. Check out the [Explained Visually](http://setosa.io/ev/) site
-3. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
-
-
-
-[How to use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)
+2. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
+3. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
 
 ## 
 
