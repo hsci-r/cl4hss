@@ -72,7 +72,7 @@
        1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
        2. The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
        3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
-    4. Read the [explanation](https://jiemakel.gitbook.io/meth4dh/computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling) on topic modelling
+    4. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 
 {% hint style="warning" %}
 provisional/referring to old materials after this
