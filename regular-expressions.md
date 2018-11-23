@@ -36,9 +36,16 @@ In practice, crafting regular expressions is an iterative process, where you exp
 
 1. Go through [this regex tutorial](https://regexone.com/)
 2. Create regexes to extract first names, last names, years, birth places etc from the bank matricle. To start with, here are some different attempts for matching the last names:
+
    * [^\[^ \]+](https://regex101.com/r/LHc1xP/1) \(everything before a space at the start of the line\)
    * [^\w+](https://regex101.com/r/wwKHlt/1) \(consecutive word characters at the start of the line \[but see below\]\)
-   * [^\p{Lu}\p{L}+](https://regex101.com/r/nAy4fr/1) \(One uppercase character followed by consecutive upper or lower case characters. Here, the `\p{Lu}` and `\p{L}` come from [Unicode character classes](https://www.regular-expressions.info/unicode.html). This is important, because historically, regular expressions were very Anglocentric. Therefore `\w` only matches the letters a-z, and not for example the Scandinavian characters åäö or symbols from completely different sets such as Hangul or Kanji. Using the Unicode character classes fixes all this.\)
+   * [^\p{Lu}\p{L}+](https://regex101.com/r/nAy4fr/1) \(One uppercase character followed by consecutive upper or lower case characters. Here, the `\p{Lu}` and `\p{L}` come from [Unicode character classes](https://www.regular-expressions.info/unicode.html). This is important, because historically, regular expressions were very Anglocentric. Therefore `\w` only matches the letters a-z, and not for example ümläüts, áccênts, or symbols from completely different sets such as Hangul or Kanji. Using the Unicode character classes fixes all this.\)
+
+   Note that it is often easier to:
+
+   1. craft separate patterns for the different elements instead of trying to match them using a single expression
+   2. even for matching a single element such as birth place, to have multiple overlapping patterns to catch the variants you want instead of trying to cram all the variation in a single pattern, and
+   3. match more than you actually want and then extract from that using [capturing groups](https://regexone.com/lesson/capturing_groups), instead of trying to craft a pattern capturing just the element \(which often anyway requires fooling around with non capturing [lookarounds](https://www.regular-expressions.info/lookaround.html)\).
 {% endhint %}
 
 ### Further examples
@@ -47,7 +54,7 @@ In practice, crafting regular expressions is an iterative process, where you exp
 * Finding full names \(some basic named-entity recognition or NER\): `\p{Lu}\p{L}* \p{Lu}\p{L}*`
 * Matching different ways of spelling the word cannot in a varied historical corpus: `[kc]an.?no.?t.`
 
-One of the problems with regular expressions is that when you develop them iteratively, you invariably end up with [patterns that are indecipherable](https://blog.codinghorror.com/regex-use-vs-regex-abuse/) \(even to yourself later on\). Here's for example my best effort in crafting a single regular expression to capture both last as well as first names from the matricle: [`^*?(\p{Lu}\p{L}+)(?: (+?))?, (?:(+?) )?((?:\p{Lu}\p{L}+ ?)+)`](https://regex101.com/r/KUSHk2/1).
+One of the problems with regular expressions is that when you develop them iteratively, you invariably end up with [patterns that are indecipherable](https://blog.codinghorror.com/regex-use-vs-regex-abuse/) \(even to yourself later on\). Here's for example my best effort in crafting a single regular expression to capture both last as well as first names from the matricle: [`^*?(\p{Lu}\p{L}+)(?: (+?))?, (?:(+?) )?((?:\p{Lu}\p{L}+ ?)+)`](https://regex101.com/r/KUSHk2/1) \(which again speaks to the fact that you really shouldn't try to capture too much in a single expression, as the same information could be extracted using multiple much smaller and thus more understandable patterns\).
 
 ### Resources
 
