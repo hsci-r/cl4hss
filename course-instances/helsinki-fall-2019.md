@@ -1,18 +1,22 @@
-# Helsinki fall 2018
+# Helsinki fall 2019
 
-## Timetable for fall 2018
+## Draft timetable for fall 2019
 
-* Wednesday 31.10. — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
+{% hint style="warning" %}
+provisional
+{% endhint %}
+
+* [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
   * Assignments: 
     1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
     2. Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course Slack to introduce yourself and to describe why you chose those that project.
     3. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
-* Friday 2.11. — [Different types of data, data quality, available open datasets](https://docs.google.com/presentation/d/e/2PACX-1vQBZw3s36wdPtPf3gTcz-PW5eRND-59TIrmZki67lR341ycKuQcO1TjvB0Vn6wYJsNySN8QOSzuEDyq/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/export/pdf), [gd](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/edit?usp=sharing)\)
+* [Different types of data, data quality, available open datasets](https://docs.google.com/presentation/d/e/2PACX-1vQBZw3s36wdPtPf3gTcz-PW5eRND-59TIrmZki67lR341ycKuQcO1TjvB0Vn6wYJsNySN8QOSzuEDyq/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/export/pdf), [gd](https://docs.google.com/presentation/d/1_DI2ynbeQMigaQYbSryGUsTLGH-TKLF0dpzfs3_39Sk/edit?usp=sharing)\)
   * Assignments:
     1. Find a dataset that could be of interest to you in your final project. Post a message on [\#datasets](https://slack.com/app_redirect?channel=datasets&team=T276JCMEU) on Slack giving a link to the dataset and a note on why you selected it.
     2. Read [Perception deception](https://infoactive.co/data-design/ch17.html) & [Common visualization mistakes](https://infoactive.co/data-design/ch18.html) as preparation for next week, learning to not trust visualisations blind.
-* Wednesday 7.11. — [Easy tools for processing and exploring data](https://docs.google.com/presentation/d/e/2PACX-1vQ0GNUtEwkYQ4NyRki6SohJ2DLS0wt4MKF3cVzuU7UlLq9yUij5Qd2ZgFltEb8KcPp7aYOXrSLFMdYa/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/export/pdf), [gd](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/edit?usp=sharing)\)
-  * Assignments \(two full weeks to do these, need to be done only by 21.11.\):
+* [Easy tools for processing and exploring data](https://docs.google.com/presentation/d/e/2PACX-1vQ0GNUtEwkYQ4NyRki6SohJ2DLS0wt4MKF3cVzuU7UlLq9yUij5Qd2ZgFltEb8KcPp7aYOXrSLFMdYa/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/export/pdf), [gd](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/edit?usp=sharing)\)
+  * Assignments \(two full weeks to do these:
     1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
     2. Visualisation: Experiment with at least one of the following tools:
 
@@ -42,10 +46,12 @@
     3. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
     4. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there.
     5. In preparation for the lecture on 21.11., read [this research article](https://doi.org/10.1073/pnas.1405984111).
-* Friday 9.11. — **No lecture**
-* Wednesday 14.11. — Clinic for support in the assignments
-* Friday 16.11. — **No lecture**
-* Wednesday 21.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) 
+* Clinic for support in the assignments
+* [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) 
+  * Read on some small, actual work:
+    1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
+    2. The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
+    3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
   * Assignments: In preparation for next Wednesday's \(28.11.\) lecture, select \(at least\) one of the following sets of paired articles based on your own interests: 
 
     * language change, simulation: [Social networks and intraspeaker variation during periods of language change](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1041&context=pwpl) + [Utterance selection model of language change](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.73.046118). Also note that you can experiment yourself with the model described in the first paper [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Language%20Change.nlogo).
@@ -64,29 +70,20 @@
     3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
     5. How do the two articles relate to each other? 
-* Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
+* [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
   * Assignments:
     1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
     2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
-    3. Read on some small, actual work:
-       1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
-       2. The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
-       3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
-    4. Read the [explanation](https://jiemakel.gitbook.io/meth4dh/computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling) on topic modelling
+    3. Read the [explanation](https://jiemakel.gitbook.io/meth4dh/computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling) on topic modelling
+* [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
 
-{% hint style="warning" %}
-provisional/referring to old materials after this
-{% endhint %}
-
-* Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
   * Assignments: 
-    1. For 5.12.: Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 
-    2. For 8.12.: Prepare to shortly \(max 2 minutes\) present your current idea for your final project
-* Friday 30.11. — **No lecture**
-* Wednesday 5.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md)
-* Friday 8.12. — [Final project](../final-project.md)
-* Wednesday 12.12. — **No lecture**
-* Friday 14.12. — **No lecture**
+    1. Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 
+    2. Prepare to shortly \(max 2 minutes\) present your current idea for your final project
+  * [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md)
+  * [Final project](../final-project.md)\*\*\*\*
 
-**Deadline for returning final project: 21.12.**
+  \*\*\*\*
+
+  **Deadline for returning final project: ?.12.**
 
