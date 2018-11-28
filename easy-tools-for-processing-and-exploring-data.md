@@ -30,6 +30,7 @@ Most visualisation is explanatory.
 
 * [http://www.datajourneyman.com/2016/03/21/preattentive-processing.html](http://www.datajourneyman.com/2016/03/21/preattentive-processing.html) / [https://medium.com/@vidya83.kesavan/preattentive-attributes-in-visualization-an-example-cb05ba1c9371](https://medium.com/@vidya83.kesavan/preattentive-attributes-in-visualization-an-example-cb05ba1c9371)
 * Book: [Information visualization : perception for design](https://www.elsevier.com/books/information-visualization/ware/978-0-12-381464-7), particularly chapter 5 for pre-attentive processing and 6 for the gestalt laws.
+* [http://socviz.co/lookatdata.html](http://socviz.co/lookatdata.html) section 1.5
 
 {% hint style="info" %}
 **Assignment**
