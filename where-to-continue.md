@@ -26,7 +26,7 @@ Here I'll gather some relevant links to further resources. I think these are goo
   * [Statistics for the Humanities](http://www.statisticsforhumanities.net/book/wp-content/uploads/2014/07/StatisticsforHumanities%205Sept14.pdf) \(chapters 1-5 essential\)
   * [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki 
   * [Explained Visually](http://setosa.io/ev/)
-* Further resources to go through to cover bits and bobs missed by the above:
+* Further resources to go through that may cover bits and bobs missed by the above:
   * [Natural Language Processing for Historical Texts](http://nlphist.hypotheses.org/)
   * [Six Septembers: Mathematics for the Humanist](https://doi.org/10.13014/K2D21VHX)
   * [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/)
