@@ -1,5 +1,11 @@
 # History of humanities computing
 
+{% hint style="info" %}
+Context note: this is a self-contained part of the METH4DH course. You can read this to gain an understanding of the historic development of humanities computing. However, if you want to understand how it relates to modern digital humanities, you are suggested to start from the [three approaches to methods for digital humanities](./).
+{% endhint %}
+
+## History of humanities computing
+
 The birth of humanities computing is usually traced to the work of the Jesuit priest Roberto Busa. In 1949, Busa pitched to IBM the novel idea of using general purpose computers to create an index of the words appearing in Thomas Aquinas's works \(see e.g. [this article](http://www.historyofinformation.com/expanded.php?id=2321) for a detailed historical account of the project\). 
 
 At the same time, while Busa did manage to significantly decrease the labour in crafting such an index, his work is also already part of long traditions. To pick two examples, already in 1890, the U.S. Census was recorded on punch cards and tabulated automatically, while already in 1887 T. C. Mendenhall [suggested](https://doi.org/10.1126/science.ns-9.214S.237) in the then seven year old journal Science that quantitative analysis of texts \(in this case, word length\) could be used to determine their authorship. Indeed, indices such as Busa's had also already been compiled, both manually as well as through partial automation.
