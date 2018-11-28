@@ -52,7 +52,7 @@
     * twitter, sentiment analysis: [What a Nasty day: Exploring Mood-Weather Relationship from Twitter](https://arxiv.org/abs/1410.8749) + [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034)
     * simulation, archaeology: [Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley](https://doi.org/10.1073/pnas.092080799) + [Understanding Artificial Anasazi](http://jasss.soc.surrey.ac.uk/12/4/13.html)
     * geographic information, network analysis, archaeology: [Exploring the dynamics of transport in the Dutch limes](http://journal.topoi.org/index.php/etopoi/article/view/203) + [Testing the Robustness of Local Network Metrics in Research on Archeological Local Transport Networks](http://dx.doi.org/10.3389/fdigh.2016.00006)
-    * history, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)
+    * history, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) \(Interestingly, first article doesn't have affiliations. Digging thrhough, most people seem to be from this project\)
     * network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
     * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
     * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
@@ -73,22 +73,22 @@
        2. The [presentation](https://prezi.com/g-0b_r604myv/dhh15-multimodality/?utm_campaign=share&utm_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
        3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
     4. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
-
-{% hint style="warning" %}
-provisional/referring to old materials after this
-{% endhint %}
-
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
   * Presentations:
     * [Plundering philosophers](https://docs.google.com/presentation/d/1l6Yl03WLc_Bcv7oEd2IqSRJ1gM1-EISQ9k7t6pcWQwg/edit#slide=id.gc6f8954bc_0_53)
     * [Twitter](https://docs.google.com/presentation/d/1zs0d4LbGG-IcFguJlWag-FbHw0CCB4b9JQLujshXhqA/edit#slide=id.p)
     * [3D archaeology](https://docs.google.com/presentation/d/1Hg3prb9lq5ywrw3yzHqN6-kqDYFGH-pl6SGNjZLKKY8/edit)
-  * Assignments: 
-    1. For 5.12.: Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 
-    2. For 8.12.: Prepare to shortly \(max 2 minutes\) present your current idea for your final project
 * Friday 30.11. — **No lecture**
-* Wednesday 5.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md)
-* Friday 8.12. — [Final project](../final-project.md)
+* Wednesday 5.12. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 3
+  * Assignments: 
+    1. Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 
+    2. Prepare to shortly \(max 2 minutes\) present your current idea for your final project
+
+{% hint style="warning" %}
+provisional/referring to old materials after this
+{% endhint %}
+
+* Friday 8.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md), [Final project](../final-project.md)
 * Wednesday 12.12. — **No lecture**
 * Friday 14.12. — **No lecture**
 
