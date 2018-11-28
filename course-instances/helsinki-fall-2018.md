@@ -79,6 +79,10 @@ provisional/referring to old materials after this
 {% endhint %}
 
 * Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
+  * Presentations:
+    * [Plundering philosophers](https://docs.google.com/presentation/d/1l6Yl03WLc_Bcv7oEd2IqSRJ1gM1-EISQ9k7t6pcWQwg/edit#slide=id.gc6f8954bc_0_53)
+    * [Twitter](https://docs.google.com/presentation/d/1zs0d4LbGG-IcFguJlWag-FbHw0CCB4b9JQLujshXhqA/edit#slide=id.p)
+    * [3D archaeology](https://docs.google.com/presentation/d/1Hg3prb9lq5ywrw3yzHqN6-kqDYFGH-pl6SGNjZLKKY8/edit)
   * Assignments: 
     1. For 5.12.: Find a computational humanities research paper that interests you. Post a message on [\#research](https://slack.com/app_redirect?channel=research&team=T276JCMEU) on Slack shortly describing why you picked the paper. 
     2. For 8.12.: Prepare to shortly \(max 2 minutes\) present your current idea for your final project
