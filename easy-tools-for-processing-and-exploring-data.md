@@ -26,7 +26,7 @@ This content is not yet complete. In the meantime, see this presentation: [Easy 
 
 Visualisation is the act of taking data and transforming it into visual shapes and forms. The reasoning behind this is that humans are very good at processing visual information, with a lot of the necessary shape and anomaly detection and comparison processes even happening subconsciously.
 
-Most visualisation is explanatory. 
+Most visualisation is explanatory. [https://pudding.cool/2017/05/song-repetition/](https://pudding.cool/2017/05/song-repetition/)
 
 * [http://www.datajourneyman.com/2016/03/21/preattentive-processing.html](http://www.datajourneyman.com/2016/03/21/preattentive-processing.html) / [https://medium.com/@vidya83.kesavan/preattentive-attributes-in-visualization-an-example-cb05ba1c9371](https://medium.com/@vidya83.kesavan/preattentive-attributes-in-visualization-an-example-cb05ba1c9371)
 * Book: [Information visualization : perception for design](https://www.elsevier.com/books/information-visualization/ware/978-0-12-381464-7), particularly chapter 5 for pre-attentive processing and 6 for the gestalt laws.
