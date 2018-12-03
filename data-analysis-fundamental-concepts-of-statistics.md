@@ -8,6 +8,8 @@ This content is not yet complete. In the meantime, see this presentation: [Data 
 
 [https://en.wikipedia.org/wiki/Anscombe%27s\_quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
+[https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php) 
+
 1. Reading assignment: [The civilizing process in London’s Old Bailey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084475/pdf/pnas.201405984.pdf)
    * Try to answer the questions given under the "Reading material" heading
 2. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)

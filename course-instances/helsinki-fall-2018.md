@@ -88,7 +88,7 @@
 provisional/referring to old materials after this
 {% endhint %}
 
-* Friday 8.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md), [Final project](../final-project.md)
+* Friday 7.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md), [Final project](../final-project.md)
 * Wednesday 12.12. — **No lecture**
 * Friday 14.12. — **No lecture**
 
