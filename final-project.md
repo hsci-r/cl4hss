@@ -1,6 +1,6 @@
 # Final project
 
-To pass the course, you are required to demonstrate some grasp of actual digital humanities work. Therefore, you are tasked with **taking some dataset, and processing it in some way to yield an interesting analysis.**
+To pass the course, you are required to demonstrate grasp of actual digital humanities work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities.**
 
 Potential datasets/APIs are for example:
 
@@ -29,31 +29,37 @@ Tools for processing and analysis are for example:
 * Anomaly detection: [AnomalyDetection](https://github.com/twitter/AnomalyDetection), ...
 * Visualisation: [Palladio](http://palladio.designhumanities.org/), [nodegoat](http://nodegoat.net/), [matplotlib](http://matplotlib.org/), [ggplot2](http://ggplot2.org/), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly/), ...
 
-To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. Include in your repository a document \(e.g. a [README.md](https://help.github.com/articles/about-readmes/)\) describing what you've done, **following as best as possible the guidelines for open, reproducible research**:
+To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. Include in your repository a document \(e.g. a [README.md](https://help.github.com/articles/about-readmes/)\) describing what you've done, **following as best as possible the guidelines for open, reproducible research**. Make sure the document answers the following questions:
 
-1. which data did you use
-2. what did you do to it \(and how can I reproduce it\)
-3. what do the end results show
-4. how would you continue the work \(towards academic meaning\)
+1. What are your humanities research questions?
+2. Which data did you use?
+3. What did you do to the data \(and how can I reproduce it\)?
+4. What does the analysis show, how does it answer the humanities research question?
+5. Critically analyse your own pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
-**Further info:** your work doesn't need to be a full-blown pipeline from raw data to interesting results. It can be just some steps towards that. However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
+**Further info:** for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
+
+To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably should not include the ID number in the project files themselves, as all of those are public in perpetuity.
 
 ### Submissions from previous years
 
 To further aid you in your work, here are some previous submissions for inspiration \(for most of them, you should actually click the GitHub link on the right to start to make sense of them\):
 
-* themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
-* extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)
-* analysis of a survey on user involvement in software development - DOI: [10.5281/zenodo.237727](https://doi.org/10.5281/zenodo.237727)
-* polite vs casual address form use by Finnish language learners in different situations - DOI: [10.5281/zenodo.218844](https://doi.org/10.5281/zenodo.218844)
-* discovering patterns in chalcolithic and early bronze age burials in northeast England- DOI: [10.5281/zenodo.215932](https://doi.org/10.5281/zenodo.215932)
-* themes discussed in Helsingin Sanomat in 1905 - DOI: [10.5281/zenodo.44572](http://doi.org/10.5281/zenodo.44572)
-* differences in use between the words _maahanmuuttaja_ and _pakolainen_ in Finnish newspapers 1970- to present - DOI: [10.5281/zenodo.44544](http://doi.org/10.5281/zenodo.44544)
-* differences in how frequently Finnish and Swedish newspapers talk about the Romani people - DOI: [10.5281/zenodo.44590](http://doi.org/10.5281/zenodo.44590)
-* contrasting Beck's lyrics to blues lyrics - DOI: [10.5281/zenodo.215292](http://doi.org/10.5281/zenodo.215292)
-* extracting and analysing recipe information in an old cookbook - DOI: [10.5281/zenodo.216232](https://doi.org/10.5281/zenodo.216232)
-* a thematic analysis of the discussion around Guggenheim on the Suomi24 forum - DOI: [10.5281/zenodo.217719](https://doi.org/10.5281/zenodo.217719)
-* differences in language between texts dealing with altered states of mind and normal fiction - DOI: [10.5281/zenodo.230676](https://doi.org/10.5281/zenodo.230676)
-* preliminary analysis comparing different Finnish cabinet strategies against each other - DOI: [10.5281/zenodo.216604](https://doi.org/10.5281/zenodo.216604)
-* preliminary analysis of patterns in the holdings of the Finnish National Gallery - DOI: [10.5281/zenodo.218735](https://doi.org/10.5281/zenodo.218735)
+* Themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
+* Extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)
+* Analysis of a survey on user involvement in software development - DOI: [10.5281/zenodo.237727](https://doi.org/10.5281/zenodo.237727)
+* Polite vs casual address form use by Finnish language learners in different situations - DOI: [10.5281/zenodo.218844](https://doi.org/10.5281/zenodo.218844)
+* Discovering patterns in chalcolithic and early bronze age burials in northeast England- DOI: [10.5281/zenodo.215932](https://doi.org/10.5281/zenodo.215932)
+* Themes discussed in Helsingin Sanomat in 1905 - DOI: [10.5281/zenodo.44572](http://doi.org/10.5281/zenodo.44572)
+* Differences in use between the words _maahanmuuttaja_ and _pakolainen_ in Finnish newspapers 1970- to present - DOI: [10.5281/zenodo.44544](http://doi.org/10.5281/zenodo.44544)
+* Differences in how frequently Finnish and Swedish newspapers talk about the Romani people - DOI: [10.5281/zenodo.44590](http://doi.org/10.5281/zenodo.44590)
+* Contrasting Beck's lyrics to blues lyrics - DOI: [10.5281/zenodo.215292](http://doi.org/10.5281/zenodo.215292)
+* Extracting and analysing recipe information in an old cookbook - DOI: [10.5281/zenodo.216232](https://doi.org/10.5281/zenodo.216232)
+* Comparing the use of polite plural "you" in Mandarin Chinese and Lithuanian - DOI: [10.5281/zenodo.1134294](https://doi.org/10.5281/zenodo.1134294)
+* A thematic analysis of the discussion around Guggenheim on the Suomi24 forum - DOI: [10.5281/zenodo.217719](https://doi.org/10.5281/zenodo.217719)
+* Sentiment analysis of Twitter discussion related to the Indian biometric identifier system Aadhaar - DOI: [10.5281/zenodo.1134623](https://doi.org/10.5281/zenodo.1134623)
+* Differences in language between texts dealing with altered states of mind and normal fiction - DOI: [10.5281/zenodo.230676](https://doi.org/10.5281/zenodo.230676)
+* Exploring ways to compare adaptations of a literary work - DOI: [10.5281/zenodo.1127754](http://doi.org/10.5281/zenodo.1127754)
+* Preliminary analysis comparing different Finnish cabinet strategies against each other - DOI: [10.5281/zenodo.216604](https://doi.org/10.5281/zenodo.216604)
+* Preliminary analysis of patterns in the holdings of the Finnish National Gallery - DOI: [10.5281/zenodo.218735](https://doi.org/10.5281/zenodo.218735)
 
