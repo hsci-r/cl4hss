@@ -64,5 +64,5 @@ If you do make use of this material, I'd naturally also appreciate a ping, as we
 
 For access to the source code of this GitBook, please see [this](https://github.com/jiemakel/METH4DH) GitHub repository.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image.png)
 
