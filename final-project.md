@@ -39,7 +39,7 @@ To return the assignment, you will need to upload your data, code and results in
 
 **Further info:** for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
 
-To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably should not include the ID number in the project files themselves, as all of those are public in perpetuity.
+To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably wont want to include the ID number in the project files themselves, as all of those are public in perpetuity.
 
 ### Submissions from previous years
 
