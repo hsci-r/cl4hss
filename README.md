@@ -3,7 +3,7 @@
 By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Humanities–Computing Interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
-This content is not yet complete. It is being updated and finalised as the [fall 2018 course](course-instances/helsinki-fall-2018.md) \(31.10.2018-14.12.2018\) at the University of Helsinki progresses.
+This content is not yet complete. It was initially being developed as the [fall 2018 course](course-instances/helsinki-fall-2018.md) at the University of Helsinki progressed. Now, it is being updated as time allows. Each page that isn't ready yet has a header similar to this at the top noting its draft status.
 {% endhint %}
 
 ## Target audience
