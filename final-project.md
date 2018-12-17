@@ -1,8 +1,10 @@
 # Final project
 
-To pass the course, you are required to demonstrate grasp of actual digital humanities work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities.**
+To pass the course, you are required to demonstrate grasp of actual digital humanities work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities.** 
 
-Potential datasets/APIs are for example:
+This assignment requires applying all the knowledge you have learned on the course to devise and test a process going from data to results. To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
+
+Potential datasets/APIs are for example \(but instead of these please choose a dataset that is relevant to yourself\):
 
 * [Korp API](https://kitwiki.csc.fi/twiki/bin/view/FinCLARIN/KielipankkiHelpKorpWebService)
 * [Finnish national gallery API / dump](http://kokoelmat.fng.fi/api/v2support/docs/#/download)
@@ -37,9 +39,9 @@ To return the assignment, you will need to upload your data, code and results in
 4. What does the analysis show, how does it answer the humanities research question?
 5. Critically analyse your own pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
-**Further info:** for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
+**Further info:** as said, the most important learning goal for this assignment is to learn how to navigate the between the shoals of data, method and questions in designing a computational humanities research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
 
-To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably wont want to include the ID number in the project files themselves, as all of those are public in perpetuity.
+To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably wont want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://goo.gl/forms/vXqu71qRJG6uzHgG2)!
 
 ### Submissions from previous years
 
