@@ -214,5 +214,5 @@ Form a group with all the other people who selected the same articles. For class
 
 ### Friday 14.12. — **No lecture, remote support for final project**
 
-### **Friday 21.12.** — **Deadline for returning final project**
+### **Friday 21.12.** — **Deadline for returning**[ **final project**](../final-project.md)\*\*\*\*
 
