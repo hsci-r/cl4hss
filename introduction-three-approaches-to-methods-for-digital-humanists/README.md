@@ -100,24 +100,11 @@ At the same time, even when going through individual tools and the fundaments of
 
 Similarly, instead of focusing on particular workflows for particular types of data, examples on the course are taken from as different fields of the humanities and as different types of data and questions as possible. Through this, it is argued that a deeper understanding of the possibilities afforded by computation can be attained.
 
-To better contextualise the material
-
-## Idealised process of computational humanities research 
-
-1. Have data
-2. Magic \(?\)
-3. Something interesting shows up
-4. Profit!
-
-> “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
-
-
-
 ## Assignments
 
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 * Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [\#introductions](https://slack.com/app_redirect?channel=introductions&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
-* Dig deeper: to better understand the context of this course, read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
+* Dig deeper \(optional\): to better understand the context of this course, read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
 
 ## Further material
 
