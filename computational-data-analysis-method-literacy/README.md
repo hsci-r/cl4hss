@@ -10,6 +10,13 @@ This content is not yet complete. In the meantime, see these presentations:
 {% hint style="info" %}
 **Reading assignment**
 
+Read [this research article](https://doi.org/10.1073/pnas.1405984111) on the the civilizing process in London’s Old Bailey.
+{% endhint %}
+
+{% hint style="info" %}
+**Reading assignment**
+
+* read [this research article](https://doi.org/10.1073/pnas.1405984111).
 * language change, simulation: [Social networks and intraspeaker variation during periods of language change](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1041&context=pwpl) + [Utterance selection model of language change](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.73.046118). Also note that you can experiment yourself with the model described in the first paper [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Language%20Change.nlogo).
 * twitter, sentiment analysis: [What a Nasty day: Exploring Mood-Weather Relationship from Twitter](https://arxiv.org/abs/1410.8749) + [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034)
 * simulation, archaeology: [Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley](https://doi.org/10.1073/pnas.092080799) + [Understanding Artificial Anasazi](http://jasss.soc.surrey.ac.uk/12/4/13.html)
