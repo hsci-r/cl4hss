@@ -17,7 +17,6 @@ Potential datasets/APIs are for example \(but instead of these please choose a d
 * [Sydney Powerhouse Museum](http://www.powerhousemuseum.com/collection/database/download.php)
 * [EEBO-TCP Phase I](http://www.bodleian.ox.ac.uk/eebotcp/)
 * [ECCO-TCP](http://www.textcreationpartnership.org/tcp-ecco/)
-* We also have a set of automatic transcriptions from 35,000 Finnish language TV and radio programs courtesy of the Finnish public broadcaster YLE available by asking
 
 Tools for processing and analysis are for example:
 
@@ -43,7 +42,7 @@ To return the assignment, you will need to upload your data, code and results in
 
 To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably wont want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://goo.gl/forms/vXqu71qRJG6uzHgG2)!
 
-Evaluation criteria:
+### Evaluation criteria
 
 * To pass with a 1, your project must include a humanities research question, and a description of a complete pipeline that moves from a dataset toward that question. In addition, at least some step of the pipeline needs to be fully implemented.
 * To pass with a 2, in addition to the above, you need to document your pipeline in a way that it can be rerun and its results reproduced.
