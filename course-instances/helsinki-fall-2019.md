@@ -10,7 +10,7 @@
 
 ### Between — Data, Tools
 
-### Mon 4.11. — No meeting
+### ~~Mon 4.11. — No meeting~~, time for out-of-class work
 
 ### Between — Data, Tools
 
@@ -18,7 +18,7 @@
 
 ### Between — Programming, Research
 
-### Mon 11.11. Support clinic for programming
+### Mon 11.11. Support clinic for programming, time for out-of-class work
 
 ### Between — Programming, Research
 
@@ -38,19 +38,17 @@
 
 ### Between — Research
 
-### Mon 25.11. — No meeting 
+### ~~Wed 27.11. — No meeting~~, time for out-of-class work 
 
 ### Between — Research, Final project planning
 
-### Wed 27.11. — Debriefing, Open, reproducible research
+### Mon 2.12. — Debriefing, Open, reproducible research
 
 ### Between — Final project
 
-### Mon 2.12. — Support clinic for final project
+### ~~Wed 4.12. — No meeting~~
 
-### Wed 4.12. — No meeting
+### Mon 9.12. — Support clinic for final project, time for out-of-class work
 
-### Mon 9.12. — Support clinic for final project
-
-### Wed 11.12. — No meeting
+### ~~Wed 11.12. — No meeting~~
 
