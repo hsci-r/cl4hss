@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to methods for digital humanities](README.md)
+* [Introduction to methods for digital humanities and social sciences](README.md)
 * [Three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/README.md)
   * [History of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md)
 * [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)

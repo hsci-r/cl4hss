@@ -1,4 +1,4 @@
-# Introduction to methods for digital humanities
+# Introduction to methods for digital humanities and social sciences
 
 By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Humanities–Computing Interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
 
@@ -8,7 +8,7 @@ This content is not yet complete. It was initially being developed as the [fall 
 
 ## Target audience
 
-People of all levels in the humanities interested in whether computational methods might help them in their own work. 
+People of all levels in the humanities and interpretive social sciences interested in whether computational methods might help them in their own work. 
 
 **Prerequisites:** Absolutely none.
 
@@ -23,16 +23,16 @@ The probability of either of these happening very much depends on what you are i
 
 This course is an introductory course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the[ long tradition of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md). On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
 
-As a signposting course, the course describes the landscape of computational humanities. It provides students with the knowledge they need to choose their own focus within it, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
+As a signposting course, the course describes the landscape of computational humanities and social sciences. It provides students with the knowledge they need to choose their own focus within it, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 
 After this course: 
 
-* The student understands the multiple ways in which methods benefit work within the computational humanities. 
+* The student understands the multiple ways in which methods benefit work within the computational humanities and social sciences. 
 * She herself is able to use [ready tools](easy-tools-for-processing-and-exploring-data.md) to work with data. 
 * In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose. 
 * She also learns how [open, reproducible research and publishing](open-reproducible-research-and-publishing.md) is done in practice. 
-* Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational humanities, and when to apply them. 
-* Finally, she learns to apply all of the above in practice in a [small concrete computational humanities project](final-project.md). 
+* Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational humanities and social sciences, and when to apply them. 
+* Finally, she learns to apply all of the above in practice in a [small concrete computational humanities/social sciences project](final-project.md). 
 
 Yet most importantly, after this course and utilising all of the above, the student is able to: 
 
