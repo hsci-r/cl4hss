@@ -47,21 +47,26 @@ For 6.11. \(in 1 week\):
 2. Find a dataset that could be of interest to you in your final project. Be prepared to discuss in class 1\) why you chose those that dataset, 2\) what types of information it contains and 3\) what the structure, technical format and way of accessing the data is. \(~15-30min\)
 3. Tools:
    1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine). \(~30-60min\)
-   2. Visualisation: Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
+   2. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
 
-      * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
-      * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-      * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
-      * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
-        * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-      * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
-      * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
-      * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
-      * If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
+      1. Visualization:
+         * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
+         * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
+         * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
+         * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+           * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
+         * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
+         * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+         * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
+         * If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
+      2. Data acquisition:
+         1. Hand-written text transcription: Transkribus
+         2. Layout and text transcription: OCR4all
+         3. Keyword generation from text: Annif
+         4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+         5. An automated image/video description tool
 
-      If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio.
-
-      Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration of the tool for class, describing:
+      If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration of the tool for class, describing:
 
       1. What is the tool good for?
       2. What kind of data do you need for the tool to be useful? 
