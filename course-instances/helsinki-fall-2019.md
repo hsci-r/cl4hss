@@ -9,7 +9,7 @@ description: Preliminary timetable for fall 2019
 {% tabs %}
 {% tab title="Meeting contents" %}
 * Activatory pair discussion
-* Introduction, practicalities -lecture
+* [Introduction, practicalities -lecture](https://docs.google.com/presentation/d/e/2PACX-1vRHBHorUrdZ-pMPVLwrdl3KhESO_oHbEq_rhAgCpBfUs9xOktiC2oTZ6QYf99YZ78aPvvK96V7oTOTT/pub?start=false&loop=false&delayms=3000)
 * Flinga questionnaire on background and interests
 * Briefing of assignments
 {% endtab %}
@@ -18,7 +18,7 @@ description: Preliminary timetable for fall 2019
 For 30.10. \(in two days\): 
 
 1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1) \(~5min\)
-2. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss  why you chose those that project in class. \(~15-30min\)
+2. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss  why you chose those that project in class. \(~20-40min\)
 
 For 6.11. \(in 1½ weeks, but more assignments will be given on Wednesday, so start already\):
 
