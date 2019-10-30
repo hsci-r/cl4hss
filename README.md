@@ -3,7 +3,7 @@
 By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Humanities–Computing Interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
-This content is not yet complete. It was initially being developed as the [fall 2018 course](course-instances/helsinki-fall-2018.md) at the University of Helsinki progressed. Now, it is being updated for the [fall 2019 course](course-instances/helsinki-fall-2019.md). Each page that isn't ready yet has a header similar to this at the top noting its draft status.
+This content is not yet complete. It was initially being developed as the [fall 2018 course](course-instances/helsinki-fall-2018.md) at the University of Helsinki progressed. Now, it is being updated for the [fall 2019 course](course-instances/helsinki-fall-2019.md). Each page that hasn't been yet completely converted from lecture slide format has a header similar to this at the top noting its draft status, as well as a 🏗 mark in the [table of contents below](./#course-contents).
 {% endhint %}
 
 ## Target audience
@@ -45,17 +45,19 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Course contents
 
+\( 🏗 marks parts of the course not yet fully converted out of lecture slide format\)
+
 1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
    * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
-2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
-3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
+2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md) 🏗 
+3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md) 🏗 
 4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 5. [Data processing: regular expressions](regular-expressions.md)
-6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
-7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
-8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md) 🏗 
+7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000) 🏗 
+8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md) 🏗 
 9. [Digital humanities project](final-project.md)
 
 ## Practical matters
