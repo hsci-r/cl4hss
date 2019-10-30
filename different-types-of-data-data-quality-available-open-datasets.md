@@ -67,4 +67,7 @@ Potential datasets/APIs are for example:
 
 
 * [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) \(simple introduction to different kinds of data in the digital humanities\)
+* Biases caused by using publicly available Twitter APIs \(search/streaming\) for sampling:
+  * [Assessing bias in samples collected from Twitter](https://www.sciencedirect.com/science/article/pii/S0378873314000057)
+  * [Is the Sample Good Enough? Comparing Data from Twitter's Streaming API with Twitter's Firehose](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPaper/6071)
 
