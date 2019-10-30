@@ -45,22 +45,24 @@ This course is meant for both independent self-study \(reading up on only certai
 
 ## Course contents
 
+\( 🏗 marks parts of the course not yet fully converted out of lecture slide format\)
+
 1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
    * Easy, ready-made tools for data cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
-2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
-3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
+2. [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md) 🏗 
+3. [Easy tools for processing and exploring data](easy-tools-for-processing-and-exploring-data.md) 🏗 
 4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 5. [Data processing: regular expressions](regular-expressions.md)
-6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
-7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000)
-8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)
+6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md) 🏗 
+7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT_BG1x0Ll/pub?start=false&loop=false&delayms=3000) 🏗 
+8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md) 🏗 
 9. [Digital humanities project](final-project.md)
 
 ## Practical matters
 
-* The course has a Slack workspace at [meth4dh.slack.com](http://meth4dh.slack.com/) used for both returning some assignments as well as peer and teacher support. Please join it, starting by entering your email [here](https://communityinviter.com/apps/meth4dh/meth4dh).
+* The course has a Slack workspace at [meth4dh.slack.com](http://meth4dh.slack.com/) used for both returning some assignments as well as peer and teacher support. Please [join](https://join.slack.com/t/meth4dh/shared_invite/enQtODE2OTc5ODk3ODMwLTMyMzEyZmMzNDgwM2Y3NDhhNTE2ZjAwMzU5YjY3NzI3YzVjYjQ2YThkYjFjOWRiZWJiZTYyZDc4ZDY0YTAwYjk) it.
 * For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\). You also naturally need access to the sources \(most commonly through accessing them from a university network / VPN\).
 
 ## Licensing
