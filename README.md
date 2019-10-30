@@ -41,7 +41,9 @@ Yet most importantly, after this course and utilising all of the above, the stud
 
 ## Format
 
-This course is meant for both independent self-study \(reading up on only certain sections of the course\), as well as for completing as either a contact learning or MOOC course with a group of likeminded students. Studied in this way, the full course is officially rated at 5 ECTS, or ~135 hours of study. In practice, I expect the load to be about 2/3 of that \[plz imagine here, if you wish, a rant about how official ECTS workload ratings have always diverged from student expectations and reality\]. For material relating to particular instances of this latter mode of study, see [here](course-instances/).
+This course is meant for both independent self-study \(reading up on only certain sections of the course\), as well as for completing as either a contact learning or MOOC course with a group of likeminded students. For material relating to particular instances of this latter mode of study, see [here](course-instances/).
+
+Workload-wise, the full course is rated at 5 ECTS, which officially translates to ~135 hours of study. However, ECTS workload ratings have always diverged both from reality, as well as student expectations. In practice, I expect the load to be some 60-70 hours, or about ½ to ⅔ of the official norm. Generally, courses at this workload-level seem to be evaluated by students as "moderate to heavyish" in workload \(because sometimes you can get 5 ECTS even for something like 25h or ⅕ of the official norm, for example from just sitting in lectures 14 x 1½ hours, and then doing a couple of hours of work on top of that!\)
 
 ## Course contents
 
