@@ -108,5 +108,5 @@ Similarly, instead of focusing on particular workflows for particular types of d
 
 ## Further material
 
-* Presentation slides for this part: [Introduction: three approaches to methods for digital humanists](https://docs.google.com/presentation/d/e/2PACX-1vR9Gl7lS7mWlKzpJvWV1-OVTmpzUdP_F84PTZnSf435dfIEanUwhAeRmmKn9rmqMXXu8LzcZ0vH5U-X/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/export/pdf), [gd](https://docs.google.com/presentation/d/1v98jEuiPUZqgZZaDrSJVt_tAO9G6OVyg5HmfJGS6utg/edit)\)
+* Presentation slides for this part: [Introduction: three approaches to methods for digital humanists](https://docs.google.com/presentation/d/e/2PACX-1vRHBHorUrdZ-pMPVLwrdl3KhESO_oHbEq_rhAgCpBfUs9xOktiC2oTZ6QYf99YZ78aPvvK96V7oTOTT/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1xY3V2Kgh8hAKPw9y8Hg2Iu0QAmnRUVTUEa2Y__Lgzfs/export/pdf), [gd](https://docs.google.com/presentation/d/1xY3V2Kgh8hAKPw9y8Hg2Iu0QAmnRUVTUEa2Y__Lgzfs/edit)\)
 
