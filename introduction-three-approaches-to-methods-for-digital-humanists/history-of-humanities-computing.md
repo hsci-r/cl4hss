@@ -72,5 +72,9 @@ For the contents of this course, the answer will be that whenever you are utilis
 
 Note also that this delineation rules out all the advances and development in computer science that were required in manifesting the Index Thomisticus, or any new computational tool. These are certainly part of humanities computing more broadly \(and exactly my personal interest\), but just not a part of this course, which is aimed at students coming in from a humanities background.
 
+### Further reading
+
+* [Computation and the Humanities - Towards an Oral History of Digital Humanities](https://link.springer.com/book/10.1007%2F978-3-319-20170-2)
+
 
 
