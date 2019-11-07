@@ -1,4 +1,4 @@
-# Introduction to methods for digital humanities and social sciences
+# Computational literacy for the humanities and social sciences
 
 By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Humanities–Computing Interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
 

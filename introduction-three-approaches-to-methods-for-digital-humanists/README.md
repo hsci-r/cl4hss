@@ -1,4 +1,4 @@
-# Three approaches to methods for digital humanists
+# Three approaches to computational methods
 
 On this course, the following three approaches to methods will be covered:
 
