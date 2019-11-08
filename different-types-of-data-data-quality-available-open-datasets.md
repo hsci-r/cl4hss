@@ -4,13 +4,10 @@
 This content is not yet complete. In the meantime, please see this presentation: [Different types of data, data quality, available open datasets](https://docs.google.com/presentation/d/e/2PACX-1vRxpRxXXyF-fTZ8YpB5utG09SNnmti4MB7qTzYU2ipQl0VBlmmODdqgIX0g4CO3EEJ3OiKuePP3vlt0/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1KFpHbK9Fu8mu5pN-6FA7wmNuX1HTrpmGZ3lhPlASvd4/export/pdf), [gd](https://docs.google.com/presentation/d/1KFpHbK9Fu8mu5pN-6FA7wmNuX1HTrpmGZ3lhPlASvd4/edit)\)
 {% endhint %}
 
-## Types of data
+## Archetypes of data
 
-* Structured vs unstructured:
-  * Structured data - [Excel sheets](https://docs.google.com/spreadsheets/d/1t2GsvwAx-_gCd6QjmXcZ-x2aI7xBuOcstXP0GwLE3x0/edit?usp=sharing), [databases](http://fbtee.uws.edu.au/stn/interface/query_books.php?t=sector&e=rawsales&id=Clergy&g=everywhere&d1=01&m1=01&y1=1769&d2=31&m2=12&y2=1794&d=table), [2](https://docs.google.com/drawings/d/1lZHqRw_rFlbnWytL6olSXE-mKS2HJqic5debjH7__bw/edit?usp=sharing)
-  * Unstructured data - [text](http://www.gutenberg.org/cache/epub/100/pg100.txt), [2](http://digi.kansalliskirjasto.fi/sanomalehti/binding/379556?page=1&ocr=true), [3](https://goo.gl/Kpt4iv), [sounds](http://www.automaticsync.com/captionsync/youtube-automatic-captions/), [images](https://www.clarifai.com/demo)
-* Clean vs messy
-* **Biased? ← incomplete, messy, badly sampled**
+* Structured data - [Excel sheets](https://docs.google.com/spreadsheets/d/1t2GsvwAx-_gCd6QjmXcZ-x2aI7xBuOcstXP0GwLE3x0/edit?usp=sharing), [databases](http://fbtee.uws.edu.au/stn/interface/query_books.php?t=sector&e=rawsales&id=Clergy&g=everywhere&d1=01&m1=01&y1=1769&d2=31&m2=12&y2=1794&d=table), [2](https://docs.google.com/drawings/d/1lZHqRw_rFlbnWytL6olSXE-mKS2HJqic5debjH7__bw/edit?usp=sharing)
+* Unstructured data - [text](http://www.gutenberg.org/cache/epub/100/pg100.txt), [2](http://digi.kansalliskirjasto.fi/sanomalehti/binding/379556?page=1&ocr=true), [3](https://goo.gl/Kpt4iv), [sounds](http://www.automaticsync.com/captionsync/youtube-automatic-captions/), [images](https://www.clarifai.com/demo)
 
 ## Modes of engagement with data
 
@@ -44,6 +41,8 @@ This content is not yet complete. In the meantime, please see this presentation:
 * Often, they also participate in content creation projects, and then hold the rights for that content
   * e.g. [Early English Books Online](http://www.textcreationpartnership.org/tcp-eebo/) \(ProQuest\), [Nineteenth Century Collections Online](http://gale.cengage.co.uk/product-highlights/history/nineteenth-century-collections-online.aspx) \(Gale\), [State Papers Online](http://gale.cengage.co.uk/state-papers-online-15091714.aspx) \(Gale\)
 * But, this is also a wider culture inside humanities, e.g. [Electronic Enlightenment](http://www.e-enlightenment.com/info/subscribers/why_charge.html)
+
+## Using data for research - Bias, the great bogeyman
 
 Potential datasets/APIs are for example:
 
