@@ -1,8 +1,17 @@
-# Easy tools for processing and exploring data
+# Easy tools for acquiring, processing and exploring data
 
 {% hint style="danger" %}
 This content is not yet complete. In the meantime, see this presentation: [Easy tools for processing and exploring data](https://docs.google.com/presentation/d/e/2PACX-1vQ0GNUtEwkYQ4NyRki6SohJ2DLS0wt4MKF3cVzuU7UlLq9yUij5Qd2ZgFltEb8KcPp7aYOXrSLFMdYa/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/export/pdf), [gd](https://docs.google.com/presentation/d/1RF4s0AJuoVUAQIdw3c4Sf5ozLIb2Kd_vNN1SXp8IqFg/edit?usp=sharing)\)
 {% endhint %}
+
+## Acquiring data
+
+* [Introduction to web scraping](https://librarycarpentry.org/lc-webscraping/) \(quite advanced, but contains a section on a user interface tool as well\)
+* Hand-written text transcription: [Transkribus](https://transkribus.eu/)
+* Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
+* Keyword generation from text: [Annif](http://annif.org/)
+* An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+* Twitter archiving: [TAGS](https://tags.hawksey.info/)
 
 ## Data processing
 

@@ -12,7 +12,23 @@ This content is not yet complete. In the meantime, please see this presentation:
 * Clean vs messy
 * **Biased? ← incomplete, messy, badly sampled**
 
+## Modes of engagement with data
+
+* Non-digital / digital without any functionality - both finding relevant sources as well as their analysis happens through manual work and reading
+* Search interfaces - aid in finding, but analysis and understanding happens through reading
+* Analytical interfaces - _transform_ and _aggregate_ the data in new ways to yield insight. For example:
+  * Keyword in context \(KWIC\) interfaces show search results, but ordered around the word and its particular instances. Data is returned not in its original structure, but transformed to a view centred around the word and its appearances.
+  * Frequency graphs _transform_ the data through _aggregation_, counting how many times a keyword is found in the data, and projecting these counts through time. Through this presentation, large-scale trends can be seen.
+
 ## Data access
+
+**Ways of accessing data**
+
+* User interfaces provide access to pre-defined functionalities in a user-friendly manner
+* APIs provide access to pre-defined functionalities for programmes
+* Having access to the dataset _as data_ allows you yourself control over which tools to use, and how to tie the tools together into a workflow.
+* Data dumps provide access to raw data. However, they may often be very large, and their format may also be complex in order to include all facets of the data. Thus, raw dumps may be difficult to process and use.
+* Both user interfaces as well as APIs may allow subsets of the data to be selected and downloaded _as data_ for further analysis. Often these allow limiting both the size of the data, as well as its features, thus making the resulting data much easier to process and handle. However, very often APIs do not contain all facets of the original data, instead making a trade-off between richness and ease of use to serve the data in a simpler, easier format useful for a particular subset of use cases.
 
 #### Open data in the digital humanities - the good
 
@@ -55,17 +71,9 @@ Potential datasets/APIs are for example:
 3. If you get a note of bias, respond back by thinking of ways of overcoming or surmounting it.
 {% endhint %}
 
-## Data access
-
 ### Further resources
 
 * [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) \(not really anything social science specific\) / [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/) \(nothing library specific either\)
-* [Introduction to web scraping](https://librarycarpentry.org/lc-webscraping/) \(quite advanced, but contains a section on a user interface tool as well\)
-
-
-
-
-
 * [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) \(simple introduction to different kinds of data in the digital humanities\)
 * Biases caused by using publicly available Twitter APIs \(search/streaming\) for sampling:
   * [Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)
