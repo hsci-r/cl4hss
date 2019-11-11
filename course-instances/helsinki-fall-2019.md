@@ -140,7 +140,16 @@ For 18.11. \(in 1 week\):
 
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
 2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there.
-3. Research: read [this research article](https://doi.org/10.1073/pnas.1405984111).
+3. Research on visualization tool development: 
+
+   Read the following two articles on developing  tools for particular text-based humanities research questions:
+
+   * [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
+   * [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
+
+   Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
+
+4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111) which we went through quickly on the first lecture. Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
 {% endtab %}
 {% endtabs %}
 
