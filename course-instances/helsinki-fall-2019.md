@@ -157,7 +157,9 @@ For 18.11. \(in 1 week\):
 
 ### Between — Programming, Research
 
-### Wed 13.11. Support clinic for programming, time for out-of-class work
+### Wed 13.11. Continuation of tool and dataset presentations, support clinic for programming
+
+Due to not being able to go through all tools on the Monday session, about an hour of this session will be used to go through the rest. After that, I'll be available to help you do the programming assignments.
 
 ### Between — Programming, Research
 
