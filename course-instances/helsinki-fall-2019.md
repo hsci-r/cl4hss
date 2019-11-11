@@ -133,6 +133,8 @@ For 11.11. \(in 1½ week\):
 * Group discussion of datasets
 * Group presentations of tools
 * Briefing of assignments on programming and research
+
+[slides](https://docs.google.com/presentation/d/e/2PACX-1vRb3K2EwOyULvoySAa2qe_c50v6uyJaVJeuioNwcm48Atj7aDC_j4qZcJbkMnipeeUjCHWakmPhXkmT/pub?start=false&loop=false&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
