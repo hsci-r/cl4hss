@@ -163,11 +163,11 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### Between — Programming, Research
 
-### Mon 18.11. — Debriefing, Statistics
+### ~~Mon 18.11. — Class cancelled due to illness~~
 
-### Between — Research
+### Between — Programming, Research
 
-### Wed 20.11. — Debriefing
+### Wed 20.11. — Debriefing, Statistics
 
 ### Between — Computational analysis
 
