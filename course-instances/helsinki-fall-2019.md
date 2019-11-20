@@ -189,14 +189,14 @@ Due to not being able to go through all tools on the Monday session, about an ho
 * Debriefing of programming and regular expression assignments
 * Group discussion on the visualization research
 * Group work on the Old Bailey research
-* Lecture on statistics
+* [Lecture on statistics](https://docs.google.com/presentation/d/e/2PACX-1vSLBmuBKyeExToZLWkbRwchCvCBoCAhjBipEHSPfnHXGx5bYpMa7gGcd5mLqX3L-1vHFOTgn3FYXJ9B/pub?start=false&loop=false&delayms=3000)
 * Briefing of assignments
 {% endtab %}
 
 {% tab title="Assignments given" %}
-1. Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
+1. \(Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
    1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
-   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
+   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)\)
 2. Select \(at least\) one of the following sets of paired articles based on your own interests:
 
    * language change, simulation: [Social networks and intraspeaker variation during periods of language change](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1041&context=pwpl) + [Utterance selection model of language change](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.73.046118). Also note that you can experiment yourself with the model described in the first paper [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Language%20Change.nlogo).
@@ -215,6 +215,8 @@ Due to not being able to go through all tools on the Monday session, about an ho
    3. Data - How has the data used been gathered? What are the data sources used? How has the data been processed? Is the data available for others to use?
    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+
+3. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
@@ -224,7 +226,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### Between — Research
 
-### ~~Wed 27.11. — No meeting~~, time for out-of-class work 
+### Wed 27.11. — Debriefing, Computational analysis
 
 ### Between — Research, Final project planning
 
