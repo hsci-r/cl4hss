@@ -169,7 +169,56 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### Wed 20.11. — Debriefing, Statistics
 
-### Between — Computational analysis
+{% tabs %}
+{% tab title="Assignments due" %}
+1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
+2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there.
+3. Research on visualization tool development: 
+
+   Read the following two articles on developing  tools for particular text-based humanities research questions:
+
+   * [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
+   * [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
+
+   Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
+
+4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111) which we went through quickly on the first lecture. Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
+{% endtab %}
+
+{% tab title="Meeting contents" %}
+* Debriefing of programming and regular expression assignments
+* Group discussion on the visualization research
+* Group work on the Old Bailey research
+* Lecture on statistics
+* Briefing of assignments
+{% endtab %}
+
+{% tab title="Assignments given" %}
+1. Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
+   1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
+   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
+2. Select \(at least\) one of the following sets of paired articles based on your own interests:
+
+   * language change, simulation: [Social networks and intraspeaker variation during periods of language change](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1041&context=pwpl) + [Utterance selection model of language change](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.73.046118). Also note that you can experiment yourself with the model described in the first paper [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Language%20Change.nlogo).
+   * twitter, sentiment analysis: [What a Nasty day: Exploring Mood-Weather Relationship from Twitter](https://arxiv.org/abs/1410.8749) + [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034)
+   * simulation, archaeology: [Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley](https://doi.org/10.1073/pnas.092080799) + [Understanding Artificial Anasazi](http://jasss.soc.surrey.ac.uk/12/4/13.html)
+   * geographic information, network analysis, archaeology: [Exploring the dynamics of transport in the Dutch limes](http://journal.topoi.org/index.php/etopoi/article/view/203) + [Testing the Robustness of Local Network Metrics in Research on Archeological Local Transport Networks](http://dx.doi.org/10.3389/fdigh.2016.00006)
+   * history, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) \(Interestingly, first article doesn't have affiliations. Digging thrhough, most people seem to be from this project\)
+   * network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
+   * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
+   * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
+
+   Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
+
+   1. How do the two articles relate to each other? 
+   2. Research questions - What are the humanities research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and humanities research questions?
+   3. Data - How has the data used been gathered? What are the data sources used? How has the data been processed? Is the data available for others to use?
+   4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
+   5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+{% endtab %}
+{% endtabs %}
+
+### Between — Statistics, Computational analysis
 
 ### Mon 25.11. — Debriefing, Computational analysis
 
