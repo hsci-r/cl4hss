@@ -224,9 +224,48 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### Mon 25.11. — Debriefing, Computational analysis
 
+{% tabs %}
+{% tab title="Assignments due" %}
+
+{% endtab %}
+
+{% tab title="Meeting contents" %}
+* Group presentations on research articles
+* [Lecturer presentation on research using computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vQh0aFghShAvO3BWk5MTQC4wLBkKYCWF1GTqZZkZ9Y7UZYyegDJmGzc7-T9QGGtUE_FV4S-EVUXuaDS/pub?start=false&loop=false&delayms=3000)
+* Briefing of assignments
+{% endtab %}
+
+{% tab title="Assignments given" %}
+1. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
+{% endtab %}
+{% endtabs %}
+
 ### Between — Research
 
 ### Wed 27.11. — Debriefing, Computational analysis
+
+{% tabs %}
+{% tab title="Assignments due" %}
+1. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
+{% endtab %}
+
+{% tab title="Meeting contents" %}
+* 
+{% endtab %}
+
+{% tab title="Assignments given" %}
+1. Find \(in groups if you like\) a computational humanities research paper that interests you. Prepare to present it in class.
+2. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+
+   1. What are your humanities research questions?
+   2. Which data will you use?
+   3. How do you plan to process, clean up and transform your data?
+   4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
+   5. Critically analyze your data and pipeline for potential bias and problems. 
+
+   These will be peer reviewed.
+{% endtab %}
+{% endtabs %}
 
 ### Between — Research, Final project planning
 

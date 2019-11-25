@@ -36,7 +36,7 @@ To return the assignment, you will need to upload your data, code and results in
 2. Which data did you use?
 3. What did you do to the data, and how can I reproduce it?
 4. What does the analysis show, how does it answer the humanities research question?
-5. Critically analyse your own pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
+5. Critically analyze your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
 **Further info:** as said, the most important learning goal for this assignment is to learn how to navigate the between the shoals of data, method and questions in designing a computational humanities research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
 
@@ -44,17 +44,14 @@ To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your
 
 ### Evaluation criteria
 
-* To pass with a 1, your project must include a humanities research question, and a description of a complete pipeline that moves from a dataset toward that question. In addition, at least some step of the pipeline needs to be fully implemented.
-* To pass with a 2, in addition to the above, you need to document your pipeline in a way that it can be rerun and its results reproduced.
-* To pass with a 3, in addition to the above, you need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop.
-* To pass with a 4, in addition to the above, both your analysis as well as documentation needs to be robust, logical and understandable. This includes:
-  1. A clear, logical description of your whole research process that will enable it to be critiqued and reproduced in full - what did you do at each point to the data, and why?
-  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities research questions
-* To pass with a 5, in addition to the above, you need to:
-  1. include an analysis of points of possible biases and problems in your data and pipeline
-  2. contextualise your humanities analysis with regard to other disciplinary knowledge
+* Your project must include a humanities research question, and a description of a complete pipeline that moves from a dataset toward that question. In addition, at least some step of the pipeline needs to be fully implemented.
+* You need to document your pipeline in a way that it can be rerun and its results reproduced.
+* You need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop.
+* Both your analysis as well as documentation need to be robust, logical and understandable. This includes:
+  1. A clear, logical description of your whole research process that will enable it to be critiqued and reproduced in full - what did you do at each point to the data, and why? Also be sure to include an analysis of points of possible biases and problems in your data and pipeline
+  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities research questions. If possible, contextualize your humanities analysis with regard to other disciplinary knowledge
 
-Here it should be noted that getting to grades 4 and 5 will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities scholarship.
+Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities scholarship.
 
 ### Submissions from previous years
 
