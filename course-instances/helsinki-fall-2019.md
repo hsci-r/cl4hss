@@ -292,7 +292,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### ~~Wed 4.12. — No meeting~~
 
-### Mon 9.12. — Support clinic for final project, time for out-of-class work
+### ~~Mon 9.12. — No meeting~~
 
-### ~~Wed 11.12. — No meeting~~
+### Wed 11.12. — Support clinic for final project, time for out-of-class work
 
