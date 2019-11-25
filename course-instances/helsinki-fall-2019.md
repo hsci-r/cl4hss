@@ -212,7 +212,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
    1. How do the two articles relate to each other? 
    2. Research questions - What are the humanities research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and humanities research questions?
-   3. Data - How has the data used been gathered? What are the data sources used? How has the data been processed? Is the data available for others to use?
+   3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
 
@@ -241,7 +241,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
    1. How do the two articles relate to each other? 
    2. Research questions - What are the humanities research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and humanities research questions?
-   3. Data - How has the data used been gathered? What are the data sources used? How has the data been processed? Is the data available for others to use?
+   3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
 {% endtab %}
