@@ -267,7 +267,9 @@ Due to not being able to go through all tools on the Monday session, about an ho
 {% endtab %}
 
 {% tab title="Meeting contents" %}
-* 
+* Group assignment on topic modelling
+* [lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
+* Briefing of assignments
 {% endtab %}
 
 {% tab title="Assignments given" %}
