@@ -282,13 +282,35 @@ Due to not being able to go through all tools on the Monday session, about an ho
    4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
    5. Critically analyze your data and pipeline for potential bias and problems. 
 
-   These will be peer reviewed.
+   These will be peer reviewed. Return the assignments at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622)
 {% endtab %}
 {% endtabs %}
 
 ### Between — Research, Final project planning
 
 ### Mon 2.12. — Debriefing, Open, reproducible research
+
+{% tabs %}
+{% tab title="Assignments due" %}
+1. Find \(in groups if you like\) a computational humanities research paper that interests you. Prepare to present it in class.
+2. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+
+   1. What are your humanities research questions?
+   2. Which data will you use?
+   3. How do you plan to process, clean up and transform your data?
+   4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
+   5. Critically analyze your data and pipeline for potential bias and problems. 
+
+   These will be peer reviewed. Return the assignments at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622)
+{% endtab %}
+
+{% tab title="Meeting contents" %}
+* Research article presentations
+* [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
+* Lecture on open, reproducible research
+* Briefing on evaluation of project plans
+{% endtab %}
+{% endtabs %}
 
 ### Between — Final project
 
