@@ -307,7 +307,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 {% tab title="Meeting contents" %}
 * Research article presentations
 * [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
-* Lecture on open, reproducible research
+* [Lecture on open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vSccF2ApbHDYv6hWmN0f5QvnXCjnL7Kfd4ydQ5ndtdEkDYzDzD3MPCGxE_y8RBqusY21ZreXCQkBzhB/pub?start=false&loop=false&delayms=3000)
 * Briefing on evaluation of project plans
 {% endtab %}
 {% endtabs %}
