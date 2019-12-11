@@ -324,3 +324,5 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
 ### Wed 11.12. — Optional support clinic for final project
 
+### Sun 5.1. — Deadline for returning final project
+
