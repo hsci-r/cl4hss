@@ -75,6 +75,7 @@ Note also that this delineation rules out all the advances and development in co
 ### Further reading
 
 * [Computation and the Humanities - Towards an Oral History of Digital Humanities](https://link.springer.com/book/10.1007%2F978-3-319-20170-2)
+* [The early history of digital humanities: An analysis of _Computers and the Humanities_ \(1966–2004\) and _Literary and Linguistic Computing_ \(1986–2004\)](https://doi.org/10.1093/llc/fqz072)
 
 
 
