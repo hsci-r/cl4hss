@@ -68,6 +68,7 @@ Despite sharing fundamental concepts,n the other hand, different programming lan
 
 * [The Historian’s Macroscope](http://www.themacroscope.org/?page_id=584), a good general purpose book
 * [Computational and Inferential Thinking - The Foundations of Data Science](https://www.inferentialthinking.com/), an excellent introduction to statistical  analysis with interactive Python notebooks
+* [Data analysis with Python](https://csmastersuh.github.io/data_analysis_with_python_2020/), a slightly technical but very from-the-ground-up introduction to important libraries and tools for data analysis in Python
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/), the best introduction to programming for humanists that I could find
 * [R short and sweet](https://www.datacamp.com/courses/r-short-and-sweet) at DataCamp \(a part of the [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki\)
 * [R for Social Scientists](https://datacarpentry.org/r-socialsci/), an R tutorial, not really anything specific to social science

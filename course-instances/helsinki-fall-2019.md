@@ -1,5 +1,5 @@
 ---
-description: Timetable for fall 2019
+description: Preliminary timetable for fall 2019
 ---
 
 # Helsinki fall 2019
