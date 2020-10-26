@@ -1,9 +1,9 @@
 # Computational literacy for the humanities and social sciences
 
-By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Humanities–Computing Interaction](http://heldig.fi/hssci) at the [University of Helsinki](https://www.helsinki.fi/).
+By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
-This content is not yet complete. It was initially being developed as the [fall 2018 course](course-instances/helsinki-fall-2018.md) at the University of Helsinki progressed. Now, it is being updated for the [fall 2019 course](course-instances/helsinki-fall-2019.md). Each page that hasn't been yet completely converted from lecture slide format has a header similar to this at the top noting its draft status, as well as a 🏗 mark in the [table of contents below](./#course-contents).
+This content is not yet complete, in the sense that some sections have not yet been converted from their original lecture slide format into self-contained texts for self-study. Each such section has a header similar to this at the top noting its draft status, as well as a 🏗 mark in the [table of contents below](./#course-contents).
 {% endhint %}
 
 ## Target audience
@@ -21,7 +21,9 @@ The probability of either of these happening very much depends on what you are i
 
 ## Course concept and learning goals
 
-This course is an introductory course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities](http://j.mp/allthedh). Instead, it hems closely to [our local focus in digital humanities](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities), which itself aligns with the[ long tradition of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md). On the other hand, with regard to subfields of the humanities, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
+This course is an introductory course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities and computational social sciences](http://j.mp/allthedh). Instead, it hems closely to [our local focus ](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities)in Helsinki, which itself aligns with the[ long tradition of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md). 
+
+On the other hand, with regard to subfields of the humanities or social sciences, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
 
 As a signposting course, the course describes the landscape of computational humanities and social sciences. It provides students with the knowledge they need to choose their own focus within it, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
 

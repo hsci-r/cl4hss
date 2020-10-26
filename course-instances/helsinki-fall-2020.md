@@ -1,5 +1,9 @@
 # Helsinki fall 2020
 
+The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first two weeks, we will fall into a schedule where meetings happen on each Thursday, while each Tuesday is reserved for doing the assignments for that week.
+
+![Meetings and assignments at a glance](../.gitbook/assets/image%20%285%29.png)
+
 ### Tue **27.10.** — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
 {% tabs %}
