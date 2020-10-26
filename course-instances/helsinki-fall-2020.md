@@ -11,18 +11,18 @@
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For 30.10. \(in two days\): 
+For Thu 29.10. \(in two days\): 
 
 1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1) \(~5min\)
-2. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss  why you chose those that project in class. \(~20-40min\)
+2. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class. \(~20-40min\)
 
-For 6.11. \(in 2 weeks, but more assignments will be given on Wednesday, so start already\):
+For Tue 3.11. \(in one week, but more assignments will be given on Thursday, so start already\):
 
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there \(~1-2h\)
 {% endtab %}
 {% endtabs %}
 
-### Wed 30.10. — Debriefing of assignments, Different types of data, data quality, available open datasets 
+### Thu 29.10. — Debriefing of assignments, Different types of data, data quality, available open datasets 
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -37,96 +37,135 @@ For 6.11. \(in 2 weeks, but more assignments will be given on Wednesday, so star
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For 11.11. \(in 1½ week\):
+For Tue 3.11. \(in five days\):
 
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there \(~1-2h\).
-2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to discuss in class:
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class \(one slide, max 3 minutes\):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
    4. what potential sources of problems or biases does it have. \(~15-45min\)
-3. Tools:
-   1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine). \(~30-60min\)
-   2. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
+3. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine). \(~30-60min\)
 
-      1. Visualization:
-         * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
-         * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-         * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
-         * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
-           * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-         * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
-         * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
-         * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
-         * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
-      2. Data acquisition:
-         1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
-         2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
-         3. Keyword generation from text: [Annif](http://annif.org/)
-         4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
-         5. An automated image/video description tool
-         6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
+For Thu 5.11. \(in one week\):
 
-      If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration of the tool for class, describing:
+1. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
 
-      1. What is the tool good for?
-      2. What kind of data do you need for the tool to be useful? 
-         1. What information does the data need to contain?
-         2. What format does it have to be in?
-      3. Your experience with the tool.
-      4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
+   1. Visualization:
+      * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
+      * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
+      * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
+      * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+        * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
+      * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
+      * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+      * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
+      * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
+   2. Data acquisition:
+      1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
+      2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
+      3. Keyword generation from text: [Annif](http://annif.org/)
+      4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+      5. An automated image/video description tool
+      6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
+
+   If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration \(5-10 minutes\) of the tool for class, describing:
+
+   1. What is the tool good for?
+   2. What kind of data do you need for the tool to be useful? 
+      1. What information does the data need to contain?
+      2. What format does it have to be in?
+   3. Your experience with the tool.
+   4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
 {% endtab %}
 {% endtabs %}
 
-### ~~Mon 4.11. — No meeting~~, time for out-of-class work
-
-### ~~Wed 6.11. — No meeting~~, time for out-of-class work
-
-### Mon 11.11. — Debriefing of assignments, Programming
+### Tue 3.11. — Debriefing of assignments
 
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there \(~1-2h\).
-2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to discuss in class:
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class \(one slide, max 3 minutes\):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
    4. what potential sources of problems or biases does it have. \(~15-45min\)
-3. Tools:
-   1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine). \(~30-60min\)
-   2. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
-
-      1. Visualization:
-         * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
-         * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-         * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
-         * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
-           * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-         * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
-         * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
-         * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
-         * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
-      2. Data acquisition:
-         1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
-         2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
-         3. Keyword generation from text: [Annif](http://annif.org/)
-         4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
-         5. An automated image/video description tool
-         6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
-
-      If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration of the tool for class, describing:
-
-      1. What is the tool good for?
-      2. What kind of data do you need for the tool to be useful? 
-         1. What information does the data need to contain?
-         2. What format does it have to be in?
-      3. Your experience with the tool.
-      4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
+3. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine). \(~30-60min\)
 {% endtab %}
 
 {% tab title="Meeting contents" %}
-* Group discussion of the history of humanities computing
-* Group discussion of datasets
+* Group discussion on the history of humanities computing
+* Presentations on datasets
+* Group discussion on OpenRefine
+{% endtab %}
+
+{% tab title="Assignments given" %}
+For 5.11. \(in two days\):
+
+1. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
+   1. Visualization:
+      * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
+      * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
+      * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
+      * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+        * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
+      * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
+      * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+      * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
+      * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
+   2. Data acquisition:
+      1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
+      2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
+      3. Keyword generation from text: [Annif](http://annif.org/)
+      4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+      5. An automated image/video description tool
+      6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
+
+If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration \(5-10 minutes\) of the tool for class, describing:
+
+1. What is the tool good for?
+2. What kind of data do you need for the tool to be useful? 
+   1. What information does the data need to contain?
+   2. What format does it have to be in?
+3. Your experience with the tool.
+4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
+{% endtab %}
+{% endtabs %}
+
+### Thu 5.11. — Debriefing of assignments, Programming
+
+{% tabs %}
+{% tab title="Assignments due" %}
+1. Experiment with at least one of the following tools \(~30-60min + ~15-30min\):
+   1. Visualization:
+      * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
+      * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
+      * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
+      * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
+        * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
+      * tabular data → map\(+timeline\) visualisations: ​[Carto](https://carto.com/)​
+      * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+      * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
+      * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
+   2. Data acquisition:
+      1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
+      2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
+      3. Keyword generation from text: [Annif](http://annif.org/)
+      4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+      5. An automated image/video description tool
+      6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
+
+If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration \(5-10 minutes\) of the tool for class, describing:
+
+1. What is the tool good for?
+2. What kind of data do you need for the tool to be useful? 
+   1. What information does the data need to contain?
+   2. What format does it have to be in?
+3. Your experience with the tool.
+4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
+{% endtab %}
+
+{% tab title="Meeting contents" %}
 * Group presentations of tools
 * Briefing of assignments on programming and research
 
@@ -134,7 +173,7 @@ For 11.11. \(in 1½ week\):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For 18.11. \(in 1 week\):
+For Thu 12.11. \(in one week\):
 
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
 2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there.
@@ -147,23 +186,11 @@ For 18.11. \(in 1 week\):
 
    Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
 
-4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111) which we went through quickly on the first lecture. Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
+4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
 {% endtab %}
 {% endtabs %}
 
-### Between — Programming, Research
-
-### Wed 13.11. Continuation of tool and dataset presentations, support clinic for programming
-
-Due to not being able to go through all tools on the Monday session, about an hour of this session will be used to go through the rest. After that, I'll be available to help you do the programming assignments.
-
-### Between — Programming, Research
-
-### ~~Mon 18.11. — Class cancelled due to illness~~
-
-### Between — Programming, Research
-
-### Wed 20.11. — Debriefing, Statistics
+### Thu 12.11. — Debriefing, Statistics
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -178,7 +205,7 @@ Due to not being able to go through all tools on the Monday session, about an ho
 
    Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
 
-4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111) which we went through quickly on the first lecture. Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
+4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
 {% endtab %}
 
 {% tab title="Meeting contents" %}
@@ -207,18 +234,14 @@ Due to not being able to go through all tools on the Monday session, about an ho
    Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
 
    1. How do the two articles relate to each other? 
-   2. Research questions - What are the humanities research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and humanities research questions?
+   2. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
    3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-
-3. For 27.11. explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
-### Between — Statistics, Computational analysis
-
-### Mon 25.11. — Debriefing, Computational analysis
+### Thu 19.11. — Debriefing, Computational analysis
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -253,42 +276,57 @@ Due to not being able to go through all tools on the Monday session, about an ho
 {% endtab %}
 
 {% tab title="Assignments given" %}
+For Thu 26.11. \(in one week\):
+
 1. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
+2. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+   1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
+   2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
+   3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
+   4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
 {% endtab %}
 {% endtabs %}
 
-### Between — Research
-
-### Wed 27.11. — Debriefing, Computational analysis
+### Thu 27.11. — Debriefing, Computational analysis
 
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Explore [this topic model](http://aulis.sange.fi/~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
+2. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+   1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
+   2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
+   3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
+   4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
 {% endtab %}
 
 {% tab title="Meeting contents" %}
+* Group presentations on research
 * Group assignment on topic modelling
 * [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
 * Briefing of assignments
 {% endtab %}
 
 {% tab title="Assignments given" %}
-1. Find \(in groups if you like\) a computational humanities research paper that interests you. Prepare to present it in class.
-2. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+For Tue 1.12. \(in five days\):
 
-   1. What are your humanities research questions?
+1. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+
+   1. What are your human research questions?
    2. Which data will you use?
    3. How do you plan to process, clean up and transform your data?
-   4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
+   4. How do you plan to analyze your data? How will the analysis help answer the human research questions?
    5. Critically analyze your data and pipeline for potential bias and problems. 
 
    These will be peer reviewed. Return the assignments at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622)
+
+For Thu 3.12. \(in one week\):
+
+1. Peer review two project plans of your fellow students
+2. Be prepared to shortly present your project plan to the others
 {% endtab %}
 {% endtabs %}
 
-### Between — Research, Final project planning
-
-### Mon 2.12. — Debriefing, Open, reproducible research
+### Thu 3.12. — Debriefing, Open, reproducible research
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -305,20 +343,16 @@ Due to not being able to go through all tools on the Monday session, about an ho
 {% endtab %}
 
 {% tab title="Meeting contents" %}
-* Research article presentations
-* [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
+* Project plan presentations
 * [Lecture on open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vSccF2ApbHDYv6hWmN0f5QvnXCjnL7Kfd4ydQ5ndtdEkDYzDzD3MPCGxE_y8RBqusY21ZreXCQkBzhB/pub?start=false&loop=false&delayms=3000)
-* Briefing on evaluation of project plans
+{% endtab %}
+
+{% tab title="Assignments given" %}
+For Thu 17.12. \(in two weeks\):
+
+1. [Final project](../final-project.md)
 {% endtab %}
 {% endtabs %}
 
-### Between — Final project
-
-### ~~Wed 4.12. — No meeting~~
-
-### ~~Mon 9.12. — No meeting~~
-
-### Wed 11.12. — Optional support clinic for final project
-
-### Sun 5.1. — Deadline for returning final project
+### Thu 17.12. — Deadline for returning final project
 
