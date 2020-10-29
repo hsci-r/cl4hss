@@ -1,7 +1,7 @@
-# Different types of data, data quality, available open datasets
+# Data
 
 {% hint style="danger" %}
-This content is not yet complete. In the meantime, please see this presentation: [Different types of data, data quality, available open datasets](https://docs.google.com/presentation/d/e/2PACX-1vRxpRxXXyF-fTZ8YpB5utG09SNnmti4MB7qTzYU2ipQl0VBlmmODdqgIX0g4CO3EEJ3OiKuePP3vlt0/pub?start=false&loop=false&delayms=3000) \([pdf](https://docs.google.com/presentation/d/1KFpHbK9Fu8mu5pN-6FA7wmNuX1HTrpmGZ3lhPlASvd4/export/pdf), [gd](https://docs.google.com/presentation/d/1KFpHbK9Fu8mu5pN-6FA7wmNuX1HTrpmGZ3lhPlASvd4/edit)\)
+This content is not yet complete. In the meantime, please see [this presentation](https://docs.google.com/presentation/d/e/2PACX-1vSv9s1sY5NMfjnCKPU7NJZyB6zY3B7BMSNMXuWSDBi71uDkn6tq_u53qYbpnhJN3etf9n_oJgJrU7U8/pub?start=false&loop=false&delayms=3000)
 {% endhint %}
 
 ## Archetypes of data

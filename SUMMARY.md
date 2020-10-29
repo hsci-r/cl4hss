@@ -3,7 +3,7 @@
 * [Computational literacy for the humanities and social sciences](README.md)
 * [Three approaches to computational methods](introduction-three-approaches-to-methods-for-digital-humanists/README.md)
   * [History of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md)
-* [Different types of data, data quality, available open datasets](different-types-of-data-data-quality-available-open-datasets.md)
+* [Data](different-types-of-data-data-quality-available-open-datasets.md)
 * [Easy tools for acquiring, processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
 * [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 * [Data processing: regular expressions](regular-expressions.md)
