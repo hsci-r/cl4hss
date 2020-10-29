@@ -4,12 +4,6 @@ Zoom meeting for the course: [https://helsinki.zoom.us/j/68027991035](https://he
 
 The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Thursday, while each Tuesday is reserved for doing the assignments for that week.
 
-**General note:** there's a lot to take in during the course, and much of it may be unfamiliar and at first confusing. A major principle of the course is that you should not try to wholly understand everything in the first instance. While an effort has been made to keep the language and concepts as simple as I could make them, as well as order them sensibly with regard to each other, often there was no way I could order everything neatly into a linear learning progression. 
-
-For example, to really understand ready to use analysis tools, one needs to know how they relate to the possibilities of computational analyses in general, as well as different types of data and different types of preprocessing of that data. Further, to properly contextualise them, one also needs to understand how their affordances differ from those available to users of programmatic analysis libraries. However, ready to use tools are still presented before programming, data transformations and computational analyses, because I feel having tried them in practice provides a good springboard for understanding these more abstract and complex topics.
-
-Thus, when going through the course and doing the assignments, try not to be bothered by not understanding everything. Instead, it is enough at each point to just have even a vague general notion or gist of things, and trust that it will all make sense in the end, once we've gone through all the subtopics.  
-
 ![Meetings and assignments at a glance](../.gitbook/assets/image%20%286%29.png)
 
 ### Tue **27.10.** — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
