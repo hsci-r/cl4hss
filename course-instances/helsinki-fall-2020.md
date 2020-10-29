@@ -2,7 +2,7 @@
 
 Zoom meeting for the course: [https://helsinki.zoom.us/j/68027991035](https://helsinki.zoom.us/j/68027991035). To get into the meeting, use the code 065380.
 
-The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first two weeks, we will fall into a schedule where meetings happen on each Thursday, while each Tuesday is reserved for doing the assignments for that week.
+The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Thursday, while each Tuesday is reserved for doing the assignments for that week.
 
 ![Meetings and assignments at a glance](../.gitbook/assets/image%20%286%29.png)
 
