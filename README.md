@@ -1,6 +1,6 @@
 # Computational literacy for the humanities and social sciences
 
-By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor \(tenure track\) in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi/).
+By [Eetu Mäkelä](http://iki.fi/eetu.makela), associate professor in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
 This content is not yet complete, in the sense that some sections have not yet been converted from their original lecture slide format into self-contained texts for self-study. Each such section has a header similar to this at the top noting its draft status, as well as a 🏗 mark in the [table of contents below](./#course-contents).
@@ -12,7 +12,7 @@ People of all levels in the humanities and interpretive social sciences interest
 
 **Prerequisites:** Absolutely none.
 
-**Aside:** Why should you  be interested in computational methods? Two reasons:
+**Aside:** Why should you be interested in computational methods? Two reasons:
 
 1. they may allow you yourself to do your work more efficiently, and
 2. they may lead to completely new and powerful ways of addressing questions in your field
