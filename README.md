@@ -67,7 +67,7 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
 ## Practical matters
 
 * The course has a Slack workspace at [clit4hss.slack.com](https://clit4hss.slack.com/) used for both returning some assignments as well as peer and teacher support. Please [join](https://join.slack.com/t/clit4hss/shared_invite/enQtODE2OTc5ODk3ODMwLTMyMzEyZmMzNDgwM2Y3NDhhNTE2ZjAwMzU5YjY3NzI3YzVjYjQ2YThkYjFjOWRiZWJiZTYyZDc4ZDY0YTAwYjk) it.
-* For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\). You also naturally need access to the sources \(most commonly through accessing them from a university network / VPN\).
+* For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/meth4dh) the METH4DH group \(as well as register in general if you don't already have an account\). You also naturally need access to the sources \(most commonly through accessing them from a university network / VPN. For example for Helsinki, see [this guide](https://helpdesk.it.helsinki.fi/en/logging-and-connections/networks/connections-outside-university)\).
 * If you use the material for self-study and it ends up being useful for you, I'd appreciate a note about this. Feel free to send that either through Slack, e-mail, Twitter or wherever you [find me](http://iki.fi/eetu.makela).
 
 ## Licensing
