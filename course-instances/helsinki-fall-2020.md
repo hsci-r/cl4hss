@@ -99,13 +99,14 @@ For Thu 5.11. \(in one week\):
       * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
       * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
       * If you're feeling explorative, feel free to also dig for more tools in [TAPoR](http://tapor.ca/home).
-   2. Data acquisition:
+   2. Data acquisition/enrichment:
       1. Hand-written text transcription: [Transkribus](https://transkribus.eu/)
       2. Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting_started)
       3. Keyword generation from text: [Annif](http://annif.org/)
-      4. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
-      5. An automated image/video description tool
-      6. Twitter archiving: [TAGS](https://tags.hawksey.info/)
+      4. Morphological analysis: [TurkuNLP](http://bionlp-www.utu.fi/parser_demo/)/[LAS](https://github.com/hsci-r/las/)
+      5. An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
+      6. An automated image/video description tool
+      7. Twitter archiving: [TAGS](https://tags.hawksey.info/)
 
 If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration \(5-10 minutes\) of the tool for class, describing:
 
