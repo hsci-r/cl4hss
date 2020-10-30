@@ -66,6 +66,7 @@ This section not yet written. In the meantime, please see [this presentation](ht
 
 Potential datasets/APIs are for example:
 
+* [CLARIN corpora](https://www.clarin.eu/portal)
 * [Korp API](https://kitwiki.csc.fi/twiki/bin/view/FinCLARIN/KielipankkiHelpKorpWebService)
 * [Finnish national gallery API / dump](http://kokoelmat.fng.fi/api/v2support/docs/#/download)
 * [Schoenberg database](http://dla.library.upenn.edu/dla/schoenberg/ancillary.html?id=dla/schoenberg/data)
