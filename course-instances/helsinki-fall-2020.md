@@ -12,7 +12,7 @@ The course relies heavily on blended learning and flipped classroom techniques. 
 {% tab title="Meeting contents" %}
 * Activatory pair discussion
 * [Introduction, practicalities -lecture](https://docs.google.com/presentation/d/e/2PACX-1vT9OQtyE2pb8I3_TPDOTO5fmF8G4Mx2cE7WpP4ebORcjg5o6b55y96CHo-0CLLgX05l0V4x2nUnvu50/pub?start=false&loop=false&delayms=3000)
-* Flinga questionnaire on background and interests
+* [Flinga questionnaire on background and interests](https://edu.flinga.fi/s/E39GQBX)
 * Briefing of assignments
 {% endtab %}
 
