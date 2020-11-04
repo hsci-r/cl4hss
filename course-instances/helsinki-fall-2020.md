@@ -126,10 +126,12 @@ For Thu 5.11. \(in one week\):
 {% endtab %}
 
 {% tab title="Meeting contents" %}
+* Group discussion on the history of humanities computing
+* Debriefing of the OpenRefine assignment
 * Group presentations of tools
 * Briefing of assignments on programming and research
 
-[slides](https://docs.google.com/presentation/d/e/2PACX-1vRb3K2EwOyULvoySAa2qe_c50v6uyJaVJeuioNwcm48Atj7aDC_j4qZcJbkMnipeeUjCHWakmPhXkmT/pub?start=false&loop=false&delayms=3000)
+slides
 {% endtab %}
 
 {% tab title="Assignments given" %}
