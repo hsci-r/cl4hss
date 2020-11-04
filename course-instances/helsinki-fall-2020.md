@@ -131,7 +131,7 @@ For Thu 5.11. \(in one week\):
 * Group presentations of tools
 * Briefing of assignments on programming and research
 
-slides
+[slides](https://docs.google.com/presentation/d/e/2PACX-1vTmMCdQHDsAp35X5Nv7VDl6O8fhxqirYhJC40wAQ5ix0C-1XVPZR9HLPnzLNLhzKilwoUOILsqdVLlV/pub?start=false&loop=false&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
