@@ -77,7 +77,7 @@ Despite sharing fundamental concepts,n the other hand, different programming lan
     * [Data visualisation with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/index.html)
 * [The Programming Historian](http://programminghistorian.org/), lessons and tutorials for doing various DH things
 * [Eloquent Javascript](http://eloquentjavascript.net/), a nicely built general, interactive introduction to programming
-* 
+
 
 
 
