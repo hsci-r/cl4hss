@@ -49,7 +49,7 @@ After going through the above notebooks, and arming yourself with the summary [c
 
    If someone has already posted on the library you chose, don't repeat them. Instead, add to what they've said in a thread.
 
-3. Figure out what exactly [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
+3. Figure out what [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. Post answers as private messages to Eetu on Slack.
 {% endhint %}
 
 ### What is left out
