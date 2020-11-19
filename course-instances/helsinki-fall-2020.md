@@ -245,10 +245,7 @@ For Thu 12.11. \(in one week\):
 {% tab title="Assignments given" %}
 For Thu 26.11. \(in one week\):
 
-1. \(Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
-   1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
-   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)\)
-2. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+1. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
@@ -260,10 +257,7 @@ For Thu 26.11. \(in one week\):
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1. \(Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
-   1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
-   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)\)
-2. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+1. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
@@ -280,7 +274,10 @@ For Thu 26.11. \(in one week\):
 {% tab title="Assignments given" %}
 For Tue 1.12. \(in five days\):
 
-1. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+1. \(Do the assignments on statistics \(not yet ready, but will contain the following in addition to other stuff\):
+   1. [Explore bootstrapping](http://www.lock5stat.com/StatKey/bootstrap_1_quant/bootstrap_1_quant.html)
+   2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)\)
+2. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
    1. What are your human research questions?
    2. Which data will you use?
@@ -288,7 +285,7 @@ For Tue 1.12. \(in five days\):
    4. How do you plan to analyze your data? How will the analysis help answer the human research questions?
    5. Critically analyze your data and pipeline for potential bias and problems. 
 
-   These will be peer reviewed. Return the assignments at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622)
+   These will be peer-reviewed. Return the assignments at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622)
 
 For Thu 3.12. \(in one week\):
 
