@@ -298,7 +298,7 @@ For Tue 1.12. \(in five days\):
 
 For Thu 3.12. \(in one week\):
 
-1. Be prepared to shortly present your project plan to the others
+1. Be prepared to shortly \(1-2 minutes max\) present your project plan to the others
 {% endtab %}
 {% endtabs %}
 
@@ -307,7 +307,7 @@ For Thu 3.12. \(in one week\):
 {% tabs %}
 {% tab title="Assignments due" %}
 1. \(Tue 1.12.\) Peer review two project plans of your fellow students
-2. Be prepared to shortly present your project plan to the others
+2. Be prepared to shortly \(1-2 minutes max\) present your project plan to the others
 {% endtab %}
 
 {% tab title="Meeting contents" %}
