@@ -287,7 +287,7 @@ For Thu 26.11. \(in one week\):
 {% tab title="Meeting contents" %}
 * Group presentations on research
 * Group assignment on topic modelling
-* [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vTJKHzblBw3CByRLedu7_YzBGmbdLvT9O3ovDk0eN3awZXN1IBVrE8mSocIsInT1LbFzEcfHjUvuSwj/pub?start=false&loop=false&delayms=3000)
+* [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vQfa8arUdmrbczoj75R806mwTBtzQsjVacMvHbmL-3sA_rAzPClc0WgTFSNnRK9ZphZ37c2oLolNhj-/pub?start=false&loop=false&delayms=3000)
 * Briefing of assignments
 {% endtab %}
 
