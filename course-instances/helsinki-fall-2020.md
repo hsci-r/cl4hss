@@ -271,7 +271,7 @@ For Thu 26.11. \(in one week\):
    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2. Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+2. Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
    1. What are your humanities research questions?
    2. Which data will you use?
@@ -279,7 +279,7 @@ For Thu 26.11. \(in one week\):
    4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
    5. Critically analyze your data and pipeline for potential bias and problems. 
 
-   These will be peer reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622).
+   These will be peer-reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622).
 
    .
 {% endtab %}
@@ -312,7 +312,7 @@ For Thu 3.12. \(in one week\):
 
 {% tab title="Meeting contents" %}
 * Project plan presentations
-* [Lecture on open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vSccF2ApbHDYv6hWmN0f5QvnXCjnL7Kfd4ydQ5ndtdEkDYzDzD3MPCGxE_y8RBqusY21ZreXCQkBzhB/pub?start=false&loop=false&delayms=3000)
+* [Lecture on open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vSBysmBut7oJX5DrsiN-5MNlsDYK8n2B5P3EUzc1nDtFujouuBW-FWWgcYH7QKxrwP7mFWDix__nNtC/pub?start=false&loop=false&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
