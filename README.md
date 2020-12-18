@@ -64,7 +64,11 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
 8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md) 🏗 
 9. [Digital humanities project](final-project.md)
 
-**General note:** there's a lot to take in during the course, and much of it may be unfamiliar and at first confusing. A major principle of the course is that you should not try to wholly understand everything in the first instance. While an effort has been made to keep the language and concepts as simple as I could make them, as well as order them sensibly with regard to each other, often there was no way I could order everything neatly into a linear learning progression. 
+### **General note**
+
+_"At times the course felt like being hit by a bus, the way we were forced to figure out many things on our own. It did at times result in an awful lot of stress, but it actually was the best way to learn how to do these things and more importantly, how to find info on how different things work and should be done."_  _-_ course feedback
+
+There's a lot to take in during the course, and much of it may be unfamiliar and at first confusing. A major principle of the course is that you should not try to wholly understand everything in the first instance. While an effort has been made to keep the language and concepts as simple as I could make them, as well as order them sensibly with regard to each other, often there was no way I could order everything neatly into a linear learning progression. 
 
 For example, to really understand [easy to use end user tools](easy-tools-for-processing-and-exploring-data.md), one needs to know how they relate to the [possibilities of computational analyses in general](computational-data-analysis-method-literacy/), as well as [different types of data](different-types-of-data-data-quality-available-open-datasets.md) and different types of [preprocessing ](regular-expressions.md)of that data. Further, to properly contextualise them, one also needs to understand how their affordances differ from those available to users of [programmatic](data-processing-fundamental-concepts-of-programming-for-humanists.md) analysis libraries. However, ready to use tools are still presented before programming, data transformations and computational analyses, because I feel having tried them in practice provides a good springboard for understanding these more abstract and complex topics.
 
