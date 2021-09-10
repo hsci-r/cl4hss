@@ -33,7 +33,7 @@ After this course:
 * She herself is able to use [ready tools](easy-tools-for-processing-and-exploring-data.md) to work with data. 
 * In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose. 
 * She also learns how [open, reproducible research and publishing](open-reproducible-research-and-publishing.md) is done in practice. 
-* Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational human sciences, and when to apply them. 
+* Further, the student gains a general literacy on advanced [statistical](computational-data-analysis-method-literacy/) and [computer science](computational-data-analysis-method-literacy/) methods applicable to computational human sciences, and when to apply them \(as well as crucially, when and how **not** to apply them\). 
 * Finally, she learns to apply all of the above in practice in a [small concrete computational human sciences project](final-project.md). 
 
 Yet most importantly, after this course and utilising all of the above, the student is able to: 
