@@ -44,12 +44,12 @@ To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your
 
 ### Evaluation criteria
 
-* Your project must include a humanities research question, and a description of a complete pipeline that moves from a dataset toward that question. In addition, at least some step of the pipeline needs to be fully implemented.
-* You need to document your pipeline in a way that it can be rerun and its results reproduced.
-* You need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop.
-* Both your analysis as well as documentation need to be robust, logical and understandable. This includes:
-  1. A clear, logical description of your whole research process that will enable it to be critiqued and reproduced in full - what did you do at each point to the data, and why? Also be sure to include an analysis of points of possible biases and problems in your data and pipeline
-  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities research questions. If possible, contextualize your humanities analysis with regard to other disciplinary knowledge
+* Minimum requirement (grade 1/5): Your project must include a humanities research question, and a description of a complete pipeline that moves from a dataset toward that question. In addition, at least some step of the pipeline needs to be fully implemented.
+* You need to document your pipeline in a way that it can be rerun and its results reproduced. (+1 grade)
+* You need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop. (+1 grade)
+* To get a 4 or a 5, both your analysis as well as documentation need to be robust, logical and understandable. This includes:
+  1. A clear, logical description of your whole research process that will enable it to be critiqued and reproduced in full - what did you do at each point to the data, and why? Also be sure to include an analysis of points of possible biases and problems in your data and pipeline (+1 grade)
+  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities research questions. If possible, contextualize your humanities analysis with regard to other disciplinary knowledge (+1 grade)
 
 Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities scholarship.
 
