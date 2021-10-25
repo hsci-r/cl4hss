@@ -15,8 +15,8 @@
 * [Final project](final-project.md)
 * [Where to continue?](where-to-continue.md)
 * [Course instances](course-instances/README.md)
+  * [Helsinki fall 2021](course-instances/helsinki-fall-2021.md)
   * [Helsinki fall 2020](course-instances/helsinki-fall-2020.md)
   * [Helsinki fall 2019](course-instances/helsinki-fall-2019.md)
   * [Helsinki fall 2018](course-instances/helsinki-fall-2018.md)
 * [Holding area for unfinished content](three-approaches-to-methods-for-digital-humanities-work-area.md)
-

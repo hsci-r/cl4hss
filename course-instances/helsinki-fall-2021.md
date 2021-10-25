@@ -1,12 +1,16 @@
-# Helsinki fall 2020
+# Helsinki fall 2021
 
 Zoom meeting for the course: [https://helsinki.zoom.us/j/68027991035](https://helsinki.zoom.us/j/68027991035). To get into the meeting, use the code 065380.
 
-The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Thursday, while each Tuesday is reserved for doing the assignments for that week.
+The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Wednesday, while each Monday is reserved for doing the assignments for that week.
 
-![Meetings and assignments at a glance](<../.gitbook/assets/image (15).png>)
+![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule.png>)
 
-### Tue** 27.10. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
+
+### Mon** 1.11. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
 {% tabs %}
 {% tab title="Meeting contents" %}
@@ -29,7 +33,7 @@ For Thu 5.11. (in 1½ weeks, but more assignments will be given on Thursday, so 
 {% endtab %}
 {% endtabs %}
 
-### Thu 29.10. — Debriefing of assignments, data
+### Wed 3.11. — Debriefing of assignments, data
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -86,7 +90,7 @@ For Thu 5.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-### Thu 5.11. — Debriefing of assignments, Programming
+### Wed 10.11. — Debriefing of assignments, Programming
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -153,7 +157,7 @@ For Thu 12.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-### Thu 12.11. — Debriefing, Recap
+### Wed 17.11. — Debriefing, Recap
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -204,7 +208,7 @@ For Thu 12.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-### Thu 19.11. — Debriefing, Computational analysis
+### Wed 24.11. — Debriefing, Computational analysis
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -259,7 +263,7 @@ For Thu 26.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-### Thu 26.11. — Debriefing, Computational analysis
+### Wed 1.12. — Debriefing, Computational analysis
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -299,7 +303,7 @@ For Thu 3.12. (in one week):
 {% endtab %}
 {% endtabs %}
 
-### Thu 3.12. — Debriefing, Open, reproducible research
+### Wed 8.12. — Debriefing, Open, reproducible research
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -319,4 +323,4 @@ For Thu 17.12. (in two weeks):
 {% endtab %}
 {% endtabs %}
 
-### Thu 17.12. — Deadline for returning final project
+### Wed 22.12. — Deadline for returning final project

@@ -1,15 +1,15 @@
 # Final project
 
-To pass the course, you are required to demonstrate grasp of actual digital humanities work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities.** 
+To pass the course, you are required to demonstrate grasp of actual digital humanities work. Therefore, you are tasked with taking some dataset, and processing it in some way** to yield an analysis that tackles a question of interest in the humanities. **
 
 This assignment requires applying all the knowledge you have learned on the course to devise and test a process going from data to results. To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
 
-Potential datasets/APIs are for example \(but instead of these please choose a dataset that is relevant to yourself\):
+Potential datasets/APIs are for example (but instead of these please choose a dataset that is relevant to yourself):
 
 * [Korp API](https://kitwiki.csc.fi/twiki/bin/view/FinCLARIN/KielipankkiHelpKorpWebService)
 * [Finnish national gallery API / dump](http://kokoelmat.fng.fi/api/v2support/docs/#/download)
 * [Schoenberg database](http://dla.library.upenn.edu/dla/schoenberg/ancillary.html?id=dla/schoenberg/data)
-* [Cushman collection metadata](https://github.com/iulibdcs/cushman_photos)
+* [Cushman collection metadata](https://github.com/iulibdcs/cushman\_photos)
 * [WW2 covert support networks](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources#about-the-case-study)
 * [Europeana APIs](http://labs.europeana.eu/api)
 * [DPLA APIs](http://dp.la/info/developers/codex/)
@@ -20,17 +20,17 @@ Potential datasets/APIs are for example \(but instead of these please choose a d
 
 Tools for processing and analysis are for example:
 
-* Preprocessing: [R](https://www.r-project.org/), [Python](https://www.python.org/), [pandas](http://pandas.pydata.org/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [OpenRefine](http://openrefine.org/), [OpenCV](http://opencv.org/), [TensorFlow™ Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html), [tuneR](https://cran.r-project.org/web/packages/tuneR/index.html), [pyAudio Analysis](https://github.com/tyiannak/pyAudioAnalysis), ...
-* Topic modeling: [Mallet](http://mallet.cs.umass.edu/), [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/index.html), [gensim](https://radimrehurek.com/gensim/), ...
+* Preprocessing: [R](https://www.r-project.org), [Python](https://www.python.org), [pandas](http://pandas.pydata.org), [tm](https://cran.r-project.org/web/packages/tm/index.html), [OpenRefine](http://openrefine.org), [OpenCV](http://opencv.org), [TensorFlow™ Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image\_recognition/index.html), [tuneR](https://cran.r-project.org/web/packages/tuneR/index.html), [pyAudio Analysis](https://github.com/tyiannak/pyAudioAnalysis), ...
+* Topic modeling: [Mallet](http://mallet.cs.umass.edu), [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/index.html), [gensim](https://radimrehurek.com/gensim/), ...
 * Dimensionality reduction/clustering: [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html), [lsa](https://cran.r-project.org/web/packages/lsa/index.html), [BayesLCA](https://cran.r-project.org/web/packages/BayesLCA/index.html), [pvclust](https://cran.r-project.org/web/packages/pvclust/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), ...
-* Social network analysis: [igraph](http://igraph.org/), [sna](https://cran.r-project.org/web/packages/sna/index.html), [statnet](https://cran.r-project.org/web/packages/statnet/index.html), [sonia](http://web.stanford.edu/group/sonia/index.html), …
+* Social network analysis: [igraph](http://igraph.org), [sna](https://cran.r-project.org/web/packages/sna/index.html), [statnet](https://cran.r-project.org/web/packages/statnet/index.html), [sonia](http://web.stanford.edu/group/sonia/index.html), …
 * Simulation: [NetLogo](https://ccl.northwestern.edu/netlogo/), ...
-* Neural networks: [som](https://cran.r-project.org/web/packages/som/index.html), [TensorFlow™](http://www.tensorflow.org/), ...
+* Neural networks: [som](https://cran.r-project.org/web/packages/som/index.html), [TensorFlow™](http://www.tensorflow.org), ...
 * Association rule learning: [arules](https://cran.r-project.org/web/packages/arules/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/),
 * Anomaly detection: [AnomalyDetection](https://github.com/twitter/AnomalyDetection), ...
-* Visualisation: [Palladio](http://palladio.designhumanities.org/), [nodegoat](http://nodegoat.net/), [matplotlib](http://matplotlib.org/), [seaborn](https://seaborn.pydata.org/index.html), [ggplot2](http://ggplot2.org/), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly/), ...
+* Visualisation: [Palladio](http://palladio.designhumanities.org), [nodegoat](http://nodegoat.net), [matplotlib](http://matplotlib.org), [seaborn](https://seaborn.pydata.org/index.html), [ggplot2](http://ggplot2.org), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly), ...
 
-To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. Include in your repository a document \(e.g. a [README.md](https://help.github.com/articles/about-readmes/)\) describing what you've done, **following as best as possible the guidelines for open, reproducible research**. Make sure the document answers the following questions:
+To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com) repository, link that repository with [Zenodo](https://zenodo.org) and give us the Zenodo [DOI](https://www.doi.org) for your work. Include in your repository a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what you've done, **following as best as possible the guidelines for open, reproducible research**. Make sure the document answers the following questions:
 
 1. What are your humanities research questions?
 2. Which data did you use?
@@ -38,7 +38,7 @@ To return the assignment, you will need to upload your data, code and results in
 4. What does the analysis show, how does it answer the humanities research question?
 5. Critically analyze your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
-**Further info:** as said, the most important learning goal for this assignment is to learn how to navigate the between the shoals of data, method and questions in designing a computational humanities research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are \(and that is what question 5 is for\). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline \(e.g. the data cleaning part\). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those \(i.e. a plan for future research\).
+**Further info:** as said, the most important learning goal for this assignment is to learn how to navigate the between the shoals of data, method and questions in designing a computational humanities research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are (and that is what question 5 is for). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline (e.g. the data cleaning part). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those (i.e. a plan for future research).
 
 To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://goo.gl/forms/vXqu71qRJG6uzHgG2)!
 
@@ -55,7 +55,7 @@ Here it should be noted that checking all the marks will be much easier with a p
 
 ### Submissions from previous years
 
-To further aid you in your work, here are some previous submissions for inspiration \(for most of them, you should actually click the GitHub link on the right to start to make sense of them\):
+To further aid you in your work, here are some previous submissions for inspiration (for most of them, you should actually click the GitHub link on the right to start to make sense of them):
 
 * Themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
 * Extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)
@@ -74,4 +74,3 @@ To further aid you in your work, here are some previous submissions for inspirat
 * Exploring ways to compare adaptations of a literary work - DOI: [10.5281/zenodo.1127754](http://doi.org/10.5281/zenodo.1127754)
 * Preliminary analysis comparing different Finnish cabinet strategies against each other - DOI: [10.5281/zenodo.216604](https://doi.org/10.5281/zenodo.216604)
 * Preliminary analysis of patterns in the holdings of the Finnish National Gallery - DOI: [10.5281/zenodo.218735](https://doi.org/10.5281/zenodo.218735)
-

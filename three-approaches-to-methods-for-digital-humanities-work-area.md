@@ -1,17 +1,17 @@
 # Holding area for unfinished content
 
-Data: pictures, artifacts, movies, music, texts, humans, spoken language, archaeological sites, ... -&gt; digital surrogates
+Data: pictures, artifacts, movies, music, texts, humans, spoken language, archaeological sites, ... -> digital surrogates
 
 History of corpus linguistics:
 
-> while language theory became increasingly interested in language as a universal phenomenon, other linguists had become more and more dissatisfied with the descriptions they found for the various languages they dealt with.  
->  - Halliday, M.A.K., et al. Lexicology and Corpus Linguistics, Bloomsbury Publishing, 2004. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/helsinki-ebooks/detail.action?docID=436001.
+> while language theory became increasingly interested in language as a universal phenomenon, other linguists had become more and more dissatisfied with the descriptions they found for the various languages they dealt with.\
+> &#x20;\- Halliday, M.A.K., et al. Lexicology and Corpus Linguistics, Bloomsbury Publishing, 2004. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/helsinki-ebooks/detail.action?docID=436001.
 
 {% hint style="danger" %}
 This is just a holding area for unfinished content while I work on the chapters. It is not meant to make sense to any outside reader.
 {% endhint %}
 
-> “\[technological\] skills training is not research training,” since “the knowledge gained is \[as\] transient” as the tools themselves, whereas “\[critical\] thinking skills are the most important because they are the most deeply embedded and the most transferable.”
+> “\[technological] skills training is not research training,” since “the knowledge gained is \[as] transient” as the tools themselves, whereas “\[critical] thinking skills are the most important because they are the most deeply embedded and the most transferable.”
 >
 > Scholars who are thinking of "computer projects" need, of course, some notion of what computers can and cannot do. But they need not be formally trained or even deeply knowledgeable about computer theory or technique. The reason for this is that we seem to be coming upon a second stage in using computers in the humanities; it is imagination, if only modestly informed, rather than technical expertness that is most needed now.
 
@@ -30,4 +30,3 @@ If, for example, a course is taught by two persons, each specializing in either 
 The key to integrating computer science and the humanities is to develop and promote projects and courses for which the involvement of the computer is integral rather than secretarial. In achieving this goal I would insist that some humanists need to develop their understanding of computer science as well as their computer skills and some computer scientists must become more involved in non-technical, humanistic research. The result would be a type of scholar in whom computational and humanistic interests combine to foster new directions and methods on the basis of traditional concerns.
 
 As soon as I had said that it would be a course on literature and computing, the immediate response of one person, delivered in a very knowing and almost amused manner was, "Oh, you mean the kind of course where you count words and decide if Shakespeare did it."
-

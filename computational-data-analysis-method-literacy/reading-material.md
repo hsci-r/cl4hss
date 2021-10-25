@@ -7,5 +7,3 @@ During the course, you will be given material to read before proceeding to the n
 * Methods - What methods does the project apply? How do the methods support answering the research questions?
 * Partners - What is the make-up of the project? Which disciplines are represented by the participants?
 
-
-
