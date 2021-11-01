@@ -1,6 +1,6 @@
 # Helsinki fall 2021
 
-Zoom meeting for the course: [https://helsinki.zoom.us/j/68027991035](https://helsinki.zoom.us/j/68027991035). To get into the meeting, use the code 065380.
+Zoom meeting for the course: [https://helsinki.zoom.us/j/61379040642](https://helsinki.zoom.us/j/61379040642). To get into the meeting, use the code 852773.
 
 The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Wednesday, while each Monday is reserved for doing the assignments for that week.
 
