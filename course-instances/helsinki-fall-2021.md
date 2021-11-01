@@ -4,41 +4,44 @@ Zoom meeting for the course: [https://helsinki.zoom.us/j/61379040642](https://he
 
 The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Wednesday, while each Monday is reserved for doing the assignments for that week.
 
-![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule.png>)
-
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
+![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule (1).png>)
 
 ### Mon** 1.11. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
 {% tabs %}
 {% tab title="Meeting contents" %}
-* Activatory pair discussion
-* [Introduction, practicalities -lecture](https://docs.google.com/presentation/d/e/2PACX-1vT9OQtyE2pb8I3\_TPDOTO5fmF8G4Mx2cE7WpP4ebORcjg5o6b55y96CHo-0CLLgX05l0V4x2nUnvu50/pub?start=false\&loop=false\&delayms=3000)
-* [Flinga questionnaire on background and interests](https://edu.flinga.fi/s/E39GQBX)
+* Activatory breakout group discussion
+* [Introduction, practicalities -lecture](https://docs.google.com/presentation/d/e/2PACX-1vR57ekzfDpCE\_-cpeNGGXvZG9gylpJ4Wwz1ySaLscfcrN9QWwnNv2\_y6ENYWkePEtS7JasOZWj9gXDW/pub?start=false\&loop=false\&delayms=3000)
+* [Flinga questionnaire on background and interests](https://edu.flinga.fi/s/E3FYBDC)
 * Briefing of assignments
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Thu 29.10. (in two days):&#x20;
+For Wed 3.11. (in two days):&#x20;
 
 1. Join the course Slack and optionally the hypothes.is group
 2. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1) (\~5min)
 3. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class. (\~20-40min)
+4. Watch [this 4 minute video](https://www2.helsinki.fi/fi/unitube/video/cd1fbf1d-5a44-4e92-aa84-e723a1281424) on problems with non-standard data
 
-For Thu 5.11. (in 1½ weeks, but more assignments will be given on Thursday, so start already):
+For Wed 10.11. (in 1½ weeks, but more assignments will be given on this Wednesday, so start already):
 
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h)
 {% endtab %}
 {% endtabs %}
 
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
+
 ### Wed 3.11. — Debriefing of assignments, data
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
-2.  Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class.
+1. Join the course Slack and optionally the hypothes.is group
+2. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
+3. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class.
+4.  Watch [this 4 minute video](https://www2.helsinki.fi/fi/unitube/video/cd1fbf1d-5a44-4e92-aa84-e723a1281424) on problems with non-standard data
 
 
 {% endtab %}
