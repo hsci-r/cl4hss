@@ -19,7 +19,7 @@ The course relies heavily on blended learning and flipped classroom techniques. 
 {% tab title="Assignments given" %}
 For Wed 3.11. (in two days):&#x20;
 
-1. Join the course Slack and optionally the hypothes.is group
+1. [Join](https://jiemakel.gitbook.io/clit4hss/#practical-matters) the course Slack and optionally the hypothes.is group
 2. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1) (\~5min)
 3. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class. (\~20-40min)
 4. Watch [this 4 minute video](https://www2.helsinki.fi/fi/unitube/video/cd1fbf1d-5a44-4e92-aa84-e723a1281424) on problems with non-standard data. Alternatively, watch the [17 minute version](https://www2.helsinki.fi/fi/unitube/video/aa4cd7f1-64b6-496f-a6c5-726720d40384) or read [this article](https://researchportal.helsinki.fi/en/publications/wrangling-with-non-standard-data).
@@ -38,10 +38,10 @@ All content below this marker still provisional
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1. Join the course Slack and optionally the hypothes.is group
+1. [Join](https://jiemakel.gitbook.io/clit4hss/#practical-matters) the course Slack and optionally the hypothes.is group
 2. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 3. Look over the [final projects from previous years](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Be prepared to discuss why you chose those that project in class.
-4.  Watch [this 4 minute video](https://www2.helsinki.fi/fi/unitube/video/cd1fbf1d-5a44-4e92-aa84-e723a1281424) on problems with non-standard data
+4.  Watch [this 4 minute video](https://www2.helsinki.fi/fi/unitube/video/cd1fbf1d-5a44-4e92-aa84-e723a1281424) on problems with non-standard data. Alternatively, watch the [17 minute version](https://www2.helsinki.fi/fi/unitube/video/aa4cd7f1-64b6-496f-a6c5-726720d40384) or read [this article](https://researchportal.helsinki.fi/en/publications/wrangling-with-non-standard-data)
 
 
 {% endtab %}
