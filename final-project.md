@@ -53,6 +53,8 @@ To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your
 
 Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities/social science scholarship.
 
+**Importantly, you are free to submit your final assignment as many times as you want, until you obtain the grade that you desire. **
+
 ### Submissions from previous years
 
 To further aid you in your work, here are some previous submissions for inspiration (for most of them, you should actually click the GitHub link on the right to start to make sense of them):

@@ -30,10 +30,6 @@ For Wed 10.11. (in 1½ weeks, but more assignments will be given on this Wednesd
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
 ### Wed 3.11. — Debriefing of assignments, data
 
 {% tabs %}
@@ -48,7 +44,7 @@ All content below this marker still provisional
 
 {% tab title="Meeting contents" %}
 * Group discussion of projects from previous years
-* [Lecture on data](https://docs.google.com/presentation/d/e/2PACX-1vSv9s1sY5NMfjnCKPU7NJZyB6zY3B7BMSNMXuWSDBi71uDkn6tq\_u53qYbpnhJN3etf9n\_oJgJrU7U8/pub?start=false\&loop=false\&delayms=3000)
+* [Lecture on data](https://docs.google.com/presentation/d/e/2PACX-1vSP93WmOdWXmm7\_akOf5scUqNeOt3GmQJOxqMSAFl3wRB\_pfhjGD9NppdqUQNfIDJ1GkpC7oDgU5Bep/pub?start=false\&loop=false\&delayms=3000)
 * Briefing of assignments on data and tools
 {% endtab %}
 
@@ -92,6 +88,10 @@ For Thu 5.11. (in one week):
     4. For groups studying visualization tools, also read [Perception deception](https://trinachi.github.io/data-design-builds/ch17.html) & [Common visualization mistakes](https://trinachi.github.io/data-design-builds/ch18.html), and reflect on how likely it is that you could use the visualizations to deceive yourself
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
 
 ### Wed 10.11. — Debriefing of assignments, Programming
 
