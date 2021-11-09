@@ -89,10 +89,6 @@ For Thu 5.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
 ### Wed 10.11. — Debriefing of assignments, Programming
 
 {% tabs %}
@@ -140,41 +136,29 @@ All content below this marker still provisional
 * Group presentations of tools
 * Briefing of assignments on programming and research
 
-[slides](https://docs.google.com/presentation/d/e/2PACX-1vTmMCdQHDsAp35X5Nv7VDl6O8fhxqirYhJC40wAQ5ix0C-1XVPZR9HLPnzLNLhzKilwoUOILsqdVLlV/pub?start=false\&loop=false\&delayms=3000)
+[slides](https://docs.google.com/presentation/d/e/2PACX-1vQ7I6ESHX49CnNtuimdLtDRK0CU87WUAtaSrmsWa\_SnrmBX-TFUG9g4ddPIzs-1s184Y-slkvjnAnNI/pub?start=false\&loop=false\&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
 For Thu 12.11. (in one week):
 
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
-2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/ESFEH28](https://edu.flinga.fi/s/ESFEH28)
-3.  Research on visualization tool development:&#x20;
-
-    Read the following two articles on developing  tools for particular text-based humanities research questions:
-
-    * [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
-    * [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
-
-    Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
-4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
+2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/EPVE75B](https://edu.flinga.fi/s/EPVE75B)
+3. Research: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
 {% endtab %}
 {% endtabs %}
 
-### Wed 17.11. — Debriefing, Recap
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
+
+### Wed 17.11. — Debriefing, Statistics
 
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
-2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/ESFEH28](https://edu.flinga.fi/s/ESFEH28)
-3.  Research on visualization tool development:&#x20;
-
-    Read the following two articles on developing  tools for particular text-based humanities research questions:
-
-    * [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
-    * [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
-
-    Now, think of a visualisation that would help you in your field. What information would it visualise? Prepare to discuss in class.
-4. Research 2: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
+2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/EPVE75B](https://edu.flinga.fi/s/EPVE75B)
+3. Research: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
 {% endtab %}
 
 {% tab title="Meeting contents" %}
@@ -224,11 +208,12 @@ For Thu 12.11. (in one week):
     * dynamics of modern-day media: [Using the president’s tweets to understand political diversion in the age of social media](https://doi.org/10.1038/s41467-020-19644-6) + [Emotive, evaluative, epistemic: a linguistic analysis of affectivity in news journalism](https://researchportal.helsinki.fi/en/publications/emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity)
     * Simulation, archaeology: [Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley](https://doi.org/10.1073/pnas.092080799) + [Understanding Artificial Anasazi](http://jasss.soc.surrey.ac.uk/12/4/13.html)
     * Geographic information, network analysis, archaeology: [Community structure of copper supply networks in the prehistoric Balkans: An independent evaluation of the archaeological record from the 7th to the 4th millennium BC](https://doi.org/10.1093/comnet/cnx013) + [Testing the Robustness of Local Network Metrics in Research on Archeological Local Transport Networks](http://dx.doi.org/10.3389/fdigh.2016.00006)
-    * History, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) (Interestingly, first article doesn't have affiliations. Digging through, most people seem to be from [this project](https://artfl-project.uchicago.edu/content/papers-and-presentations))
+    * History, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) (Interestingly, the first article doesn't have affiliations. Digging through, most people seem to be from [this project](https://artfl-project.uchicago.edu/content/papers-and-presentations))
     * Network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
     * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
     * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
     * Visual analysis, art history: [A Quantitative Approach to Beauty. Perceived Attractiveness of Human Faces in World Painting](https://doi.org/10.11588/dah.2015.1.21640) / [Against Digital Art History](https://humanitiesfutures.org/papers/digital-art-history/)
+    * Custom visualization tool building: [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033) / [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
 
     Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
 
