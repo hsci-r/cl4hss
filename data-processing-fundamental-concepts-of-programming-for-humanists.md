@@ -3,7 +3,7 @@
 This part of the course is an attempt to distil the **absolute minimum understanding** needed for someone from a humanities background to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.
 
 {% hint style="info" %}
-Context note: this is a self-contained part of the METH4DH course. You can use this to teach yourself the fundamentals of programming, allowing you to then pursue further knowledge in the form of tutorials or more in-depth courses. On the other hand, should you want to know why programming would or would not be useful to you, you'll need to read up on most of the course.
+Context note: this is a self-contained part of the CLIT4HSS course. You can use this to teach yourself the fundamentals of programming, allowing you to then pursue further knowledge in the form of tutorials or more in-depth courses. On the other hand, should you want to know why programming would or would not be useful to you, you'll need to read up on most of the course.
 {% endhint %}
 
 ## The fundamental concepts of programming
