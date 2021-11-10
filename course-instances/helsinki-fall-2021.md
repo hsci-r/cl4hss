@@ -4,7 +4,7 @@ Zoom meeting for the course: [https://helsinki.zoom.us/j/61379040642](https://he
 
 The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen on each Wednesday, while each Monday is reserved for doing the assignments for that week.
 
-![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule (2).png>)
+![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule (3).png>)
 
 ### Mon** 1.11. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
@@ -52,7 +52,7 @@ For Wed 10.11. (in 1½ weeks, but more assignments will be given on this Wednesd
 For Thu 5.11. (in one week):
 
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h).
-2. Find a [dataset](../three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
@@ -78,7 +78,7 @@ For Thu 5.11. (in one week):
        5. An automated image/video description tool
        6. Twitter archiving: [TAGS](https://tags.hawksey.info)
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
 
     1. What is the tool good for?
     2. What kind of data do you need for the tool to be useful?&#x20;
@@ -94,7 +94,7 @@ For Thu 5.11. (in one week):
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h).
-2. Find a [dataset](../three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
@@ -120,7 +120,7 @@ For Thu 5.11. (in one week):
        5. An automated image/video description tool
        6. Twitter archiving: [TAGS](https://tags.hawksey.info)
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack. Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
 
     1. What is the tool good for?
     2. What kind of data do you need for the tool to be useful?&#x20;
@@ -140,8 +140,6 @@ For Thu 5.11. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Wed 17.11. (in one week):
-
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
 2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/EPVE75B](https://edu.flinga.fi/s/EPVE75B)
 3. Research: read [this research article](https://doi.org/10.1073/pnas.1405984111). Try to understand on a general level what is being done on a methodological level, and how that feeds into the content argument. There will be group work relating to this in the next meeting.
@@ -162,10 +160,10 @@ All content below this marker still provisional
 {% endtab %}
 
 {% tab title="Meeting contents" %}
+* Spill-over presentations from the week before
 * Debriefing of programming and regular expression assignments
-* Group discussion on the visualization research
 * Group work on the Old Bailey research
-* Recap of the course thus far
+* Short introduction to statistics
 * Briefing of assignments
 
 [slides](https://docs.google.com/presentation/d/e/2PACX-1vSfX3eqEwbjYibm3AD6KvEad55QOD1aBLA9NUjwTjrYLuanjoVOzEngXHr8RY424T6qDYnFDl0ADMAQ/pub?start=false\&loop=false\&delayms=3000)
@@ -183,15 +181,16 @@ All content below this marker still provisional
     * network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
     * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
     * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
+    * Custom visualization tool building: [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033) / [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
 
-    Post which article you've selected on #research in Slack by Tuesday the 17th at the latest. Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
+    Post which article you've selected on #research in Slack by Monday the 22nd at the latest. Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
 
     1. How do the two articles relate to each other?&#x20;
     2. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
@@ -222,7 +221,7 @@ All content below this marker still provisional
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
 {% tab title="Meeting contents" %}
@@ -232,8 +231,6 @@ All content below this marker still provisional
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Thu 26.11. (in one week):
-
 1. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
@@ -281,11 +278,11 @@ For Thu 26.11. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Tue 1.12. (in five days):
+For Mon 6.12. (in five days):
 
 1. Peer review two project plans of your fellow students
 
-For Thu 3.12. (in one week):
+For Wed 8.12. (in one week):
 
 1. Be prepared to shortly (1-2 minutes max) present your project plan to the others
 {% endtab %}
@@ -295,7 +292,7 @@ For Thu 3.12. (in one week):
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1. (Tue 1.12.) Peer review two project plans of your fellow students
+1. (Mon 6.12.) Peer review two project plans of your fellow students
 2. Be prepared to shortly (1-2 minutes max) present your project plan to the others
 {% endtab %}
 
@@ -305,7 +302,7 @@ For Thu 3.12. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Thu 17.12. (in two weeks):
+For Wed 23.12. (in two weeks):
 
 1. [Final project](../final-project.md)
 {% endtab %}

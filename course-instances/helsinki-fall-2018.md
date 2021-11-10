@@ -83,7 +83,7 @@ Two full weeks to do these, need to be done only by 21.11.:
 
 ### Friday 16.11. — **No lecture**
 
-### Wednesday 21.11. — [Fundamental concepts of statistics](../three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics.md)&#x20;
+### Wednesday 21.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md)&#x20;
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -139,7 +139,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Friday 23.11. — [Fundamental concepts of statistics](../three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy/)
+### Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
 
 {% tabs %}
 {% tab title="Assignments given" %}
@@ -149,11 +149,11 @@ Form a group with all the other people who selected the same articles. For class
    1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
    2. The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/) of the DHH15 Finnair Blue Wings multimodality group
    3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
-4. For 5.12., explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+4. For 5.12., explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
-### Wednesday 28.11. — [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy/), part 2
+### Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -193,11 +193,11 @@ Form a group with all the other people who selected the same articles. For class
 
 ### Friday 30.11. —** No lecture**
 
-### Wednesday 5.12. — [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy/), part 3
+### Wednesday 5.12. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 3
 
 {% tabs %}
 {% tab title="Assignments due" %}
-* Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+* Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
 {% tab title="Assignments given" %}
@@ -206,7 +206,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Friday 7.12. — [Open, reproducible research and publishing](../three-approaches-to-methods-for-digital-humanities-work-area/open-reproducible-research-and-publishing.md) / [Final project](../final-project.md)
+### Friday 7.12. — [Open, reproducible research and publishing](../open-reproducible-research-and-publishing.md) / [Final project](../final-project.md)
 
 ### Wednesday 12.12. — **No lecture, remote support for final project**
 

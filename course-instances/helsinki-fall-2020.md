@@ -49,7 +49,7 @@ For Thu 5.11. (in 1½ weeks, but more assignments will be given on Thursday, so 
 For Thu 5.11. (in one week):
 
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h).
-2. Find a [dataset](../three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
@@ -91,7 +91,7 @@ For Thu 5.11. (in one week):
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h).
-2. Find a [dataset](../three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
@@ -200,7 +200,7 @@ For Thu 12.11. (in one week):
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
@@ -230,7 +230,7 @@ For Thu 12.11. (in one week):
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
+2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
 {% tab title="Meeting contents" %}
