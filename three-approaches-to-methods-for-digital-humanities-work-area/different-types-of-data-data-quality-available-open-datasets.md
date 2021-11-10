@@ -4,7 +4,7 @@
 This content is not yet complete (portions not complete marked separately below).
 {% endhint %}
 
-![Data in the context of a computational human sciences research process](<.gitbook/assets/image (10).png>)
+![Data in the context of a computational human sciences research process](<../.gitbook/assets/image (10).png>)
 
 On this course, computational human sciences has been defined as **the application of computational and/or statistical techniques** to **data** in order to yield **results of interest to the human sciences**. In this part of the course, we will delve into what we mean by data and discuss the particular problems inherent in the types of data most often used in computational human sciences research.&#x20;
 
@@ -16,7 +16,7 @@ For the purposes of this course, data is defined as information in digital forma
 
 In the end, computers are really only good with structured data and numbers. They want to count explicit things, be they occurrences of certain gods in ancient Greek texts, or particular types of relationships between people involved in book trade. Thus, if starting with unstructured data, your first task will often be to extract structure out of that data (for example, frequencies of certain words from text, or neural network -deduced keyword descriptions of images)
 
-![Visualisation of what different layers of a convolutional neural network identify from an image (adapted from "Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations", Lee et al. 2009)](<.gitbook/assets/image (9).png>)
+![Visualisation of what different layers of a convolutional neural network identify from an image (adapted from "Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations", Lee et al. 2009)](<../.gitbook/assets/image (9).png>)
 
 So how do e.g. neural networks manage to extract structure from the "unstructured image", you might ask? Well, it is actually already structured for the computer. It just has structure on an extremely low level. What an image is to a computer is a a grid of numbers, each number describing the colour and brightness of one square in the grid. What a neural network does, is take this extremely low level information, and starts to build higher level features from it by combining information from multiple squares in the grid. For example, if there are multiple bright squares in a row while their other neighbours in the grid are dark, that indicates there may be a line there. Then, when the neural network knows where lines are, maybe it can combine certain patterns of lines into circles, certain patterns of circles into eyes, and finally certain patterns of eyes, mouths and noses into a guess that the image depicts a face.
 

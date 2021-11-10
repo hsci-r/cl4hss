@@ -51,7 +51,7 @@ What does this mean?
 
 
 
-![Anscombe's quartet, a set of datasets that have identical descriptive statistics (means, variances, correlation)](<.gitbook/assets/image (3).png>)
+![Anscombe's quartet, a set of datasets that have identical descriptive statistics (means, variances, correlation)](<../.gitbook/assets/image (3).png>)
 
 [https://en.wikipedia.org/wiki/Anscombe%27s\_quartet](https://en.wikipedia.org/wiki/Anscombe's\_quartet)
 
