@@ -140,7 +140,7 @@ For Thu 5.11. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Thu 12.11. (in one week):
+For Wed 17.11. (in one week):
 
 1. Programming: Go through the [fundamental concepts of programming for humanists](../data-processing-fundamental-concepts-of-programming-for-humanists.md) and complete the assignments there.
 2. Regular expressions: Read the section on [regular expressions](../regular-expressions.md) and go through the assignments there. For the second assignment, add your solutions to the Flinga here: [https://edu.flinga.fi/s/EPVE75B](https://edu.flinga.fi/s/EPVE75B)
