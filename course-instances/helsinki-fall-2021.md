@@ -146,10 +146,6 @@ For Thu 5.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
 ### Wed 17.11. — Debriefing, Statistics
 
 {% tabs %}
@@ -163,10 +159,10 @@ All content below this marker still provisional
 * Spill-over presentations from the week before
 * Debriefing of programming and regular expression assignments
 * Group work on the Old Bailey research
-* Short introduction to statistics
+* ~~Short introduction to statistics~~
 * Briefing of assignments
 
-[slides](https://docs.google.com/presentation/d/e/2PACX-1vSfX3eqEwbjYibm3AD6KvEad55QOD1aBLA9NUjwTjrYLuanjoVOzEngXHr8RY424T6qDYnFDl0ADMAQ/pub?start=false\&loop=false\&delayms=3000)
+[slides](https://docs.google.com/presentation/d/e/2PACX-1vTzRQvPhdMK9V0HRhC5ka\_THQMlO34Wol\_fNHpaEaZ59OHPdssUEFyJGW08Qkkh\_47BtFPuzo4GAVVH/pub?start=false\&loop=false\&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
@@ -193,6 +189,10 @@ All content below this marker still provisional
 2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
 
 ### Wed 24.11. — Debriefing, Computational analysis
 
