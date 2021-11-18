@@ -26,6 +26,7 @@ Here I'll gather some relevant links to further resources. I think these are goo
   * [Statistics for the Humanities](http://www.statisticsforhumanities.net/book/wp-content/uploads/2014/07/StatisticsforHumanities%205Sept14.pdf) (chapters 1-5 essential)
   * [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki&#x20;
   * [Explained Visually](http://setosa.io/ev/)
+  * [Kristoffer Magnusson's Visualizations of statistical concepts](https://rpsychologist.com/viz/)
 * Further resources to go through that may cover bits and bobs missed by the above:
   * [Natural Language Processing for Historical Texts](http://nlphist.hypotheses.org)
   * [Six Septembers: Mathematics for the Humanist](https://doi.org/10.13014/K2D21VHX)
