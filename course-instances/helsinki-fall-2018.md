@@ -83,7 +83,7 @@ Two full weeks to do these, need to be done only by 21.11.:
 
 ### Friday 16.11. — **No lecture**
 
-### Wednesday 21.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md)&#x20;
+### Wednesday 21.11. — [Fundamental concepts of statistics](../three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/)&#x20;
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -139,7 +139,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics.md) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
+### Friday 23.11. — [Fundamental concepts of statistics](../three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
 
 {% tabs %}
 {% tab title="Assignments given" %}
