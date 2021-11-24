@@ -186,6 +186,8 @@ For Thu 5.11. (in one week):
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
 2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
@@ -217,6 +219,8 @@ For Thu 5.11. (in one week):
     3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
     4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
     5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
 2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
@@ -228,11 +232,14 @@ For Thu 5.11. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-1. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
-   1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
-   2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-   3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-   4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+
+    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
+    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
+    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
+    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
     1. What are your humanities or social science research questions?
@@ -253,11 +260,14 @@ All content below this marker still provisional
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1. Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
-   1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
-   2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-   3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-   4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+
+    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
+    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
+    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
+    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
     1. What are your humanities research questions?
