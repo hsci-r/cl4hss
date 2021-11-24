@@ -190,10 +190,6 @@ For Thu 5.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
 ### Wed 24.11. — Debriefing, Computational analysis
 
 {% tabs %}
@@ -226,6 +222,7 @@ All content below this marker still provisional
 
 {% tab title="Meeting contents" %}
 * Group presentations on research articles
+* Group assignment on topic modelling
 * [Lecturer presentation on research using computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vQh0aFghShAvO3BWk5MTQC4wLBkKYCWF1GTqZZkZ9Y7UZYyegDJmGzc7-T9QGGtUE\_FV4S-EVUXuaDS/pub?start=false\&loop=false\&delayms=3000)
 * Briefing of assignments
 {% endtab %}
@@ -236,17 +233,21 @@ All content below this marker still provisional
    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
-2.  Write a one to two page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
+2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
-    1. What are your humanities research questions?
+    1. What are your humanities or social science research questions?
     2. Which data will you use?
     3. How do you plan to process, clean up and transform your data?
-    4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
+    4. How do you plan to analyze your data? How will the analysis help answer the human research questions?
     5. Critically analyze your data and pipeline for potential bias and problems.&#x20;
 
-    These will be peer reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622).
+    These will be peer-reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622) (you should be able to self-enrol).
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
 
 ### Wed 1.12. — Debriefing, Computational analysis
 
@@ -272,7 +273,6 @@ All content below this marker still provisional
 
 {% tab title="Meeting contents" %}
 * Group presentations on research
-* Group assignment on topic modelling
 * [Lecture on computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vQfa8arUdmrbczoj75R806mwTBtzQsjVacMvHbmL-3sA\_rAzPClc0WgTFSNnRK9ZphZ37c2oLolNhj-/pub?start=false\&loop=false\&delayms=3000)
 * Briefing of assignments
 {% endtab %}
