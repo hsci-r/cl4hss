@@ -182,13 +182,12 @@ For Thu 5.11. (in one week):
     Post which article you've selected on #research in Slack by Monday the 22nd at the latest. Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
 
     1. How do the two articles relate to each other?&#x20;
-    2. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
-    3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+    2. Questions - What are the research questions tackled in the articles?&#x20;
+    3. Methods - What means are used in the articles to answer the research questions?
+    4. Data - What data are used in the articles as the bases for answering the research questions?
+    5. Partners - Which disciplines are represented by the authors of the articles?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
-2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
 {% endtab %}
 {% endtabs %}
 
@@ -215,12 +214,12 @@ For Thu 5.11. (in one week):
     Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
 
     1. How do the two articles relate to each other?&#x20;
-    2. Research questions - What are the humanities research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and humanities research questions?
-    3. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-    4. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-    5. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+    2. Questions - What are the research questions tackled in the articles?&#x20;
+    3. Methods - What means are used in the articles to answer the research questions?
+    4. Data - What data are used in the articles as the bases for answering the research questions?
+    5. Partners - Which disciplines are represented by the authors of the articles?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
+    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
 2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
@@ -234,12 +233,12 @@ For Thu 5.11. (in one week):
 {% tab title="Assignments given" %}
 1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
 
-    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
-    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+    1. Questions - What are the research questions tackled in the article?&#x20;
+    2. Methods - What means are used in the article to answer the research questions?
+    3. Data - What data are used in the article as the bases for answering the research questions?
+    4. Partners - Which disciplines are represented by the authors of the article?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
+    Hint: when thinking of what to put in the presentation, look at the figures included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
     1. What are your humanities or social science research questions?
@@ -249,6 +248,7 @@ For Thu 5.11. (in one week):
     5. Critically analyze your data and pipeline for potential bias and problems.&#x20;
 
     These will be peer-reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622) (you should be able to self-enrol).
+3. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
 
@@ -262,23 +262,22 @@ All content below this marker still provisional
 {% tab title="Assignments due" %}
 1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
 
-    1. Research questions - What are the human research questions? Do the projects also target computer science research questions? If so, what? What is the relationship between the CS and human research questions?
-    2. Data - How has the data used been gathered? What are the data sources used? Is the data available for others to use?
-    3. Methods - What methods do the projects apply? How do the methods support answering the research questions?
-    4. Partners - What is the make-up of the projects? Which disciplines are represented by the participants?
+    1. Questions - What are the research questions tackled in the article?&#x20;
+    2. Methods - What means are used in the article to answer the research questions?
+    3. Data - What data are used in the article as the bases for answering the research questions?
+    4. Partners - Which disciplines are represented by the authors of the article?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these are very good for explaining what the articles are about.
+    Hint: when thinking of what to put in the presentation, look at the figures included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
-    1. What are your humanities research questions?
+    1. What are your humanities or social science research questions?
     2. Which data will you use?
     3. How do you plan to process, clean up and transform your data?
-    4. How do you plan to analyze your data? How will the analysis help answer the humanities research questions?
+    4. How do you plan to analyze your data? How will the analysis help answer the human research questions?
     5. Critically analyze your data and pipeline for potential bias and problems.&#x20;
 
-    These will be peer-reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622).
-
-    .
+    These will be peer-reviewed. Return the plan through Moodle at [https://moodle.helsinki.fi/course/view.php?id=36622](https://moodle.helsinki.fi/course/view.php?id=36622) (you should be able to self-enrol).
+3. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
 {% tab title="Meeting contents" %}
