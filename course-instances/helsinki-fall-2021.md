@@ -223,7 +223,7 @@ For Thu 5.11. (in one week):
 {% tab title="Meeting contents" %}
 * Group presentations on research articles
 * Group assignment on topic modelling
-* [Lecturer presentation on research using computational analysis](https://docs.google.com/presentation/d/e/2PACX-1vQh0aFghShAvO3BWk5MTQC4wLBkKYCWF1GTqZZkZ9Y7UZYyegDJmGzc7-T9QGGtUE\_FV4S-EVUXuaDS/pub?start=false\&loop=false\&delayms=3000)
+* [Lecturer presentation on research using computational analysis](helsinki-fall-2021.md#mon-1.11.-introduction)
 * Briefing of assignments
 {% endtab %}
 
