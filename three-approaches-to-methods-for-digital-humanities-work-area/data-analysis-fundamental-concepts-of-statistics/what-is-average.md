@@ -47,3 +47,10 @@ For the ages at death distribution, there is actually a large normal component -
 In the humanities, a very large proportion of the phenomena studies are not normally distributed. Therefore, relying on any of the averages to sum up the material is often problematic. Instead, one must often drag along and analyse the entire complexity of the distribution as a whole.&#x20;
 
 In situations where summarization cannot be avoided, the median is often a good measure to utilize. First, it always has a clear and intuitive interpretation: "half of the data is below the median, half above it". Second, the formula behind the median is extensible to other percentages. For example, to better describe the above distribution, we could state that 40% of people send zero letters, 50% of people send at most 1 letter, 70% send at most 3, 80% sent at most 5 and 90% send at most 15, while the maximum number of letters sent is 136 (i.e. 100% of people send at most 136 letters).&#x20;
+
+{% hint style="info" %}
+Assignment
+
+Do the practice problems relating to how altering data affects the mean and median at [Khan Academy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point). If you do not yet know how to answer the questions, peruse the videos and tutorials linked there before the problems.
+{% endhint %}
+
