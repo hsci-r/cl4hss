@@ -6,3 +6,15 @@ Context note: this is a sub-part of the [fundamental concepts of statistics](./)
 
 
 
+{% hint style="info" %}
+Assignment
+
+[visualization of correlation](https://rpsychologist.com/correlation/)
+{% endhint %}
+
+{% hint style="info" %}
+Assignment
+
+[regression explained visually](https://setosa.io/ev/ordinary-least-squares-regression/)
+{% endhint %}
+

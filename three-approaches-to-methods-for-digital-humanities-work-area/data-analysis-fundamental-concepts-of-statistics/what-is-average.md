@@ -55,6 +55,7 @@ In situations where summarization cannot be avoided, the median is often a good 
 {% hint style="info" %}
 Assignment
 
-Do the practice problems relating to how altering data affects the mean and median at [Khan Academy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point). If you do not yet know how to answer the questions, peruse the videos and tutorials linked there before the problems.
+* If the concept of mean, median and mode did not become clear to you, [this](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php) is another explanation of them that comes from a different angle, but which I think is also relatively accessible.
+* After you think you've nailed down what the different measures of central tendency are and how they relate to each other, do the practice problems relating to how altering data affects the mean and median at [Khan Academy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point). If you still do not yet know how to answer the questions, peruse the videos and tutorials linked there before the problems.
 {% endhint %}
 
