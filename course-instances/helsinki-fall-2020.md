@@ -6,7 +6,7 @@ The course relies heavily on blended learning and flipped classroom techniques. 
 
 ![Meetings and assignments at a glance](<../.gitbook/assets/image (15).png>)
 
-### Tue** 27.10. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
+### Tue **27.10.** — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
 {% tabs %}
 {% tab title="Meeting contents" %}

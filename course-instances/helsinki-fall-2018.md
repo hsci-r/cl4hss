@@ -191,7 +191,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Friday 30.11. —** No lecture**
+### Friday 30.11. — **No lecture**
 
 ### Wednesday 5.12. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 3
 
@@ -212,4 +212,4 @@ Form a group with all the other people who selected the same articles. For class
 
 ### Friday 14.12. — **No lecture, remote support for final project**
 
-### **Friday 21.12. **— **Deadline for returning**[** final project**](../final-project.md)****
+### **Friday 21.12.** — **Deadline for returning**[ **final project**](../final-project.md)****

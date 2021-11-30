@@ -10,7 +10,7 @@ This content is not yet complete, in the sense that some sections have not yet b
 
 People of all levels in the humanities and interpretive social sciences (henceforth abbreviated as human sciences) interested in whether computational methods might help them in their own work.&#x20;
 
-**Prerequisites: **Absolutely none.
+**Prerequisites:** Absolutely none.
 
 **Aside:** Why should you be interested in computational methods? Two reasons:
 
@@ -66,7 +66,7 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
 
 ### **General note**
 
-_"At times the course felt like being hit by a bus, the way we were forced to figure out many things on our own. It did at times result in an awful lot of stress, but it actually was the best way to learn how to do these things and more importantly, how to find info on how different things work and should be done."_  _- _course feedback
+_"At times the course felt like being hit by a bus, the way we were forced to figure out many things on our own. It did at times result in an awful lot of stress, but it actually was the best way to learn how to do these things and more importantly, how to find info on how different things work and should be done."_  _-_ course feedback
 
 There's a lot to take in during the course, and much of it may be unfamiliar and at first confusing. A major principle of the course is that you should not try to wholly understand everything in the first instance. While an effort has been made to keep the language and concepts as simple as I could make them, as well as order them sensibly with regard to each other, often there was no way I could order everything neatly into a linear learning progression.&#x20;
 

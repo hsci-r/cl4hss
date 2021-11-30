@@ -27,7 +27,7 @@ Another reason for favouring a ready environment is that on this course, to furt
 To start with, two notebooks describe the core concepts in the two programming languages currently most relevant to data science: [Python](http://python.org) and [R](https://www.r-project.org).&#x20;
 
 {% hint style="info" %}
-**Assignment: **
+**Assignment:**&#x20;
 
 1. Work through the [python\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python\_intro.ipynb) and [r\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=r\_intro.ipynb) notebooks. The notebooks are intended to be viewed and progressed through side by side, section by section in two parallel browser windows.
 2. After going through the concepts this way, open up the final [Scala](https://www.scala-lang.org) language version of the fundamentals ([scala\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=scala\_intro.ipynb)), and go through it once more comparing it to the earlier two languages. Can you see how the fundamental concepts stay the same between the languages, even when syntax and particulars differ?

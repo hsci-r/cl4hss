@@ -4,7 +4,7 @@ description: Timetable for fall 2019
 
 # Helsinki fall 2019
 
-### **Mon 28.10. **— [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
+### **Mon 28.10.** — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
 {% tabs %}
 {% tab title="Meeting contents" %}

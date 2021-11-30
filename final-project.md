@@ -1,6 +1,6 @@
 # Final project
 
-To pass the course, you are required to demonstrate a grasp of actual computational work. Therefore, you are tasked with taking some dataset, and processing it in some way** to yield an analysis that tackles a question of interest in the humanities or social sciences. **
+To pass the course, you are required to demonstrate a grasp of actual computational work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities or social sciences.**&#x20;
 
 This assignment requires applying all the knowledge you have learned on the course to devise and test a process going from data to results. To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
 
@@ -53,7 +53,7 @@ To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your
 
 Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities/social science scholarship.
 
-**Importantly, you are free to submit your final assignment as many times as you want, until you obtain the grade that you desire. **
+**Importantly, you are free to submit your final assignment as many times as you want, until you obtain the grade that you desire.**&#x20;
 
 ### Submissions from previous years
 

@@ -1,14 +1,14 @@
 # Uncertainty in describing groups
 
-In [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin\_\_vrm\_\_kuol/statfin\_kuol\_pxt\_12ag.px/) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020, we have a (near-)perfect record. Almost every single person who died during that timespan is listed in the dataset, and visible in the distribution below:
+Sample In [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin\_\_vrm\_\_kuol/statfin\_kuol\_pxt\_12ag.px/) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020, we have a (near-)perfect record. Almost every single person who died during that timespan is listed in the dataset, and visible in the distribution below:
 
-![The number of people dying at each age](../../.gitbook/assets/c1719449-6a27-4899-9fe2-054965b8c9d7.png)
+![](../../.gitbook/assets/c1719449-6a27-4899-9fe2-054965b8c9d7.png)
 
 This means that whatever inferences we derive from this distribution are accurate. For example, over half of Finns really lived at least 77 years.
 
 ### Populations and samples
 
-However, very often we do not have complete data on the _**population**_** **we are interested in. For example, we do not have exact data on the height of every single Finnish person, and neither do we have complete age at death data for, for example, 15th and 18th-century people. In these situations, we may however have access to a smaller _**sample**_** **of such data. If the sample is _**representative**_ of the population, its distribution will have the same general shape as the population, and we can use the sample as a proxy for the population in trying to describe it.
+However, very often we do not have complete data on the _**population**_** ** we are interested in. For example, we do not have exact data on the height of every single Finnish person, and neither do we have complete age at death data for, for example, 15th and 18th-century people. In these situations, we may however have access to a smaller _**sample**_** ** of such data. If the sample is _**representative**_ of the population, its distribution will have the same general shape as the population, and we can use the sample as a proxy for the population in trying to describe it.
 
 Turned around, very often in practice we are trying to gather a representative sample of something. To not make wrong inferences, we need to try our utmost to make the composition of our sample match the population. For example, if we wanted a 1000 person sample representing the heights of adult Finns, we could use external information we have that 50.68% of Finns are women to make the sample contain 507 women and 493 men. We might also want to sample for example people from different parts of the country in their true proportions, as well as sample from different social classes. After coming up with the sample, we'd then measure these 1000 people, and use the information derived from them to infer knowledge about Finns in general.
 
@@ -19,7 +19,7 @@ Assignment
 
 
 
-Consider the statement “The [British National Corpus](http://www.natcorp.ox.ac.uk) (BNC) is a 100 million word collection of samples of written and spoken language from a wide range of sources, _**designed to represent**_ a wide cross-section of British English, both spoken and written, from the late twentieth century.” (emphasis added).&#x20;
+Consider [this statement](http://www.natcorp.ox.ac.uk/corpus/index.xml) on the [British National Corpus](http://www.natcorp.ox.ac.uk): “The British National Corpus (BNC) is a 100 million word collection of _**samples**_ of written and spoken language from a wide range of sources, _**designed to represent**_ a wide cross-section of British English, both spoken and written, from the late twentieth century.” (emphases added).&#x20;
 
 
 
@@ -53,6 +53,30 @@ To dig into this, here are two different 1000 person samples taken from the age 
 
 As you can see, for some ages at death, our samples overestimate the proportion of people dying at that age, and for some ages, they underestimate the proportion. Further, at each age, one sample may well overestimate and another underestimate. Finally, it is important to note that sometimes the under/overestimation can be really large (such as here for dying at 80 years), but in general, the samples are not too far off.&#x20;
 
-In fact,&#x20;
+In fact, from statistical theory, we have a very good idea of the expected _distribution_ of sample errors. Below, I've plotted the percentage of people dying at a specific age calculated in 10 000 random samples of 1000 people from the population as a heatmap. As you can see, the sample counts cluster heavily around the actual population value, but there is also variation to both directions.
 
-![A heatmap of the distribution of sample proportions, as well as density plots of the same at three distinct ages at death: 40, 60 and 80.](../../.gitbook/assets/d71d345b-90b0-44a6-8923-45ebe78cb1c5.png)
+![Heatmap of the ages at death distribution in 10 000 samples of 1000 persons each along with the true population counts](../../.gitbook/assets/8d7de0b0-5b78-4064-859c-0d5a8688c4d5.png)
+
+Drilling in, below on the right-hand side are density plots of the sample error distributions for three different ages at death:&#x20;
+
+![A heatmap of the distribution of sample proportions, as well as density plots of the same at three distinct ages at death: 40, 60 and 80.](../../.gitbook/assets/1bd14959-d50f-4413-af7b-dd49ddce34b0.png)
+
+As you can see from the plots, the errors are normally distributed around the true value! (except for the error at age 40, where the other half of the distribution is cut short at 0, as one cannot die before one is born). This arises from the [central limit theorem](https://en.wikipedia.org/wiki/Central\_limit\_theorem), and holds for most situations where one is counting proportions, even in cases where the original distribution is not normal at all.&#x20;
+
+The variance of the sample error distribution depends on the underlying distribution it is modelling, but also the size of the sample. The larger the sample, the closer the values measured from it are expected to match the true values. For example, below are charted the error distributions at age at death 80 for three sample sizes: 100, 1000 and 10 000 people:&#x20;
+
+![The sample error distribution for how many people die aged 80 for different sample sizes. ](../../.gitbook/assets/ee08dd4a-8134-4bb5-905b-96ecad04d174.png)
+
+The real, true proportion of people dying aged 80 is 3.2%. For a sample size of 10 000 (the yellow line), only 10% of random samples will estimate this to be either more than 3.5% or less than 2.9% (i.e. more than 3 tenths of a percentage point off from the true value). For a sample size of 1000 on the other hand, a full 65% of the sample estimates will be more than 3 tenths of a percentage point off from the true value. Instead, for this sample size, the interval into which 90% of sample estimates will fall is about one percentage point in either direction, i.e. somewhere between 2-4%.
+
+Okay, now we know how values calculated from samples deviate from the true value in general. But how does this help us estimate the true value if we only have a sample? For this, we must reframe the question as "Looking at possible true values, how likely would it be that I'd end up measuring what I measured from my sample". For example, if we had measured in a sample the proportion of people dying aged 80 to be 4%, we could evaluate that result against the probability of seeing such a measurement for different possible true values and variances. For example, consider the two possible true values (2.7% and 3.2%) and their sampling error distributions plotted in blue and red below:
+
+![Sample error distributions around two possible true values (blue and red) as compared to a measured value of 4%](../../.gitbook/assets/35d7c832-9321-4dfd-9709-c24569b8d078.png)
+
+From the figure above, we can see that to get a measure of at least 4% would be much rarer if the true value was 2.7% (this would happen in only 2% of samples), as compared to if it were 3.2% (where this would happen in 10% of samples). Working backwards from this, turns out that if we just centre the sampling error distribution on our sample estimate, we come to the same numbers. So, now we have a distribution centred around the value from the sample, stating how unlikely it would be to measure the value given a true value.&#x20;
+
+![](../../.gitbook/assets/47eed416-fd44-4b7f-a947-75913a91a60c.png)
+
+
+
+we are now finally able to build **confidence intervals** for the values we measured from a sample. What these values state is that "
