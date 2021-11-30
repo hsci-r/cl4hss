@@ -53,7 +53,7 @@ To dig into this, here are two different 1000 person samples taken from the age 
 
 As you can see, for some ages at death, our samples overestimate the proportion of people dying at that age, and for some ages, they underestimate the proportion. Further, at each age, one sample may well overestimate and another underestimate. Finally, it is important to note that sometimes the under/overestimation can be really large (such as here for dying at 80 years), but in general, the samples are not too far off.&#x20;
 
-### Sample error distribution
+### Understanding how sample errors are distributed
 
 In fact, from statistical theory, we have a very good idea of the expected **distribution of sample errors**. Below, I've plotted the percentage of people dying at a specific age calculated in 10 000 random samples of 1000 people from the population as a heatmap. As you can see, the sample counts cluster heavily around the actual population value, but there is also variation to both directions.
 
@@ -71,20 +71,30 @@ The variance of the sample error distribution depends on the underlying distribu
 
 The real, true proportion of people dying aged 80 is 3.2%. For a sample size of 10 000 (the yellow line), only 10% of random samples will estimate this to be either more than 3.5% or less than 2.9% (i.e. more than 3 tenths of a percentage point off from the true value). For a sample size of 1000 on the other hand, a full 65% of the sample estimates will be more than 3 tenths of a percentage point off from the true value. Instead, for this sample size, the interval into which 90% of sample estimates will fall is about one percentage point in either direction, i.e. somewhere between 2-4%.
 
+### Estimating confidence intervals from samples
+
 Okay, now we know how values calculated from samples deviate from the true value in general. But how does this help us estimate the true value if we only have a sample? For this, we must reframe the question as "Looking at possible true values, how likely would it be that I'd end up measuring what I measured from my sample". For example, if we had measured in a sample the proportion of people dying aged 80 to be 4%, we could evaluate that result against the probability of seeing such a measurement for different possible true values and variances. For example, consider the two possible true values (2.7% and 3.2%) and their sampling error distributions plotted in blue and red below:
 
 ![Sample error distributions around two possible true values (blue and red) as compared to a measured value of 4%](../../.gitbook/assets/35d7c832-9321-4dfd-9709-c24569b8d078.png)
 
-From the figure above, we can see that to get a measure of at least 4% would be much rarer if the true value was 2.7% (this would happen in only 2% of samples), as compared to if it were 3.2% (where this would happen in 10% of samples). Working backwards from this, turns out that if we just centre the sampling error distribution on our sample estimate, we come to the same numbers. So, now we have a distribution centred around the value from the sample, stating how unlikely it would be to measure the value given a true value.&#x20;
+From the figure above, we can see that to get a measure of at least 4% would be much rarer if the true value was 2.7% (this would happen in only 2% of samples), as compared to if it were 3.2% (where this would happen in 10% of samples). Working backwards from this, turns out that if we just centre the sampling error distribution on our sample estimate, we come to the same numbers. So, now we have a distribution centred around the value from the sample, stating how unlikely it would be to measure the value we got given a true value.&#x20;
 
 ![](../../.gitbook/assets/47eed416-fd44-4b7f-a947-75913a91a60c.png)
 
-we are now finally able to build **confidence intervals** for the values we measured from a sample. What these values state is that "
+Now, with this information we are finally able to build a **confidence interval**. For example, we may state that given a proportion of 4% measured from our sample and the given sample error distribution, we are 90% confident that the true proportion of people dying aged 80 lies between 3.1% and 4.9%. In this instance, the true value of 3.2% happens to lie just within this interval, but that is by no means guaranteed. What the confidence interval says is only that in 90% of samples overall, the true value would lie within this interval.
 
-![](<../../.gitbook/assets/image (23).png>)
+There is also one final piece of the puzzle still missing. In order to calculate the confidence interval, we still need the sample error distribution. And, we need to be able to calculate it from the sample, as that is all that we often have. One simple way to calculate an estimate of this distribution is called bootstrapping. In this, we take our sample as a proxy for the population, and repeatedly use it to derive new samples from it. In this instance, we sample with replacement, which just means we are free to pick the same data point in our original sample into our bootstrap sample multiple times.&#x20;
+
+Putting this all together, below you can see the proportion estimates as well as bootstrapped confidence distributions calculated for a single 1000 person sample:
+
+![Estimated proportions as well as bootstrapped confidence intervals derived from a single 1000 person sample, overlaid with the true distribution](<../../.gitbook/assets/image (23).png>)
+
+Notice how in this image as opposed to the one where sampling error distributions were derived from the full population, the confidence intervals are centred on the sample estimates instead of the true values. Further, note how the true proportion of people dying at a certain age often falls within the "hot" area of the confidence interval, but also sometimes is far from it, such as for example for ages 63 and 66. Finally, note how the width of the confidence interval doesn't tell you anything about whether the estimate is accurate. For example, the confidence interval for the estimate at age 66 is relatively small, yet the estimate is far off from the actual true value.
 
 {% hint style="info" %}
 Assignment
 
 Experiment with this [interactive visualization on confidence intervals](https://rpsychologist.com/d3/ci/) to better understand how even a 95% confidence interval based on a sample can sometimes be far off from the true value, and how the width of the confidence interval doesn't really tell us anything about the certainty of the estimate.
+
+You may also want to take a look at [this interactive bootstrap visualization](https://www.lock5stat.com/StatKey/bootstrap\_1\_cat/bootstrap\_1\_cat.html) to see whether it helps you understand how bootstrapped error estimation distributions can be calculated.&#x20;
 {% endhint %}
