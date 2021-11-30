@@ -21,6 +21,7 @@
     * [What is average?](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/what-is-average.md)
     * [Uncertainty in describing groups](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/uncertainty-in-describing-groups.md)
     * [Comparing groups](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/comparing-groups.md)
+    * [Understanding relationships](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/understanding-relationships.md)
   * [Oldstats](three-approaches-to-methods-for-digital-humanities-work-area/oldstats.md)
   * [Computational data analysis method literacy](computational-data-analysis-method-literacy/README.md)
     * [Reading material focus questions](computational-data-analysis-method-literacy/reading-material.md)
