@@ -6,7 +6,7 @@ Sample In [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin\_
 
 This means that whatever inferences we derive from this distribution are accurate. For example, over half of Finns really lived at least 77 years.
 
-### Populations and samples
+## Populations and samples
 
 However, very often we do not have complete data on the _**population**_** ** we are interested in. For example, we do not have exact data on the height of every single Finnish person, and neither do we have complete age at death data for, for example, 15th and 18th-century people. In these situations, we may however have access to a smaller _**sample**_** ** of such data. If the sample is _**representative**_ of the population, its distribution will have the same general shape as the population, and we can use the sample as a proxy for the population in trying to describe it.
 
@@ -43,7 +43,7 @@ Ponder and add to the discussion on #represeativeness on Slack:&#x20;
 * Can there even be a representative sample of a language as a whole?
 {% endhint %}
 
-### Uncertainty remains even in perfectly sampled data
+## Uncertainty remains even in perfectly sampled data
 
 Yet, even if our sample is in general representative of the population, there is still no guarantee that its shape will exactly match the shape of the population. Instead, due to unavoidable, completely random effects in who we happen to pick and not pick, its shape can be different. Fortunately, in this situation, we know how much different it usually is.&#x20;
 
@@ -53,7 +53,9 @@ To dig into this, here are two different 1000 person samples taken from the age 
 
 As you can see, for some ages at death, our samples overestimate the proportion of people dying at that age, and for some ages, they underestimate the proportion. Further, at each age, one sample may well overestimate and another underestimate. Finally, it is important to note that sometimes the under/overestimation can be really large (such as here for dying at 80 years), but in general, the samples are not too far off.&#x20;
 
-In fact, from statistical theory, we have a very good idea of the expected _distribution_ of sample errors. Below, I've plotted the percentage of people dying at a specific age calculated in 10 000 random samples of 1000 people from the population as a heatmap. As you can see, the sample counts cluster heavily around the actual population value, but there is also variation to both directions.
+### Sample error distribution
+
+In fact, from statistical theory, we have a very good idea of the expected **distribution of sample errors**. Below, I've plotted the percentage of people dying at a specific age calculated in 10 000 random samples of 1000 people from the population as a heatmap. As you can see, the sample counts cluster heavily around the actual population value, but there is also variation to both directions.
 
 ![Heatmap of the ages at death distribution in 10 000 samples of 1000 persons each along with the true population counts](../../.gitbook/assets/8d7de0b0-5b78-4064-859c-0d5a8688c4d5.png)
 
@@ -77,6 +79,12 @@ From the figure above, we can see that to get a measure of at least 4% would be 
 
 ![](../../.gitbook/assets/47eed416-fd44-4b7f-a947-75913a91a60c.png)
 
-
-
 we are now finally able to build **confidence intervals** for the values we measured from a sample. What these values state is that "
+
+![](<../../.gitbook/assets/image (23).png>)
+
+{% hint style="info" %}
+Assignment
+
+Experiment with this [interactive visualization on confidence intervals](https://rpsychologist.com/d3/ci/) to better understand how even a 95% confidence interval based on a sample can sometimes be far off from the true value, and how the width of the confidence interval doesn't really tell us anything about the certainty of the estimate.
+{% endhint %}
