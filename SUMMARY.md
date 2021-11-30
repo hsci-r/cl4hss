@@ -20,6 +20,7 @@
     * [Understanding and describing groups](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/understanding-and-describing-groups.md)
     * [What is average?](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/what-is-average.md)
     * [Uncertainty in describing groups](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/uncertainty-in-describing-groups.md)
+    * [What is a sensible group to describe?](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/what-is-a-sensible-group-to-describe.md)
     * [Comparing groups](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/comparing-groups.md)
     * [Understanding relationships](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/understanding-relationships.md)
   * [Oldstats](three-approaches-to-methods-for-digital-humanities-work-area/oldstats.md)
