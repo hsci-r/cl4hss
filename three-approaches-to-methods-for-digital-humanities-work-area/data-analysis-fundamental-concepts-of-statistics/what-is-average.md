@@ -48,9 +48,23 @@ For the ages at death distribution, there is actually a large normal component -
 
 ![Distribution of letters sent and measures of central tendency](../../.gitbook/assets/408b2d34-6b9e-4992-aa5a-e5b516f927fe.png)
 
-In the humanities, a very large proportion of the phenomena studies are not normally distributed. Therefore, relying on any of the averages to sum up the material is often problematic. Instead, one must often drag along and analyse the entire complexity of the distribution as a whole.&#x20;
+In the humanities, a very large proportion of the phenomena studied are not normally distributed. Therefore, relying on any of the averages to sum up the material is often problematic. Instead, one must often drag along and analyse the entire complexity of the distribution as a whole.&#x20;
 
 In situations where summarization cannot be avoided, the median is often a good measure to utilize. First, it always has a clear and intuitive interpretation: "half of the data is below the median, half above it". Second, the formula behind the median is extensible to other percentages. For example, to better describe the above distribution, we could state that 40% of people send zero letters, 50% of people send at most 1 letter, 70% send at most 3, 80% sent at most 5 and 90% send at most 15, while the maximum number of letters sent is 136 (i.e. 100% of people send at most 136 letters).&#x20;
+
+Related to this, there is a commonly used plot type that is worth understanding: the box plot. Below, you'll find box plots of the two distributions presented before.
+
+![Box plot of the age at death data](<../../.gitbook/assets/image (29).png>)
+
+![Box plot of the number of letters sent data](<../../.gitbook/assets/image (21).png>)
+
+In box plots, the line in the centre of the box denotes the median, while the ends of the box denote the 25% (first quartile) and 75% (third quartile) points. The whiskers before and after the box denote the minimum and maximum values of the main mass in the data, while all other data points are classified as "outliers" and denoted with individual dots. The usual formula for deciding when a value is an outlier or part of the main mass is to see whether it falls further than 1.5 times the inter-quartile range (the width of the box) away from the nearest quartile (box end).&#x20;
+
+Box plots are particularly often used when comparing groups, so we'll return to them then. For now, however, know also that there are other options, such as [beeswarm plots](https://github.com/eclarke/ggbeeswarm), which are equally compact, but lose even less information on the overall shape of the distribution:
+
+![Beeswarm plot of the age at death data](<../../.gitbook/assets/image (24).png>)
+
+![Beeswarm plot of the number of letters sent data](../../.gitbook/assets/082887f2-0d89-45e9-95ce-620e075f782b.png)
 
 {% hint style="info" %}
 Assignment

@@ -8,6 +8,4 @@ This actually also holds for our age at death data. If we split the data into se
 
 ![Age at death distributions for Finnish males and females](<../../.gitbook/assets/image (28).png>)
 
-Immediately looking at these distributions, one is tempted to make comparisons between them. And indeed, that is the subject of the [next section](comparing-groups.md).&#x20;
-
-In general, female Finns seem to live quite a bit longer than male Finns, with for example the median age at death for female Finns being 81 years, while for male Finns the median age at death is only 73.
+Immediately looking at these distributions, one is tempted to make comparisons between them. And indeed, that is the subject of the [next section](comparing-groups.md).
