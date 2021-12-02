@@ -187,7 +187,7 @@ For Thu 5.11. (in one week):
     4. Data - What data are used in the articles as the bases for answering the research questions?
     5. Partners - Which disciplines are represented by the authors of the articles?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
+    Hint: when thinking of what to put in the presentation, look at the figures and tables included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
 {% endtab %}
 {% endtabs %}
 
@@ -219,7 +219,7 @@ For Thu 5.11. (in one week):
     4. Data - What data are used in the articles as the bases for answering the research questions?
     5. Partners - Which disciplines are represented by the authors of the articles?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
+    Hint: when thinking of what to put in the presentation, look at the figures and tables included in the articles. Often, these make very good focal points around which to build your explanation of what the articles are about.
 2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
@@ -238,7 +238,7 @@ For Thu 5.11. (in one week):
     3. Data - What data are used in the article as the bases for answering the research questions?
     4. Partners - Which disciplines are represented by the authors of the article?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
+    Hint: when thinking of what to put in the presentation, look at the figures and tables included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
     1. What are your humanities or social science research questions?
@@ -263,7 +263,7 @@ For Thu 5.11. (in one week):
     3. Data - What data are used in the article as the bases for answering the research questions?
     4. Partners - Which disciplines are represented by the authors of the article?
 
-    Hint: when thinking of what to put in the presentation, look at the figures included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
+    Hint: when thinking of what to put in the presentation, look at the figures and tables included in the article. Often, these make very good focal points around which to build your explanation of what the article is about.
 2.  Write a one to two -page plan of what you'll do for your [final project](../final-project.md). Discuss the following:
 
     1. What are your humanities or social science research questions?
