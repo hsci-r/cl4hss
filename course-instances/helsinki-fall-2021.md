@@ -78,7 +78,7 @@ For Thu 5.11. (in one week):
        5. An automated image/video description tool
        6. Twitter archiving: [TAGS](https://tags.hawksey.info)
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (max 5-7 minutes) of the tool for class, describing:
 
     1. What is the tool good for?
     2. What kind of data do you need for the tool to be useful?&#x20;
@@ -120,7 +120,7 @@ For Thu 5.11. (in one week):
        5. An automated image/video description tool
        6. Twitter archiving: [TAGS](https://tags.hawksey.info)
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (5-10 minutes) of the tool for class, describing:
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (max 5-7 minutes) of the tool for class, describing:
 
     1. What is the tool good for?
     2. What kind of data do you need for the tool to be useful?&#x20;
@@ -179,7 +179,7 @@ For Thu 5.11. (in one week):
     * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
     * Custom visualization tool building: [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033) / [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
 
-    Post which article you've selected on #research in Slack by Monday the 22nd at the latest. Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
+    Post which article you've selected on #research in Slack by Monday the 22nd at the latest. Form a group with all the other people who selected the same articles. For class, prepare a max 5-minute presentation on them, detailing:
 
     1. How do the two articles relate to each other?&#x20;
     2. Questions - What are the research questions tackled in the articles?&#x20;
@@ -211,7 +211,7 @@ For Thu 5.11. (in one week):
     * Visual analysis, art history: [A Quantitative Approach to Beauty. Perceived Attractiveness of Human Faces in World Painting](https://doi.org/10.11588/dah.2015.1.21640) / [Against Digital Art History](https://humanitiesfutures.org/papers/digital-art-history/)
     * Custom visualization tool building: [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033) / [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
 
-    Form a group with all the other people who selected the same articles. For class, prepare a presentation on them, detailing:
+    Form a group with all the other people who selected the same articles. For class, prepare a max 5-minute presentation on them, detailing:
 
     1. How do the two articles relate to each other?&#x20;
     2. Questions - What are the research questions tackled in the articles?&#x20;
@@ -231,7 +231,7 @@ For Thu 5.11. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a max 5-minute presentation on the article, detailing:
 
     1. Questions - What are the research questions tackled in the article?&#x20;
     2. Methods - What means are used in the article to answer the research questions?
@@ -252,15 +252,11 @@ For Thu 5.11. (in one week):
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
 ### Wed 1.12. — Debriefing, Computational analysis
 
 {% tabs %}
 {% tab title="Assignments due" %}
-1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a presentation on the article, detailing:
+1.  Form a group with people from your own or nearby fields. Find a computational research paper from your field. For class, prepare a max 5-minute presentation on the article, detailing:
 
     1. Questions - What are the research questions tackled in the article?&#x20;
     2. Methods - What means are used in the article to answer the research questions?
@@ -294,8 +290,13 @@ For Mon 6.12. (in five days):
 For Wed 8.12. (in one week):
 
 1. Be prepared to shortly (1-2 minutes max) present your project plan to the others
+2. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+All content below this marker still provisional
+{% endhint %}
 
 ### Wed 8.12. — Debriefing, Open, reproducible research
 
@@ -303,6 +304,7 @@ For Wed 8.12. (in one week):
 {% tab title="Assignments due" %}
 1. (Mon 6.12.) Peer review two project plans of your fellow students
 2. Be prepared to shortly (1-2 minutes max) present your project plan to the others
+3. Explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
 
 {% tab title="Meeting contents" %}
@@ -311,7 +313,7 @@ For Wed 8.12. (in one week):
 {% endtab %}
 
 {% tab title="Assignments given" %}
-For Wed 23.12. (in two weeks):
+For Wed 22.12. (in two weeks):
 
 1. [Final project](../final-project.md)
 {% endtab %}
