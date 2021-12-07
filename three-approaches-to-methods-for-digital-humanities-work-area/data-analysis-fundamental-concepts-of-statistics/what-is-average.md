@@ -20,7 +20,7 @@ Note that even when not often explicitly given, an understanding of the breadth 
 
 ![The amount of people between 170-180cm as compared to those less than 160cm with the actual height variation](../../.gitbook/assets/fb2e5d16-82a5-4b77-8a7a-d22b652cdad0.png)
 
-![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../../.gitbook/assets/image (20).png>)
+![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../../.gitbook/assets/image (20) (1).png>)
 
 Before I wrote that usually, our intuition on averages is that the average is the most common value, as well as that 50% of values are larger and 50% smaller than the average. Now, remember again this data:
 
@@ -44,7 +44,7 @@ Interpreted visually, the measures show the following:
 * the median shows the point which divides the geometric area of the distribution in half (here showing again how hard it is for people to compare areas of different shapes)
 * the mode merely shows the singular point where the distribution is highest. Here this works out well, but the mode is volatile. For example, if the central mass of the distribution was much more spread out and the outlier at zero years was higher, that might end up being the mode of the whole distribution, even if the general shape of it stayed otherwise the same. Further, the mode here depends on the data having already been aggregated to a sensible level (years). If instead we'd have more precise information on the ages at death (e.g. not only years, but months, days or even seconds), we'd eventually end up in a situation where every age appeared only once, and the mode would thus end up encompassing every number in the dataset. The mean and median on the other hand would continue working just fine.
 
-For the ages at death distribution, there is actually a large normal component - for the large subgroup of people who manage to reach adulthood and die of natural causes, their ages at death distribution is relatively normal. If the whole distribution modelled diverges farther from normal on the other hand, the measures of central tendency are even less usable. For example, below is plotted the distribution of the number of letters sent by a group of 16th and 18th-century people. The mode of the distribution is zero letters. The median is one letter, and the mean is 5.9 letters. None of these numbers is able to capture the shape of the distribution, where most people send no letters at all, but there are also 19 people who each sent more than 50 letters, the most prolific having sent a whopping 136.
+For the ages at death distribution, there is actually a large normal component - for the large subgroup of people who manage to reach adulthood and die of natural causes, their ages at death distribution is relatively normal. If the whole distribution modelled diverges farther from normal on the other hand, the measures of central tendency are even less usable. For example, below is plotted the distribution of the number of letters sent by a group of 16th and 18th-century people (derived from metadata of the [Corpus of Early English Correspondence](http://www.helsinki.fi/varieng/CoRD/corpora/CEEC/index.html)). The mode of the distribution is zero letters. The median is one letter, and the mean is 5.9 letters. None of these numbers is able to capture the shape of the distribution, where most people send no letters at all, but there are also 19 people who each sent more than 50 letters, the most prolific having sent a whopping 136.
 
 ![Distribution of letters sent and measures of central tendency](../../.gitbook/assets/408b2d34-6b9e-4992-aa5a-e5b516f927fe.png)
 
@@ -56,7 +56,7 @@ Related to this, there is a commonly used plot type that is worth understanding:
 
 ![Box plot of the age at death data](<../../.gitbook/assets/image (29).png>)
 
-![Box plot of the number of letters sent data](<../../.gitbook/assets/image (21).png>)
+![Box plot of the number of letters sent data](<../../.gitbook/assets/image (21) (1).png>)
 
 In box plots, the line in the centre of the box denotes the median, while the ends of the box denote the 25% (first quartile) and 75% (third quartile) points. The whiskers before and after the box denote the minimum and maximum values of the main mass in the data, while all other data points are classified as "outliers" and denoted with individual dots. The usual formula for deciding when a value is an outlier or part of the main mass is to see whether it falls further than 1.5 times the inter-quartile range (the width of the box) away from the nearest quartile (box end).&#x20;
 

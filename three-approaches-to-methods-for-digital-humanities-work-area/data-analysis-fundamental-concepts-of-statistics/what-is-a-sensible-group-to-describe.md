@@ -6,6 +6,6 @@ Usually, the answer is that preferably, we'd like to describe as homogeneous gro
 
 This actually also holds for our age at death data. If we split the data into sexes, we can see that the distributions for males and females are decidedly different:&#x20;
 
-![Age at death distributions for Finnish males and females](<../../.gitbook/assets/image (28).png>)
+![Age at death distributions for Finnish males and females](<../../.gitbook/assets/image (28) (1).png>)
 
 Immediately looking at these distributions, one is tempted to make comparisons between them. And indeed, that is the subject of the [next section](comparing-groups.md).
