@@ -97,7 +97,7 @@ Putting this all together, below you can see the proportion estimates as well as
 
 If (as in this case) the confidence distribution is normal, one often forgoes complex heatmaps or other plots showing the whole distribution, and instead just gives error bars for appropriate cutoff points in the error distribution:
 
-![Estimated proportions with 90% confidence intervals for the 1000 person sample, underlaid with the true distribution](<../../.gitbook/assets/image (27).png>)
+![Estimated proportions with 90% confidence intervals for the 1000 person sample, underlaid with the true distribution](../../.gitbook/assets/642f2aa9-c7eb-45a6-acdc-429b54e30a3d.png)
 
 Notice how in these images as opposed to the one where sampling error distributions were derived from the full population, the confidence intervals are centred on the sample estimates instead of the true values. Further, note how the true proportion of people dying at a certain age often falls within the "hot" area of the confidence interval, but also sometimes is far from it, such as for example for ages 63 and 66 (for the second image, the confidence interval should contain the true value 90% of the time). Finally, note how the width of the confidence interval doesn't tell you anything about whether the estimate is accurate. For example, the confidence interval for the estimate at age 66 is relatively small, yet the estimate is far off from the actual true value.
 
