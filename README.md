@@ -59,7 +59,7 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
 3. [Easy tools for acquiring, processing and exploring data](easy-tools-for-processing-and-exploring-data.md) :construction\_site:&#x20;
 4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 5. [Data processing: regular expressions](regular-expressions.md)
-6. [Data analysis: fundamental concepts of statistics](three-approaches-to-methods-for-digital-humanities-work-area/data-analysis-fundamental-concepts-of-statistics/) :construction\_site:&#x20;
+6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/) :construction\_site:&#x20;
 7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT\_BG1x0Ll/pub?start=false\&loop=false\&delayms=3000) :construction\_site:&#x20;
 8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md) :construction\_site:&#x20;
 9. [Digital humanities project](final-project.md)
