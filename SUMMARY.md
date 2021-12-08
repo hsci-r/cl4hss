@@ -23,5 +23,5 @@
 * [Holding area for unfinished content](three-approaches-to-methods-for-digital-humanities-work-area.md)
   * [Data](different-types-of-data-data-quality-available-open-datasets.md)
   * [Easy tools for acquiring, processing and exploring data](easy-tools-for-processing-and-exploring-data.md)
-  * [Computational data analysis method literacy](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
+  * [Computational data analysis method literacy](computational-data-analysis-method-literacy/README.md)
   * [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md)

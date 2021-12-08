@@ -1,7 +1,7 @@
 # Digging into a method: topic modeling
 
 {% hint style="info" %}
-Context note: this is a self-contained part of the METH4DH course. You can read just this part to gain an understanding of topic models. However, if you want to know how they relate to other methods more broadly, you are encouraged to start from the wider scope of [computational data analysis method literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md).
+Context note: this is a self-contained part of the METH4DH course. You can read just this part to gain an understanding of topic models. However, if you want to know how they relate to other methods more broadly, you are encouraged to start from the wider scope of [computational data analysis method literacy](./).
 {% endhint %}
 
 ## Topic modelling

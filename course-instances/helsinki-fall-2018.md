@@ -139,7 +139,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/) / [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
+### Friday 23.11. — [Fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/) / [Computational data analysis literacy](../computational-data-analysis-method-literacy/)
 
 {% tabs %}
 {% tab title="Assignments given" %}
@@ -153,7 +153,7 @@ Form a group with all the other people who selected the same articles. For class
 {% endtab %}
 {% endtabs %}
 
-### Wednesday 28.11. — [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md), part 2
+### Wednesday 28.11. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 2
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -193,7 +193,7 @@ Form a group with all the other people who selected the same articles. For class
 
 ### Friday 30.11. — **No lecture**
 
-### Wednesday 5.12. — [Computational data analysis literacy](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md), part 3
+### Wednesday 5.12. — [Computational data analysis literacy](../computational-data-analysis-method-literacy/), part 3
 
 {% tabs %}
 {% tab title="Assignments due" %}
