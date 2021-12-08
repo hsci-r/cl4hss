@@ -20,6 +20,7 @@ Stepping on from correlation, one may want to start building a formal model of t
 {% hint style="info" %}
 Assignment
 
-To get a better idea about linear regression, go look at [regression explained visually](https://setosa.io/ev/ordinary-least-squares-regression/) and play around with it.
+* To get a better idea about linear regression, go look at [regression explained visually](https://setosa.io/ev/ordinary-least-squares-regression/) and play around with it.
+* Finally, as a bridge toward computational data analysis approaches, look at [principal component analysis explained visually](https://setosa.io/ev/principal-component-analysis/). In this approach, the viewpoint switches from describing, comparing or modelling data on given axes into instead using statistical computation to 1) figure out what axes in the data are important in the first place or 2) to automatically discover the most important patterns (or more precisely, most important by a certain precise definition concerning axes of maximal variance) in the data overall.
 {% endhint %}
 
