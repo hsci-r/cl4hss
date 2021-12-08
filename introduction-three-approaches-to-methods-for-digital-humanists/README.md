@@ -9,7 +9,7 @@ On this course, the following three approaches to computational human sciences w
 2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../computational-data-analysis-method-literacy/)
+3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
@@ -89,7 +89,7 @@ Like those present at Vassar in 1986 (_"Admittedly, most panelists and participa
 2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../computational-data-analysis-method-literacy/)
+3. [High-level understanding of what types of things can be accomplished with advanced CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
