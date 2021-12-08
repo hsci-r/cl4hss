@@ -294,11 +294,7 @@ For Wed 8.12. (in one week):
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-All content below this marker still provisional
-{% endhint %}
-
-### Wed 8.12. — Debriefing, Open, reproducible research
+### Wed 8.12. — Debriefing, Computational analysis, Open, reproducible research
 
 {% tabs %}
 {% tab title="Assignments due" %}
@@ -309,13 +305,14 @@ All content below this marker still provisional
 
 {% tab title="Meeting contents" %}
 * Project plan presentations
-* [Lecture on open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vSBysmBut7oJX5DrsiN-5MNlsDYK8n2B5P3EUzc1nDtFujouuBW-FWWgcYH7QKxrwP7mFWDix\_\_nNtC/pub?start=false\&loop=false\&delayms=3000)
+* [Lecture on topic modelling and other computational analysis approaches as well as open, reproducible research](https://docs.google.com/presentation/d/e/2PACX-1vRh8azxzZEz0zBCDnpxoPVSjE6i1yaYwm54im-jwTqgpT4P9ESCTzHOY723TgP\_ZaFXsKPWEHblTP1p/pub?start=false\&loop=false\&delayms=3000)
 {% endtab %}
 
 {% tab title="Assignments given" %}
 For Wed 22.12. (in two weeks):
 
 1. [Final project](../final-project.md)
+2. Read the new teaching material on the [fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/). Give feedback to Eetu on Slack about it: what is understandable, what is not, etc.
 {% endtab %}
 {% endtabs %}
 
