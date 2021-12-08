@@ -53,3 +53,7 @@ However, while we now know that the difference is statistically significant, we 
 ![Bootstrap probability distribution for the differnece in means for the 16th century males](../../.gitbook/assets/c2c8c52a-bd2f-4d1d-976f-022069a2edf5.png)
 
 Shaded is the area where 95% of the estimates appear, which translates to a 95% confidence interval of \[0.45,9.86], meaning that we're quite certain that 16th-century mare clergy outlived their noble counterparts on average by somewhere between one half and ten years.
+
+Without going into the specifics, for either the 16th or the 18th century, we find no statistically significant difference between the lifespans of female and male nobles (the observed differences are 1.09 years and 2.42 years, which happen 68% and 34% of the time in random samples).
+
+However, pooling our data and comparing across centuries, we do find a significant increase in lifespan in the 18th century as compared to the 16th. In our sample, on average our 18th-century people live 5.32 years longer than their 16th-century counterparts. For the larger size of our pooled sample, this difference has a 1 in 10 000 chance of arising through pure chance and is therefore highly statistically significant. The 95% confidence interval for the size of this increase is from two and a half years to 8 years, while it is 50% likely to be between 4.5 and 6.5 years.
