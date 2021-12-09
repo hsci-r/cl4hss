@@ -313,7 +313,10 @@ For Wed 22.12. (in two weeks):
 
 1. [Final project](../final-project.md)
 2. Read the new teaching material on the [fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/). Give feedback to Eetu on Slack about it: what is understandable, what is not, etc.
+3. Remember to fill in the [course feedback form](https://coursefeedback.helsinki.fi/targets/3652073)!
 {% endtab %}
 {% endtabs %}
 
-### Wed 22.12. — Deadline for returning final project
+### Wed 22.12. — Deadline for returning the final project
+
+Remember to fill in the [course feedback form](https://coursefeedback.helsinki.fi/targets/3652073)!
