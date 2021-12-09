@@ -8,7 +8,7 @@ Zoom meeting for the course: [https://helsinki.zoom.us/j/61379040642](https://he
 
 The course relies heavily on blended learning and flipped classroom techniques. Therefore, much work will happen outside of class, in interactive assignments, reading of literature, testing tools or creating presentations. Meetings will be used to give presentations, discuss, share knowledge and ensure understanding. Accordingly, after the first week, we will fall into a schedule where meetings happen each Wednesday, while each Monday is reserved for doing the assignments for that week.
 
-![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2021 schedule (3).png>)
+![Meetings and assignments at a glance](<../.gitbook/assets/CLIT4HSS 2022 schedule.png>)
 
 ### Mon **1.11.** — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
 
@@ -98,7 +98,7 @@ For Thu 5.11. (in one week):
 {% tabs %}
 {% tab title="Assignments due" %}
 1. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing) and do the assignment mentioned there (\~1-2h).
-2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 3 minutes):
+2. Find a [dataset](../different-types-of-data-data-quality-available-open-datasets.md) that could be of interest to you in your final project. Be prepared to present in class (max one slide, 1-2 minutes):
    1. why you chose those that dataset,
    2. what types of information does it contain,
    3. what the structure, technical format and way of accessing the data is, and
@@ -124,7 +124,7 @@ For Thu 5.11. (in one week):
        5. An automated image/video description tool
        6. Twitter archiving: [TAGS](https://tags.hawksey.info)
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (max 5-7 minutes) of the tool for class, describing:
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio. Afterwards, find other people who experimented with the same tool on Slack (by end of Monday 8.11.). Together, prepare a short demonstration (max 5 minutes) of the tool for class, describing:
 
     1. What is the tool good for?
     2. What kind of data do you need for the tool to be useful?&#x20;
@@ -208,7 +208,7 @@ For Thu 5.11. (in one week):
     * dynamics of modern-day media: [Using the president’s tweets to understand political diversion in the age of social media](https://doi.org/10.1038/s41467-020-19644-6) + [Emotive, evaluative, epistemic: a linguistic analysis of affectivity in news journalism](https://researchportal.helsinki.fi/en/publications/emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity)
     * Simulation, archaeology: [Population growth and collapse in a multiagent model of the Kayenta Anasazi in Long House Valley](https://doi.org/10.1073/pnas.092080799) + [Understanding Artificial Anasazi](http://jasss.soc.surrey.ac.uk/12/4/13.html)
     * Geographic information, network analysis, archaeology: [Community structure of copper supply networks in the prehistoric Balkans: An independent evaluation of the archaeological record from the 7th to the 4th millennium BC](https://doi.org/10.1093/comnet/cnx013) + [Testing the Robustness of Local Network Metrics in Research on Archeological Local Transport Networks](http://dx.doi.org/10.3389/fdigh.2016.00006)
-    * History, text reuse detection: [Plundering Philosophers:Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) (Interestingly, the first article doesn't have affiliations. Digging through, most people seem to be from [this project](https://artfl-project.uchicago.edu/content/papers-and-presentations))
+    * History, text reuse detection: [Plundering Philosophers: Identifying Sources of the Encyclopédie](http://hdl.handle.net/2027/spo.3310410.0013.107) + [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true) (Interestingly, the first article doesn't have affiliations. Digging through, most people seem to be from [this project](https://artfl-project.uchicago.edu/content/papers-and-presentations))
     * Network analysis: [Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach](https://muse.jhu.edu/journals/elh/v082/82.1.ahnert.html) + [Automated analysis of the US presidential elections using Big Data and network analysis](https://doi.org/10.1177%2F2053951715572916)
     * 3D/spatial analysis, archaeology: [A Survey of Geometric Analysis in Cultural Heritage](https://doi.org/10.1111/cgf.12668) + [A GIS-based viewshed analysis of Chacoan tower kivas in the US Southwest: were they for seeing or to be seen?](https://doi.org/10.15184/aqy.2016.144)
     * Image recognition of woodcut prints: [Image-matching technology applied to Fifteenth-century printed book illustration](https://doi.org/10.1007/s40329-017-0201-5) / [Wormholes record species history in space and time](https://doi.org/10.1098/rsbl.2012.0926)
