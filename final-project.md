@@ -40,7 +40,7 @@ To return the assignment, you will need to upload your data, code and results in
 
 **Further info:** as said, the most important learning goal for this assignment is to learn how to navigate between the shoals of data, methods and questions in designing a computational human science research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are (and that is what question 5 is for). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline (e.g. the data cleaning part). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those (i.e. a plan for future research).
 
-To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://goo.gl/forms/vXqu71qRJG6uzHgG2)! (University of Helsinki students should use the [official version](https://coursefeedback.helsinki.fi/targets/3652073))
+To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://forms.gle/mAzroPpS89Hw2BQS8)! (University of Helsinki students should use the [official version](https://coursefeedback.helsinki.fi/targets/3652073))
 
 ### Evaluation criteria
 
