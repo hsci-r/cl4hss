@@ -20,13 +20,13 @@ While this is not the way these types of data are usually presented, what does t
 
 This works the other way around as well. For example, looking at age 40 and finding the number 100 000 (5% of 2 000 000), we can say that only 5% of Finns die before reaching 40. If we want to know the proportion of Finns who die between 40 and 80, we look up 80 (at about 1 200 000 or 60% of 2 000 000) and can calculate that 60%-5%(the proportion from 0 to 40)=55 per cent of Finns die in that time period.&#x20;
 
-To make these calculations easier, we can replace the person number with their position in percentage of the dataset. Further, let's switch the X and Y axes with each other. In this format, the ensuing graph has a term associated with it: the empirical cumulative distribution function.
+To make these calculations easier, we can replace the person number with their position in percentage of the dataset. Further, let's switch the X and Y axes with each other (in this format, the ensuing graph has a term associated with it: the _empirical cumulative distribution function_).
 
 ![The empirical cumulative distribution function of our data](<../.gitbook/assets/image (17).png>)
 
-So, only 5% of Finns die within the first 40 years of their lives, while 55% die in their next 40. Projecting this information back into the graphs, we can see that in the first graph arranged by people, in the horizontal bands where the graph moves up quickly, there are few people. In the bands where it moves up slowly, there are many more people. In the graph arranged by age at death on the other hand this is reversed. Where the graph moves up slowly, there are few people, and where it moves quick, there are many.&#x20;
+So, only 5% of Finns die within the first 40 years of their lives, while 55% die in their next 40. Comparing these two 40-year spans in the graphs, we can see that in the first graph arranged by people, in the horizontal bands where the graph moves up quickly, there are few people. In the bands where it moves up slowly, there are many more people. In the second graph arranged by age at death, this is reversed. Where the graph moves up slowly, there are few people, and where it moves quick, there are many. This, in general, is how one examines statistical visualizations: knowing what the shapes represent in each different graph and how to read them, one can start exploring patterns in the data.
 
-While these graphs are good for dividing the data into percentages, from them it is still difficult to get a good idea of when exactly people are likely to die. To get a better overview of this, we need to move from cumulative graphs to ones showing local density. For this, we need to calculate the distribution of the data over the Age at death. What this means is that we take each Age at death, and count how many people die at that age. The resulting table looks like this:
+While these graphs are good for dividing the data into percentages, from them it is still difficult to get a good idea of when exactly people are likely to die. To get a better overview of this, we need to move from cumulative graphs to ones showing local density. For this, we need to __ calculate the _distribution of the data over the Age at death_. What this means is that we take each Age at death, and count how many people die at that age. The resulting table looks like this:
 
 <table><thead><tr><th>Age at death</th><th data-type="number">Number of peoplle</th></tr></thead><tbody><tr><td>112</td><td>1</td></tr><tr><td>111</td><td>3</td></tr><tr><td>110</td><td>6</td></tr><tr><td>109</td><td>10</td></tr><tr><td>...</td><td>null</td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ Plotted visually, this table looks as follows:
 
 ![The number of people dying at each age](../.gitbook/assets/d1a37eea-94ff-4dc4-a5b4-c88490980c2c.png)
 
-Here, the height of each bar corresponds directly to the number of people dying at that age. This allows immediate look up and comparison of exact ages (e.g. that about 10 000 people died aged 50, while about double that many people died aged 60). Comparing ranges on the other hand now requires comparing the geometric area of the different regions in the graph. This is not something that humans are good at doing accurately, but general notions are still available.&#x20;
+Here, the height of each bar corresponds directly to the number of people dying at that age. This allows immediate lookup and comparison of exact ages (e.g. that about 10 000 people died aged 50, while about double that many people died aged 60). Comparing ranges on the other hand now requires comparing the geometric area of the different regions in the graph. This is not something that humans are good at doing accurately, but general notions are still available.&#x20;
 
 For example, from this visualization we can immediately see the following things:
 
