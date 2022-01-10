@@ -1,7 +1,7 @@
 # What is average?
 
 {% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the CLIT4HSS course. You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
+Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the [computational literacy for humanities and social sciences course](../). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
 {% endhint %}
 
 {% hint style="info" %}
@@ -12,19 +12,19 @@ Before reading on, consider for a moment what you could infer if you were told t
 
 Perhaps you inferred that about half of Finns would be over 173cm tall and half under and that 173cm would itself be the most common height? You'll also have inbuilt ideation of the variance - that there will probably be quite many people 160cm or 180cm in height, but much fewer people less than 150cm or over 190cm. All of these ideations depend on the fact that [height is normally distributed](https://ourworldindata.org/human-height#height-is-normally-distributed), i.e. the distribution of heights looks something like this:&#x20;
 
-![Height distribution of Finns](../../.gitbook/assets/dde9c4c1-38de-4420-b0a2-71e2b4265c45.png)
+![Height distribution of Finns](../.gitbook/assets/dde9c4c1-38de-4420-b0a2-71e2b4265c45.png)
 
 With such data, summing it up in terms of an average value and the breadth of variation around it tells us everything we need to know about the data, and yields our intuitive understanding of what they mean in practice.&#x20;
 
 Note that even when not often explicitly given, an understanding of the breadth of variation is still crucial to be able to draw inferences from data. For example, currently we're more than ten times likely to meet a person who is about 170-180cm in height than to meet someone who is less than 160cm. However, if there was double the amount of variation in how tall people are, we'd only be twice as likely to meet someone between 170-180cm as someone less than 160cm (compare the black and red graphs below):
 
-![The amount of people between 170-180cm as compared to those less than 160cm with the actual height variation](../../.gitbook/assets/fb2e5d16-82a5-4b77-8a7a-d22b652cdad0.png)
+![The amount of people between 170-180cm as compared to those less than 160cm with the actual height variation](../.gitbook/assets/fb2e5d16-82a5-4b77-8a7a-d22b652cdad0.png)
 
-![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../../.gitbook/assets/image (20) (1).png>)
+![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../.gitbook/assets/image (20) (1).png>)
 
 Before I wrote that usually, our intuition on averages is that the average is the most common value, as well as that 50% of values are larger and 50% smaller than the average. Now, remember again this data:
 
-![The number of people dying at each age](../../.gitbook/assets/d1a37eea-94ff-4dc4-a5b4-c88490980c2c.png)
+![The number of people dying at each age](../.gitbook/assets/d1a37eea-94ff-4dc4-a5b4-c88490980c2c.png)
 
 In relation to this graph, I wrote that the average age at death by natural causes seemed to be somewhere around 80 years. However, if I calculate the arithmetic mean for the whole data, it turns out to be 73,82 years. And remember, from already the original cumulative plot we deduced that half of the people die by age 77, while half live longer. Only by looking at which exact age most people died do we come close to 80, by getting 83 (67 943 people died aged 83). What does this all mean?
 
@@ -36,7 +36,7 @@ It means that **because our age at death data is not completely normally distrib
 
 When data is normally distributed, all of these measures point to the same number, yielding our intuition of what an average is. However, with non-normally distributed data, none of these measures anymore (even with a measure of variation added) sums up the whole truth of what goes on in the distribution. Below, you will find each of these measures overlaid on top of the original density plot:
 
-![Measures of central tendency and the distribution of ages at death](../../.gitbook/assets/c1719449-6a27-4899-9fe2-054965b8c9d7.png)
+![Measures of central tendency and the distribution of ages at death](../.gitbook/assets/c1719449-6a27-4899-9fe2-054965b8c9d7.png)
 
 Interpreted visually, the measures show the following:
 
@@ -46,7 +46,7 @@ Interpreted visually, the measures show the following:
 
 For the ages at death distribution, there is actually a large normal component - for the large subgroup of people who manage to reach adulthood and die of natural causes, their ages at death distribution is relatively normal. If the whole distribution modelled diverges farther from normal on the other hand, the measures of central tendency are even less usable. For example, below is plotted the distribution of the number of letters sent by a group of 16th and 18th-century people (derived from metadata of the [Corpus of Early English Correspondence](http://www.helsinki.fi/varieng/CoRD/corpora/CEEC/index.html)). The mode of the distribution is zero letters. The median is one letter, and the mean is 5.9 letters. None of these numbers is able to capture the shape of the distribution, where most people send no letters at all, but there are also 19 people who each sent more than 50 letters, the most prolific having sent a whopping 136.
 
-![Distribution of letters sent and measures of central tendency](../../.gitbook/assets/408b2d34-6b9e-4992-aa5a-e5b516f927fe.png)
+![Distribution of letters sent and measures of central tendency](../.gitbook/assets/408b2d34-6b9e-4992-aa5a-e5b516f927fe.png)
 
 In the humanities, a very large proportion of the phenomena studied are not normally distributed. Therefore, relying on any of the averages to sum up the material is often problematic. Instead, one must often drag along and analyse the entire complexity of the distribution as a whole.&#x20;
 
@@ -54,17 +54,17 @@ In situations where summarization cannot be avoided, the median is often a good 
 
 Related to this, there is a commonly used plot type that is worth understanding: the box plot. Below, you'll find box plots of the two distributions presented before.
 
-![Box plot of the age at death data](<../../.gitbook/assets/image (29).png>)
+![Box plot of the age at death data](<../.gitbook/assets/image (29).png>)
 
-![Box plot of the number of letters sent data](<../../.gitbook/assets/image (21) (1).png>)
+![Box plot of the number of letters sent data](<../.gitbook/assets/image (21) (1).png>)
 
 In box plots, the line in the centre of the box denotes the median, while the ends of the box denote the 25% (first quartile) and 75% (third quartile) points. The whiskers before and after the box denote the minimum and maximum values of the main mass in the data, while all other data points are classified as "outliers" and denoted with individual dots. The usual formula for deciding when a value is an outlier or part of the main mass is to see whether it falls further than 1.5 times the inter-quartile range (the width of the box) away from the nearest quartile (box end).&#x20;
 
 Box plots are particularly often used when comparing groups, so we'll return to them then. For now, however, know also that there are other options, such as [beeswarm plots](https://github.com/eclarke/ggbeeswarm), which are equally compact, but lose even less information on the overall shape of the distribution:
 
-![Beeswarm plot of the age at death data](<../../.gitbook/assets/image (24).png>)
+![Beeswarm plot of the age at death data](<../.gitbook/assets/image (24).png>)
 
-![Beeswarm plot of the number of letters sent data](../../.gitbook/assets/082887f2-0d89-45e9-95ce-620e075f782b.png)
+![Beeswarm plot of the number of letters sent data](../.gitbook/assets/082887f2-0d89-45e9-95ce-620e075f782b.png)
 
 {% hint style="info" %}
 Assignment

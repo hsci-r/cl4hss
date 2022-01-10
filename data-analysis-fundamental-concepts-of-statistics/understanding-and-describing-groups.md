@@ -1,7 +1,7 @@
 # Understanding and describing groups
 
 {% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the CLIT4HSS course. You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
+Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the [computational literacy for humanities and social sciences course](../). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
 {% endhint %}
 
 Consider [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin\_\_vrm\_\_kuol/statfin\_kuol\_pxt\_12ag.px/) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020. While aggregated in the original, the data essentially contains the following information:
@@ -14,7 +14,7 @@ As a table, this tells us information about each individual. Further, we might o
 
 However, what if we want to look at the data as a whole, to see what it tells us about the lifespans of Finns as a whole? For this, we need to turn to statistics. Let us start with a simple visualization that just takes all two million people and plots their ages at death in increasing order:&#x20;
 
-![Ages at death of two million Finns, ordered by age at death](<../../.gitbook/assets/9795e3a8-c993-4487-a8be-92663c60d479 (1).png>)
+![Ages at death of two million Finns, ordered by age at death](<../.gitbook/assets/9795e3a8-c993-4487-a8be-92663c60d479 (1).png>)
 
 While this is not the way these types of data are usually presented, what does this visualization tell us? First, one can read proportions out of it. Because the people are ordered by age at death, looking at the midpoint of the graph (around the 1st millionth person) and looking at the age recorded there (around 77), we can say that 50% of Finns live to be older than 77. This works for any percentage: looking at around 200 000 (10% of 2 000 000) and finding the number 52, we can say that only 10% of Finns die before reaching that age, while looking at 1 800 000, we can conclude that only 10% of Finns live longer than 90 years.&#x20;
 
@@ -22,7 +22,7 @@ This works the other way around as well. For example, looking at age 40 and find
 
 To make these calculations easier, we can replace the person number with their position in percentage of the dataset. Further, let's switch the X and Y axes with each other. In this format, the ensuing graph has a term associated with it: the empirical cumulative distribution function.
 
-![The empirical cumulative distribution function of our data](<../../.gitbook/assets/image (17).png>)
+![The empirical cumulative distribution function of our data](<../.gitbook/assets/image (17).png>)
 
 So, only 5% of Finns die within the first 40 years of their lives, while 55% die in their next 40. Projecting this information back into the graphs, we can see that in the first graph arranged by people, in the horizontal bands where the graph moves up quickly, there are few people. In the bands where it moves up slowly, there are many more people. In the graph arranged by age at death on the other hand this is reversed. Where the graph moves up slowly, there are few people, and where it moves quick, there are many.&#x20;
 
@@ -32,7 +32,7 @@ While these graphs are good for dividing the data into percentages, from them it
 
 Plotted visually, this table looks as follows:
 
-![The number of people dying at each age](../../.gitbook/assets/d1a37eea-94ff-4dc4-a5b4-c88490980c2c.png)
+![The number of people dying at each age](../.gitbook/assets/d1a37eea-94ff-4dc4-a5b4-c88490980c2c.png)
 
 Here, the height of each bar corresponds directly to the number of people dying at that age. This allows immediate look up and comparison of exact ages (e.g. that about 10 000 people died aged 50, while about double that many people died aged 60). Comparing ranges on the other hand now requires comparing the geometric area of the different regions in the graph. This is not something that humans are good at doing accurately, but general notions are still available.&#x20;
 

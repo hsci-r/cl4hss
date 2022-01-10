@@ -1,5 +1,11 @@
 # Comparing groups
 
+
+
+{% hint style="info" %}
+Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the [computational literacy for humanities and social sciences course](../). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
+{% endhint %}
+
 ![​​Age at death distributions for Finnish males and females](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LPB0-GYwxbJd7xOS0FD%2Fuploads%2F40q4PyUzBdojzGivyxok%2Fimage.png?alt=media\&token=449d7db5-0243-45ea-83d2-63a3477f5843)
 
 Picking up where we left off and jumping straight into analysis, from the measures of central tendency depicted above, we can calculate that female Finns seem to live quite a bit longer than male Finns, with for example 50% of females living to at least 81 years old (their median age at death), while only 25% of male Finns live that long (3rd quartile). For male Finns, the median age at death is only 73. Further, from the shape of the distribution and the quartiles (25% and 75% equivalents of the 50% median), it can be inferred that the lifespans of Finnish males vary more than those of females. Particularly the first 25% quartile for males is very much to the left of that of females, meaning that a much larger proportion of men die young.
@@ -26,7 +32,7 @@ While significance testing is appropriate for even complete sets of data, trying
 
 To give some examples of this in practice, we will use the following historic sample of ages at death, derived from metadata of the [Corpus of Early English Correspondence](http://www.helsinki.fi/varieng/CoRD/corpora/CEEC/index.html):
 
-![Ages at death for various groups in the CEEC metadata](../../.gitbook/assets/668e82f8-363c-4123-ab7f-baa9d9368890.png)
+![Ages at death for various groups in the CEEC metadata](../.gitbook/assets/668e82f8-363c-4123-ab7f-baa9d9368890.png)
 
 Here, on the whole, we have age at death data for only 415 individuals, further unevenly distributed between groups as follows:
 
@@ -34,23 +40,23 @@ Here, on the whole, we have age at death data for only 415 individuals, further 
 
 As can be seen from the distribution plots, this data is quite spotty. To get a slightly better overview of it, we can group the ages into decades:
 
-![Ages at death for various groups in the CEEC metadata grouped bydecade and overlaid with mean ages at death](../../.gitbook/assets/edac5e92-7c3c-4b62-b78d-72fa5f00225f.png)
+![Ages at death for various groups in the CEEC metadata grouped bydecade and overlaid with mean ages at death](../.gitbook/assets/edac5e92-7c3c-4b62-b78d-72fa5f00225f.png)
 
 Wanting to compare like with like, let us start with seeing whether male clergy or nobles lived longer in the 18th century. In our sample, 18th-century clergymen outlive 18th-century nobles on average by 1.7 years. However, conducting a permutation test for significance, we come up with the following breadth of random variation in the case where no actual difference would exist:
 
-![Distribution of random differences in means for the 18h century males in case of no difference between nobles and clergy](../../.gitbook/assets/d2fb5d6b-a4a7-41a8-9489-f685ede4c69d.png)
+![Distribution of random differences in means for the 18h century males in case of no difference between nobles and clergy](../.gitbook/assets/d2fb5d6b-a4a7-41a8-9489-f685ede4c69d.png)
 
 As can be seen from this distribution, a difference of 1.7 in either direction would not be unexpected at all. In fact, a full 50% of the differences in random samples from the unified population are either below -1.7 or above 1.7. Therefore, we must conclude that we have no evidence for clergymen living longer than nobles in the 18th century.&#x20;
 
 However, if we do the same comparison for male nobles and clergy in the 16th century, where the difference in means is 5.29 years to the advantage of clergymen, we see the following distribution for differences in means for the null hypothesis:
 
-![Distribution of random differences in means for the 16h century males in case of no difference between nobles and clergy](../../.gitbook/assets/9103681d-4739-4423-93ff-b41b226eda20.png)
+![Distribution of random differences in means for the 16h century males in case of no difference between nobles and clergy](../.gitbook/assets/9103681d-4739-4423-93ff-b41b226eda20.png)
 
 Here, the observed difference of 5.29 years is so far to the right of the distribution of random differences that only 3% of the random differences are more than 5.29 years in either direction. Therefore, at the significance level of p<0.05, we can conclude that the difference isn't likely to arise just from random effects.
 
 However, while we now know that the difference is statistically significant, we still don't know how large it is. 5.29 years is just our estimate from our sample. To get the probable range of the difference, we can construct confidence intervals for it. Through bootstrapping, we come up with the following probability distribution for the difference:
 
-![Bootstrap probability distribution for the differnece in means for the 16th century males](../../.gitbook/assets/c2c8c52a-bd2f-4d1d-976f-022069a2edf5.png)
+![Bootstrap probability distribution for the differnece in means for the 16th century males](../.gitbook/assets/c2c8c52a-bd2f-4d1d-976f-022069a2edf5.png)
 
 Shaded is the area where 95% of the estimates appear, which translates to a 95% confidence interval of \[0.45,9.86], meaning that we're quite certain that 16th-century mare clergy outlived their noble counterparts on average by somewhere between one half and ten years.
 

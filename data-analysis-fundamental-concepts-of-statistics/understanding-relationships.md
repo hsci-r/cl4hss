@@ -1,7 +1,7 @@
 # Understanding relationships
 
 {% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the CLIT4HSS course. You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
+Context note: this is a sub-part of the [fundamental concepts of statistics](./) section of the [computational literacy for humanities and social sciences course](../). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
 {% endhint %}
 
 Sometimes, we are not interested in either describing groups nor validating their differences. Instead, we may be interested in relationships between variables. For example, we might want to [know](https://ourworldindata.org/life-expectancy#what-drives-improvements-in-life-expectancy) how much income level affects life expectancy, and even compare that to the effect of sex and healthcare expenditure.&#x20;

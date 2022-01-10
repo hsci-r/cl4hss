@@ -3,7 +3,7 @@
 * [Computational literacy for the humanities and social sciences](README.md)
 * [Three approaches to computational methods](introduction-three-approaches-to-methods-for-digital-humanists/README.md)
   * [History of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md)
-* [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
+* [Data processing: fundamental concepts of programming for humanists and social scientists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 * [Data processing: regular expressions](regular-expressions.md)
 * [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/README.md)
   * [Understanding and describing groups](data-analysis-fundamental-concepts-of-statistics/understanding-and-describing-groups.md)
