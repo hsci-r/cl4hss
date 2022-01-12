@@ -14,7 +14,7 @@ Here, in the case of data describing complete populations, all of the above are 
 
 ## Significance testing
 
-Restated, to really be certain that there is a difference between for example the median age of death for women and men, we need an alternate, neutral explanation for the observed difference. In this alternate explanation, the true median age of death for men and women would actually be the same, and the observed difference we are seeing would be caused purely by random variation in how long individual people live, which has just happened to cluster so that women have lived longer.
+Restated, to really be certain that there is a difference between for example the median age of death for women and men, we need to disprove the alternate neutral explanation for the observed difference, where the true median age of death for men and women would actually be the same, and the observed difference we are seeing would be caused purely by random variation in how long individual people live, which has just happened to cluster so that women have lived longer.
 
 To rule out this alternative explanation (often called the null hypothesis), we will calculate how unlikely it would be that if it were true, we'd see as big a difference as we're really seeing. While there are many standard statistical formulas for calculating this, often they only work for normal distributions or have other limitations. A nice non-committal approach to this problem are permutation tests, which, similarly to bootstrap methods, rely on resampling the data we have. In essence, what we do here is put all our data into a single pool, and then randomly split the pool into "female" and "male" parts in the same proportion as in our actual data. This way, no inherent structure between the two groups remain, and instead any difference we measure between their medians is caused by pure random chance.&#x20;
 
@@ -22,7 +22,7 @@ Doing this for example 10 000 times, we get a distribution of the random variati
 
 Doing so for our complete data which is huge, we easily come to the conclusion that the difference between the median age of men and women is real. In 10 000 random shuffles of the original data, the largest mean difference that randomly appeared was 0.09 years. Extrapolating from the normally distributed errors, the chance that a difference of 8.7 would randomly appear is one to a number with 27 212 zeros (a trillion has 12 zeros).&#x20;
 
-As an aside, such is the law of large numbers - with this data, even a difference of 0.05 years in either direction would show up as statistically significant (=unlikely to arise randomly) at the 5% cutoff often used (and stated p<0.05). On the other hand, what would a difference in mean age at death of 0.05 years mean in practice? Particularly if that was the only thing we know, and did not know whether the distributions giving rise to that mean looked otherwise different? The important takeaway from this is that a difference being statistically significant means nothing in itself, without a deeper understanding of the size of the difference, as well as what aspects the comparison (often of means) might miss completely.
+As an aside, such is the law of large numbers - with this data, even a difference of 0.05 years in either direction would show up as statistically significant at the 5% cutoff often used (and stated p<0.05), meaning that with this data, in less than 5% of cases would random variation cause a difference in group means of at least 0.05 years. On the other hand, what would a difference in mean age at death of 0.05 years mean in practice? Particularly if that was the only thing we know, and did not know whether the distributions giving rise to that mean looked otherwise different? The important takeaway from this is that a difference being statistically significant means nothing in itself, without a deeper understanding of the size of the difference, as well as what aspects of the overall phenomenon the comparison (often of means) might miss completely.
 
 While in this instance due to the size of the difference and the size of the data, testing for significance yielded a foregone conclusion, when looking at either smaller differences or smaller datasets, ensuring the difference cannot be caused by just random chance is important.
 
@@ -40,7 +40,7 @@ Here, on the whole, we have age at death data for only 415 individuals, further 
 
 As can be seen from the distribution plots, this data is quite spotty. To get a slightly better overview of it, we can group the ages into decades:
 
-![Ages at death for various groups in the CEEC metadata grouped bydecade and overlaid with mean ages at death](../.gitbook/assets/edac5e92-7c3c-4b62-b78d-72fa5f00225f.png)
+![Ages at death for various groups in the CEEC metadata grouped by decade and overlaid with mean ages at death](../.gitbook/assets/edac5e92-7c3c-4b62-b78d-72fa5f00225f.png)
 
 Wanting to compare like with like, let us start with seeing whether male clergy or nobles lived longer in the 18th century. In our sample, 18th-century clergymen outlive 18th-century nobles on average by 1.7 years. However, conducting a permutation test for significance, we come up with the following breadth of random variation in the case where no actual difference would exist:
 
@@ -60,6 +60,19 @@ However, while we now know that the difference is statistically significant, we 
 
 Shaded is the area where 95% of the estimates appear, which translates to a 95% confidence interval of \[0.45,9.86], meaning that we're quite certain that 16th-century mare clergy outlived their noble counterparts on average by somewhere between one half and ten years.
 
-Without going into the specifics, for either the 16th or the 18th century, we find no statistically significant difference between the lifespans of female and male nobles (the observed differences are 1.09 years and 2.42 years, which happen 68% and 34% of the time in random samples).
+Continuing our comparisons, for either the 16th or the 18th century, we find no statistically significant difference between the lifespans of female and male nobles (the observed differences are 1.09 years and 2.42 years, which happen 68% and 34% of the time in random samples).
 
 However, pooling our data and comparing across centuries, we do find a significant increase in lifespan in the 18th century as compared to the 16th. In our sample, on average our 18th-century people live 5.32 years longer than their 16th-century counterparts. For the larger size of our pooled sample, this difference has a 1 in 10 000 chance of arising through pure chance and is therefore highly statistically significant. The 95% confidence interval for the size of this increase is from two and a half years to 8 years, while it is 50% likely to be between 4.5 and 6.5 years.
+
+{% hint style="info" %}
+Assignment
+
+To further add to your understanding of statistical significance and p-values, have a look at this [interactive visualization](https://rpsychologist.com/pvalue/).&#x20;
+
+1. Here, Cohen's d is essentially a normalized number representing the size of the difference in means between two groups, both of which here have equal variance. First, to get an understanding of this, drag around the d-slider a bit. and look at the second graph on the page.&#x20;
+2. Leaving the d-slider at whatever point, click on +1 under "Draw samples" a couple of times. The visualization shows drawing a 5 observation sample from the true distribution (the blue graph) and summarizing this as a sample mean. This sample mean then falls down as a singular data point into the second graph.
+3. Now, click on +500 under "Draw samples". You will end up with a little bit over 500 mean values calculated from experiments, and you can see that they are spread in an approximately normal fashion around the true population mean for group 1 at μ1.&#x20;
+4. Now, unless you dragged the d-slider very far to the right (meaning a very large difference existing between the groups), it is quite likely that a large number of the sample means from the +500 experiments lies within the central 95% of random variation around the population mean for group 0 at 100 (the solid black line). For example, for a true population mean of 110 for group 1, a full 68% of the sample means are within this central 95% region. In turn, what this means would be that even if the difference of 10 was real, 68% of the time if we did this experiment (sampling 5 people and calculating their mean), we'd be unable to rule out the difference arising from purely random chance.
+5. To see the effect of this, drag the d-slider again back and forth, and look at the text under "Power Analysis" to see how often you'd be able to reject the null hypothesis and state that a difference does actually exist for various true differences.
+6. Now, for the default value of just 5 observations in a sample, the situation is not rosy at all for even quite large differences. To fix this, click multiple times on the + -icon under "Observations per sample". Notice how, if you increase the sample size to even just 25, your chance of confirming the significance of a difference in means increases considerably (for all possible differences).
+{% endhint %}
