@@ -20,7 +20,7 @@ Note that even when not often explicitly given, at least a latent understanding 
 
 ![The amount of people between 170-180cm as compared to those less than 160cm with the true height variation seen in the real world](../.gitbook/assets/fb2e5d16-82a5-4b77-8a7a-d22b652cdad0.png)
 
-![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../.gitbook/assets/image (20) (1).png>)
+![The amount of people between 170-180cm as compared to those less than 160cm if the variation in heights were double](<../.gitbook/assets/image (25).png>)
 
 ### But what if data is not (completely) normally distributed?
 
@@ -60,15 +60,15 @@ In situations where summarization cannot be avoided, the median is often a good 
 
 Related to this, there is a commonly used plot type that is worth understanding: the box plot. Below, you'll find box plots of the two distributions presented before.
 
-![Box plot of the age at death data](<../.gitbook/assets/image (29).png>)
+![Box plot of the age at death data](<../.gitbook/assets/image (50).png>)
 
-![Box plot of the number of letters sent data](<../.gitbook/assets/image (21) (1).png>)
+![Box plot of the number of letters sent data](<../.gitbook/assets/image (26).png>)
 
 In box plots, the line in the centre of the box denotes the median, while the ends of the box denote the 25% (first quartile) and 75% (third quartile) points. The whiskers before and after the box denote the minimum and maximum values of the "main mass" in the data, while all other data points are classified as "outliers" and denoted with individual dots. The usual formula for deciding when a value is an outlier or part of the main mass is to see whether it falls further than 1.5 times the inter-quartile range (the width of the box) away from the nearest quartile (box end).&#x20;
 
 Box plots are particularly often used when comparing groups, as one can easily plot multiple boxes side by side and immediately see how the main masses of different groups relate to each other. For now, however, know also that there are other options, such as [beeswarm plots](https://github.com/eclarke/ggbeeswarm), which are equally compact, but lose even less information on the overall shape of the distribution:
 
-![Beeswarm plot of the age at death data](<../.gitbook/assets/image (24).png>)
+![Beeswarm plot of the age at death data](<../.gitbook/assets/image (32).png>)
 
 ![Beeswarm plot of the number of letters sent data](../.gitbook/assets/082887f2-0d89-45e9-95ce-620e075f782b.png)
 

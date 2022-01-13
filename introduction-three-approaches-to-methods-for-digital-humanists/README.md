@@ -4,12 +4,12 @@ On this course, the following three approaches to computational human sciences w
 
 ## Three approaches to computational human sciences - what to learn if you're a humanist or a social scientist?
 
-1. [Knowledge of easy to use end-user data processing and visualisation tools](../easy-tools-for-processing-and-exploring-data.md)
+1. [Knowledge of easy to use end-user data processing and visualisation tools](../three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
    * Easy to use for their intended purpose, but limited
 2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../computational-data-analysis-method-literacy/)
+3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
@@ -40,7 +40,7 @@ Now, given the above definition, what does it mean in practice? What is the best
 
 In our opinion, computational studies in the humanities and social sciences (henceforth referred to by the shorthand computational human sciences) are currently best done in interdisciplinary collaboration. The reason for this is that contrary to more established statistical social science or clinical research, there are no generally applicable codebooks or protocols on how to reliably conduct even the most common types of computational research in the humanities and interpretative social sciences in a trustworthy manner. The underlying cause of this is the complexity of all of 1) phenomena, 2) datasets as well as 3) questions of interest. Because these complexities are also often specific to individual datasets and questions, each application of computation must spend significant time and understanding mapping them to the equally complex requirements, considerations and limitations of modern computational and statistical algorithms.
 
-Due to this complexity, at present, it is very difficult for a human sciences scholar alone to apply the complex methods in a trustworthy manner (for cases in point, see the many applications of [topic modelling](../computational-data-analysis-method-literacy/digging-into-a-method-topic-modeling.md) to human science questions which do not understand the method and its limitations enough to be comfortable in actually drawing strong results from the output). At the same time, this complexity means that neither can computer scientists, statisticians or physicists solve the humanities questions alone, even if they understand the algorithms (for cases in point, see e.g [The Parable of Google Flu: Traps in Big Data Analysis](https://doi.org/10.1126/science.1248506), [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034) or [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)).
+Due to this complexity, at present, it is very difficult for a human sciences scholar alone to apply the complex methods in a trustworthy manner (for cases in point, see the many applications of [topic modelling](../digging-into-a-method-topic-modeling.md) to human science questions which do not understand the method and its limitations enough to be comfortable in actually drawing strong results from the output). At the same time, this complexity means that neither can computer scientists, statisticians or physicists solve the humanities questions alone, even if they understand the algorithms (for cases in point, see e.g [The Parable of Google Flu: Traps in Big Data Analysis](https://doi.org/10.1126/science.1248506), [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034) or [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)).
 
 What is needed then is true interdisciplinary collaboration where statisticians, computer scientists and scholars in the human sciences all work together to develop, test and apply the methodology to solve complex human questions.
 
@@ -84,12 +84,12 @@ Like those present at Vassar in 1986 (_"Admittedly, most panelists and participa
 
 ## Three approaches to computational human sciences - what to learn if you're a humanist or a social scientist?
 
-1. [Knowledge of easy to use end-user data processing and visualisation tools](../easy-tools-for-processing-and-exploring-data.md)
+1. [Knowledge of easy to use end-user data processing and visualisation tools](../three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
    * Easy to use for their intended purpose, but limited
 2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../computational-data-analysis-method-literacy/)
+3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects

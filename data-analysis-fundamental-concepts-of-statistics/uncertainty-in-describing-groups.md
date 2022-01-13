@@ -53,7 +53,7 @@ Even if proper sampling practices have been followed, there is still no guarante
 
 To dig into this, here are two different 1000 person samples taken from the age at death data, overlaid with the actual distribution (note that we've here moved from counting actual people to counting percentages. This way we can directly compare our smaller samples against the much larger population):&#x20;
 
-![Two samples (blue and red) and the actual distribution (black line)](<../.gitbook/assets/image (25).png>)
+![Two samples (blue and red) and the actual distribution (black line)](<../.gitbook/assets/image (39).png>)
 
 In the visualization, the blue and red samples are overlaid on top of each other, showing as purplish red when they overlap and either blue or light red in the parts they don't. Note how, as compared to the true distribution (black line), both samples are very ragged, meaning that for almost all ages at death, the samples either overestimate or underestimate the proportion of people dying at that age, and that this error goes randomly in either direction. Further, at each age, one sample may well overestimate and another underestimate (e.g. around 85-90 years). Finally, it is important to note that sometimes the under/overestimation can be really large (such as here for dying at 80 years, particularly for the red sample), but in general, the samples are not too far off.&#x20;
 
@@ -91,7 +91,7 @@ There is also one final piece of the puzzle still missing. In order to calculate
 
 Putting this all together, below you can see the proportion estimates as well as bootstrapped confidence distributions calculated from a single 1000 person sample:
 
-![Estimated proportions as well as bootstrapped confidence intervals derived from a single 1000 person sample, overlaid with the true distribution](<../.gitbook/assets/image (23).png>)
+![Estimated proportions as well as bootstrapped confidence intervals derived from a single 1000 person sample, overlaid with the true distribution](<../.gitbook/assets/image (30).png>)
 
 If (as often and also in this case) the confidence distribution is normal, one often forgoes complex heatmaps or other plots showing the whole distribution, and instead just gives error bars for appropriate cutoff points in the error distribution:
 

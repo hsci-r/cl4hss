@@ -37,11 +37,11 @@ Further, the student will have the necessary understanding and know-how required
 In terms of smaller objectives, in addition to, or as part of the above, after the course:
 
 * The student understands the multiple ways in which computational approaches benefit work within the human sciences.&#x20;
-* She herself is able to use [ready tools](easy-tools-for-processing-and-exploring-data.md) to work with data.&#x20;
+* She herself is able to use [ready tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md) to work with data.&#x20;
 * In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose.&#x20;
-* She also learns how [open, reproducible research and publishing](open-reproducible-research-and-publishing.md) is done in practice.&#x20;
+* She also learns how [open, reproducible research and publishing](three-approaches-to-methods-for-digital-humanities-work-area/open-reproducible-research-and-publishing.md) is done in practice.&#x20;
 * The student also gains a basic understanding of the central [fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/), which both 1) act as a general framework with regard to which many statistical approaches encountered later can be positioned, and 2) act as a practical foundation from which to pursue further understanding.
-* Further, the student gains a general literacy on advanced [statistical and computer science methods](computational-data-analysis-method-literacy/) applicable to computational human sciences, and when to apply them (as well as crucially, when and how **not** to apply them).&#x20;
+* Further, the student gains a general literacy on advanced [statistical and computer science methods](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md) applicable to computational human sciences, and when to apply them (as well as crucially, when and how **not** to apply them).&#x20;
 * Finally, she learns to apply all of the above in practice in a [small concrete computational human sciences project](final-project.md).&#x20;
 
 ## Format
@@ -58,13 +58,13 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
    * Easy, ready-made tools for data acquisition, cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
-2. [Data](different-types-of-data-data-quality-available-open-datasets.md) :construction\_site:&#x20;
-3. [Easy tools for acquiring, processing and exploring data](easy-tools-for-processing-and-exploring-data.md) :construction\_site:&#x20;
+2. [Data](three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) :construction\_site:&#x20;
+3. [Easy tools for acquiring, processing and exploring data](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md) :construction\_site:&#x20;
 4. [Data processing: fundamental concepts of programming for humanists](data-processing-fundamental-concepts-of-programming-for-humanists.md)
 5. [Data processing: regular expressions](regular-expressions.md)
 6. [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/)
 7. [Computational data analysis method literacy](https://docs.google.com/presentation/d/e/2PACX-1vTEAtbzLYJXn2Pp8ozrSfxmzQOxo6SfVOXpscLbgCXkeXtqpzlwlU37dmQTWEAjIUAPedbT\_BG1x0Ll/pub?start=false\&loop=false\&delayms=3000) :construction\_site:&#x20;
-8. [Open, reproducible research and publishing](open-reproducible-research-and-publishing.md) :construction\_site:&#x20;
+8. [Open, reproducible research and publishing](three-approaches-to-methods-for-digital-humanities-work-area/open-reproducible-research-and-publishing.md) :construction\_site:&#x20;
 9. [Digital humanities project](final-project.md)
 
 ### **General note**
@@ -73,7 +73,7 @@ _"At times the course felt like being hit by a bus, the way we were forced to fi
 
 There's a lot to take in during the course, and much of it may be unfamiliar and at first confusing. A major principle of the course is that you should not try to wholly understand everything in the first instance. While an effort has been made to keep the language and concepts as simple as I could make them, as well as order them sensibly with regard to each other, often there was no way I could order everything neatly into a linear learning progression.&#x20;
 
-For example, to really understand [easy to use end-user tools](easy-tools-for-processing-and-exploring-data.md), one needs to know how they relate to the [possibilities of computational analyses in general](computational-data-analysis-method-literacy/), as well as [different types of data](different-types-of-data-data-quality-available-open-datasets.md) and different types of [preprocessing ](regular-expressions.md)of that data. Further, to properly contextualise them, one also needs to understand how their affordances differ from those available to users of [programmatic](data-processing-fundamental-concepts-of-programming-for-humanists.md) analysis libraries. However, ready to use tools are still presented before programming, data transformations and computational analyses, because I feel having tried them in practice provides a good springboard for understanding these more abstract and complex topics.
+For example, to really understand [easy to use end-user tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md), one needs to know how they relate to the [possibilities of computational analyses in general](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md), as well as [different types of data](three-approaches-to-methods-for-digital-humanities-work-area/different-types-of-data-data-quality-available-open-datasets.md) and different types of [preprocessing ](regular-expressions.md)of that data. Further, to properly contextualise them, one also needs to understand how their affordances differ from those available to users of [programmatic](data-processing-fundamental-concepts-of-programming-for-humanists.md) analysis libraries. However, ready to use tools are still presented before programming, data transformations and computational analyses, because I feel having tried them in practice provides a good springboard for understanding these more abstract and complex topics.
 
 Thus, when going through the course and doing the assignments, try not to be bothered by not understanding everything in the first go. Instead, it is enough at each point to just have even a vague general notion or gist of things, and trust that it will all make sense in the end, once you've gone through all the subtopics. &#x20;
 
