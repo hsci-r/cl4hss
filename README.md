@@ -1,6 +1,6 @@
 # Computational literacy for the humanities and social sciences
 
-By [Eetu Mäkelä](http://iki.fi/eetu.makela), associate professor in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi).
+By [Eetu Mäkelä](http://iki.fi/eetu.makela), associate professor in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
 This content is not yet complete, in the sense that some sections have not yet been converted from their original lecture slide format into self-contained texts for self-study. Each such section has a header similar to this at the top noting its draft status, as well as a :construction\_site: mark in the [table of contents below](./#course-contents).
@@ -21,28 +21,22 @@ The probability of either of these happening very much depends on what you are i
 
 ## Course concept and learning goals
 
-This course is an introductory course on **applying modern data processing to complex social and historical data**. As such, it doesn't target the wide world of all [different digital humanities and computational social sciences](http://j.mp/allthedh). Instead, it hems closely to [our local focus ](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/our-digital-humanities)in Helsinki, which itself aligns with the[ long tradition of humanities computing](introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md).&#x20;
+This course is an introductory course on **applying modern data processing to complex social and historical data**. As a signposting course, the course describes the landscape of computational human sciences. The main learning goals of the course are that after completing it, a student will be able to:&#x20;
 
-On the other hand, with regard to subfields of the humanities or social sciences, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
+1. make informed decisions on which computational approaches will be of use to themself, and
+2. understand, follow and discuss the development of computational approaches within their field in general&#x20;
 
-As a signposting course, the course describes the landscape of computational human sciences. It provides students with the knowledge they need to choose their own focus within it, also manifesting in the ability to choose where to go for [further knowledge](where-to-continue.md).
+They will also have the necessary background to avail of more specific courses and learning resources to further their understanding in these directions. With regard to subfields of the humanities or social sciences, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
 
-The main learning goals of the course are that after completing it, a student will be able to:&#x20;
-
-1. make informed decisions on which computational approaches will be of use to herself, and
-2. understand, follow and discuss the development of computational approaches within her field in general&#x20;
-
-Further, the student will have the necessary understanding and know-how required to maintain and deepen their understanding in both of these directions.
-
-In terms of smaller objectives, in addition to, or as part of the above, after the course:
+In terms of smaller objectives, as part of the above, after the course:
 
 * The student understands the multiple ways in which computational approaches benefit work within the human sciences.&#x20;
-* She herself is able to use [ready tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md) to work with data.&#x20;
-* In addition, she has attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which she can start to expand her capabilities, should she so choose.&#x20;
-* She also learns how [open, reproducible research and publishing](three-approaches-to-methods-for-digital-humanities-work-area/open-reproducible-research-and-publishing.md) is done in practice.&#x20;
+* They are able to use [ready tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md) to work with data.&#x20;
+* In addition, they have attained knowledge of the [fundamental concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md), through which they can start to expand their capabilities, should they so choose.&#x20;
 * The student also gains a basic understanding of the central [fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/), which both 1) act as a general framework with regard to which many statistical approaches encountered later can be positioned, and 2) act as a practical foundation from which to pursue further understanding.
 * Further, the student gains a general literacy on advanced [statistical and computer science methods](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md) applicable to computational human sciences, and when to apply them (as well as crucially, when and how **not** to apply them).&#x20;
-* Finally, she learns to apply all of the above in practice in a [small concrete computational human sciences project](final-project.md).&#x20;
+* They also learn how [open, reproducible research and publishing](three-approaches-to-methods-for-digital-humanities-work-area/open-reproducible-research-and-publishing.md) is done in practice.&#x20;
+* Finally, the student learns to apply all of the above in practice in a [small concrete computational human sciences project](final-project.md).&#x20;
 
 ## Format
 
@@ -79,7 +73,7 @@ Thus, when going through the course and doing the assignments, try not to be bot
 
 ## Practical matters
 
-* The course has a Slack workspace at [clit4hss.slack.com](https://clit4hss.slack.com) used for both returning some assignments as well as peer and teacher support. Please [join](https://join.slack.com/t/clit4hss/shared\_invite/enQtODE2OTc5ODk3ODMwLTMyMzEyZmMzNDgwM2Y3NDhhNTE2ZjAwMzU5YjY3NzI3YzVjYjQ2YThkYjFjOWRiZWJiZTYyZDc4ZDY0YTAwYjk) it.
+* The course has a Slack workspace at [clit4hss.slack.com](https://clit4hss.slack.com/) used for both returning some assignments as well as peer and teacher support. Please [join](https://join.slack.com/t/clit4hss/shared\_invite/enQtODE2OTc5ODk3ODMwLTMyMzEyZmMzNDgwM2Y3NDhhNTE2ZjAwMzU5YjY3NzI3YzVjYjQ2YThkYjFjOWRiZWJiZTYyZDc4ZDY0YTAwYjk) it.
 * For linking to quotes in their original context, the course uses [hypothes.is](http://hypothes.is). To be able to use this, you must [join](https://hypothes.is/groups/W6MAkGe8/clit4hss) the CL4HSS group (as well as register in general if you don't already have an account). You also naturally need access to the sources (most commonly through accessing them from a university network / VPN. For example for Helsinki, see [this guide](https://helpdesk.it.helsinki.fi/en/logging-and-connections/networks/connections-outside-university)).
 * If you use the material for self-study and it ends up being useful for you, I'd appreciate a note about this. Feel free to send that either through Slack, e-mail, Twitter or wherever you [find me](http://iki.fi/eetu.makela).
 
