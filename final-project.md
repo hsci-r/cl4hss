@@ -1,8 +1,8 @@
 # Final project
 
-To pass the course, you are required to demonstrate a grasp of actual computational work. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities or social sciences.**&#x20;
+To pass the course, you are required to demonstrate that you're able to take what you've learned, and use it to design and enact computational work in practice. Therefore, you are tasked with taking some dataset, and processing it in some way **to yield an analysis that tackles a question of interest in the humanities or social sciences.**&#x20;
 
-This assignment requires applying all the knowledge you have learned on the course to devise and test a process going from data to results. To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
+To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
 
 Potential datasets/APIs are for example (but instead of these please choose a dataset that is relevant to yourself):
 
@@ -20,27 +20,27 @@ Potential datasets/APIs are for example (but instead of these please choose a da
 
 Tools for processing and analysis are for example:
 
-* Preprocessing: [R](https://www.r-project.org), [Python](https://www.python.org), [pandas](http://pandas.pydata.org), [tm](https://cran.r-project.org/web/packages/tm/index.html), [OpenRefine](http://openrefine.org), [OpenCV](http://opencv.org), [TensorFlow™ Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image\_recognition/index.html), [tuneR](https://cran.r-project.org/web/packages/tuneR/index.html), [pyAudio Analysis](https://github.com/tyiannak/pyAudioAnalysis), ...
-* Topic modeling: [Mallet](http://mallet.cs.umass.edu), [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/index.html), [gensim](https://radimrehurek.com/gensim/), ...
+* Preprocessing: [R](https://www.r-project.org/), [Python](https://www.python.org/), [pandas](http://pandas.pydata.org/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [OpenRefine](http://openrefine.org/), [OpenCV](http://opencv.org/), [TensorFlow™ Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image\_recognition/index.html), [tuneR](https://cran.r-project.org/web/packages/tuneR/index.html), [pyAudio Analysis](https://github.com/tyiannak/pyAudioAnalysis), ...
+* Topic modeling: [Mallet](http://mallet.cs.umass.edu/), [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/index.html), [gensim](https://radimrehurek.com/gensim/), ...
 * Dimensionality reduction/clustering: [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html), [lsa](https://cran.r-project.org/web/packages/lsa/index.html), [BayesLCA](https://cran.r-project.org/web/packages/BayesLCA/index.html), [pvclust](https://cran.r-project.org/web/packages/pvclust/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), ...
-* Social network analysis: [igraph](http://igraph.org), [sna](https://cran.r-project.org/web/packages/sna/index.html), [statnet](https://cran.r-project.org/web/packages/statnet/index.html), [sonia](http://web.stanford.edu/group/sonia/index.html), …
+* Social network analysis: [igraph](http://igraph.org/), [sna](https://cran.r-project.org/web/packages/sna/index.html), [statnet](https://cran.r-project.org/web/packages/statnet/index.html), [sonia](http://web.stanford.edu/group/sonia/index.html), …
 * Simulation: [NetLogo](https://ccl.northwestern.edu/netlogo/), ...
-* Neural networks: [som](https://cran.r-project.org/web/packages/som/index.html), [TensorFlow™](http://www.tensorflow.org), ...
+* Neural networks: [som](https://cran.r-project.org/web/packages/som/index.html), [TensorFlow™](http://www.tensorflow.org/), ...
 * Association rule learning: [arules](https://cran.r-project.org/web/packages/arules/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/),
 * Anomaly detection: [AnomalyDetection](https://github.com/twitter/AnomalyDetection), ...
-* Visualisation: [Palladio](http://palladio.designhumanities.org), [nodegoat](http://nodegoat.net), [matplotlib](http://matplotlib.org), [seaborn](https://seaborn.pydata.org/index.html), [ggplot2](http://ggplot2.org), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly), ...
+* Visualisation: [Palladio](http://palladio.designhumanities.org/), [nodegoat](http://nodegoat.net/), [matplotlib](http://matplotlib.org/), [seaborn](https://seaborn.pydata.org/index.html), [ggplot2](http://ggplot2.org/), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly/), ...
 
-To return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com) repository, link that repository with [Zenodo](https://zenodo.org) and give us the Zenodo [DOI](https://www.doi.org) for your work. Include in your repository a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what you've done, **following as best as possible the guidelines for open, reproducible research**. Make sure the document answers the following questions:
+In your work, you are expected to **follow as best as possible the guidelines for open, reproducible research**. Thus, include with your project a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what you've done. Make sure the document answers the following questions:
 
 1. What are your humanities/social science research questions?
 2. Which data did you use?
 3. What did you do to the data, and how can I reproduce it?
 4. What does the analysis show, how does it answer the humanities/social science research question?
-5. Critically analyze your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
+5. Critically analyse your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
 **Further info:** as said, the most important learning goal for this assignment is to learn how to navigate between the shoals of data, methods and questions in designing a computational human science research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are (and that is what question 5 is for). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline (e.g. the data cleaning part). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those (i.e. a plan for future research).
 
-To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://forms.gle/mAzroPpS89Hw2BQS8)! (University of Helsinki students should use the [official version](https://coursefeedback.helsinki.fi/targets/3652073))
+To return the assignment following open science best practices, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://forms.gle/mAzroPpS89Hw2BQS8)! (University of Helsinki students should use the [official version](https://coursefeedback.helsinki.fi/targets/3652073))
 
 ### Evaluation criteria
 
@@ -49,7 +49,7 @@ To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your
 * You need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop. (+1 grade)
 * To get a 4 or a 5, both your analysis as well as documentation need to be robust, logical and understandable. This includes:
   1. A clear, logical description of your whole research process that will enable it to be critiqued and reproduced in full - what did you do at each point to the data, and why? Also be sure to include an analysis of points of possible biases and problems in your data and pipeline (+1 grade)
-  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities/social science research questions. If possible, contextualize your analysis with regard to other disciplinary knowledge (+1 grade)
+  2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities/social science research questions. If possible, contextualise your analysis with regard to other disciplinary knowledge (+1 grade)
 
 Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities/social science scholarship.
 
