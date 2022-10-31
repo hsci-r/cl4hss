@@ -32,7 +32,7 @@ At the same time, the texts in the first volume of the Computers and the Humanit
 >
 > — The ACLS program for computer studies in the humanities: Notes on computers and the humanities, Computers and the Humanities, September 1966, Volume 1, Issue 1, pages 1–2 ([in context](https://hyp.is/j\_AkDtjuEeiTIpf6gZVJLw/link.springer.com/content/pdf/10.1007/BF00188012.pdf))
 
-Now, over 50 years later, the situation and expectations are seemingly exactly the same with regard to digital humanities. So, what went wrong? Why didn't the promised revolution come? Why would this time be any different?
+Now, over 50 years later, the situation and expectations are seemingly exactly the same with regard to digital humanities, as well as partially with regard to computational social science. So, what went wrong? Why didn't the promised revolution come? Why would this time be any different?
 
 {% hint style="info" %}
 #### **Assignment**
