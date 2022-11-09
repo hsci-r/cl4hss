@@ -7,11 +7,11 @@ This content is not yet complete. In the meantime, see this presentation: [Easy 
 ## Acquiring data
 
 * [Introduction to web scraping](https://librarycarpentry.org/lc-webscraping/) (quite advanced, but contains a section on a user interface tool as well)
-* Hand-written text transcription: [Transkribus](https://transkribus.eu)
+* Hand-written text transcription: [Transkribus](https://transkribus.eu/)
 * Layout and text transcription: [OCR4all](https://github.com/OCR4all/getting\_started)
-* Keyword generation from text: [Annif](http://annif.org)
+* Keyword generation from text: [Annif](http://annif.org/)
 * An [automated sound transcription tool](https://www.google.com/search?q=automated+sound+transcription)
-* Twitter archiving: [TAGS](https://tags.hawksey.info)
+* Twitter archiving: [TAGS](https://tags.hawksey.info/)
 
 ## Data processing
 
@@ -52,17 +52,17 @@ Read [Perception deception](https://infoactive.co/data-design/ch17.html) & [Comm
 
 Experiment with at least one of the following tools:
 
-* tabular data → chart visualisations: [RAW](http://rawgraphs.io)​
+* tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
 * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-* tabular data → chart visualisations: ​[Tableau](https://www.tableau.com)​
+* tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
 * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
   * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-* tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com)​
-* ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org)​
-* ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu)​
+* tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com/)​
+* ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+* ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
 * If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
 
-If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio.
+If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit) hands-on tutorial covering OpenRefine, RAW and Palladio.
 
 Afterwards, post a message on [#tools](https://slack.com/app\_redirect?channel=tools\&team=T276JCMEU) on Slack detailing:
 

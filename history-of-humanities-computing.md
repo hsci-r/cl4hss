@@ -1,7 +1,7 @@
 # History of humanities computing
 
 {% hint style="info" %}
-Context note: this is a self-contained part of the [computational literacy for humanities and social sciences course](../). You can read this to gain an understanding of the historic development of humanities computing. However, if you want to understand how it relates to modern computational human sciences, you are suggested to start from the [three approaches to computational methods](./).
+Context note: this is a self-contained part of the [computational literacy for humanities and social sciences course](./). You can read this to gain an understanding of the historic development of humanities computing. However, if you want to understand how it relates to modern computational human sciences, you are suggested to start from the [three approaches to computational methods](introduction-three-approaches-to-methods-for-digital-humanists.md).
 {% endhint %}
 
 ## History of humanities computing

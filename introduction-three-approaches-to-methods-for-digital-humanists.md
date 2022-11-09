@@ -4,12 +4,12 @@ On this course, the following three approaches to computational human sciences w
 
 ## Three approaches to computational human sciences - what to learn if you're a humanist or a social scientist?
 
-1. [Knowledge of easy to use end-user data processing and visualisation tools](../three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
+1. [Knowledge of easy to use end-user data processing and visualisation tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
    * Easy to use for their intended purpose, but limited
-2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
+2. [Knowledge of the fundamentals concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
+3. [A basic understanding of the fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
@@ -40,11 +40,11 @@ Now, given the above definition, what does it mean in practice? What is the best
 
 In our opinion, computational studies in the humanities and social sciences (henceforth referred to by the shorthand computational human sciences) are currently best done in interdisciplinary collaboration. The reason for this is that contrary to more established statistical social science or clinical research, there are no generally applicable codebooks or protocols on how to reliably conduct even the most common types of computational research in the humanities and interpretative social sciences in a trustworthy manner. The underlying cause of this is the complexity of all of 1) phenomena, 2) datasets as well as 3) questions of interest. Because these complexities are also often specific to individual datasets and questions, each application of computation must spend significant time and understanding mapping them to the equally complex requirements, considerations and limitations of modern computational and statistical algorithms.
 
-Due to this complexity, at present, it is very difficult for a human sciences scholar alone to apply the complex methods in a trustworthy manner (for cases in point, see the many applications of [topic modelling](../digging-into-a-method-topic-modeling.md) to human science questions which do not understand the method and its limitations enough to be comfortable in actually drawing strong results from the output). At the same time, this complexity means that neither can computer scientists, statisticians or physicists solve the humanities questions alone, even if they understand the algorithms (for cases in point, see e.g [The Parable of Google Flu: Traps in Big Data Analysis](https://doi.org/10.1126/science.1248506), [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034) or [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)).
+Due to this complexity, at present, it is very difficult for a human sciences scholar alone to apply the complex methods in a trustworthy manner (for cases in point, see the many applications of [topic modelling](digging-into-a-method-topic-modeling.md) to human science questions which do not understand the method and its limitations enough to be comfortable in actually drawing strong results from the output). At the same time, this complexity means that neither can computer scientists, statisticians or physicists solve the humanities questions alone, even if they understand the algorithms (for cases in point, see e.g [The Parable of Google Flu: Traps in Big Data Analysis](https://doi.org/10.1126/science.1248506), [A Biased Review of Biases in Twitter Studies on Political Collective Action](https://doi.org/10.3389/fphy.2016.00034) or [The Use and Abuse of the Digital Humanities in the History of Ideas: How to Study the Encyclopédie](http://www.tandfonline.com/doi/pdf/10.1080/01916599.2013.774115?needAccess=true)).
 
 What is needed then is true interdisciplinary collaboration where statisticians, computer scientists and scholars in the human sciences all work together to develop, test and apply the methodology to solve complex human questions.
 
-![Interdisciplinary computational human sciences and the niche for humanists/social scientists](../.gitbook/assets/dh.svg)
+![Interdisciplinary computational human sciences and the niche for humanists/social scientists](.gitbook/assets/dh.svg)
 
 > "Deep and significant progress in social science, in other words, will require not only new data and methods but also new institutions that are designed from the ground up to foster **long-term, large-scale, multidisciplinary, multimethod, problem-oriented social science research**. To succeed, such an institution will require substantial investment, on a par with existing institutes for mind, brain, and behavior, genomics, or cancer, as well as the active cooperation of industry and government partners." (highlights added)
 >
@@ -52,11 +52,11 @@ What is needed then is true interdisciplinary collaboration where statisticians,
 
 At its best, such collaboration also has something unique to offer each of these groups _inside_ their own field of study: scholars in the human sciences are able to tackle questions too labour-intensive for manual study, computer scientists encounter new and challenging use cases for their tools and algorithms, and even the institutions providing the data gain valuable insight into, and feedback on their collections and the way they present them.
 
-![Benefits for different actors in a computational humanities collaboration](../.gitbook/assets/dhc.svg)
+![Benefits for different actors in a computational humanities collaboration](.gitbook/assets/dhc.svg)
 
 > "At Humanities + Design our mission is to **produce**, through the lens of humanistic inquiry, **new modes of thinking in design and computer science** to **serve data-driven research in the humanities**. We believe that humanistic inquiry, grounded in interpretation, has much to contribute to the development of technologies if they are to help us reveal ambiguity and paradox, allowing human-scale exploration of complex systems." (highlights added)
 >
-> — Mission statement of the [Humanities + Design research laboratory](http://hdlab.stanford.edu) at Stanford ([in context](https://hyp.is/Rcp0YuGdEeiZ2N\_X5uBWGQ/hdlab.stanford.edu/))
+> — Mission statement of the [Humanities + Design research laboratory](http://hdlab.stanford.edu/) at Stanford ([in context](https://hyp.is/Rcp0YuGdEeiZ2N\_X5uBWGQ/hdlab.stanford.edu/))
 
 ## What should be taught to human sciences students about computational human sciences, and how?
 
@@ -84,12 +84,12 @@ Like those present at Vassar in 1986 (_"Admittedly, most panelists and participa
 
 ## Three approaches to computational human sciences - what to learn if you're a humanist or a social scientist?
 
-1. [Knowledge of easy to use end-user data processing and visualisation tools](../three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
+1. [Knowledge of easy to use end-user data processing and visualisation tools](three-approaches-to-methods-for-digital-humanities-work-area/easy-tools-for-processing-and-exploring-data.md)
    * Easy to use for their intended purpose, but limited
-2. [Knowledge of the fundamentals concepts of programming](../data-processing-fundamental-concepts-of-programming-for-humanists.md)
+2. [Knowledge of the fundamentals concepts of programming](data-processing-fundamental-concepts-of-programming-for-humanists.md)
    * Frees you to process your data more efficiently
    * Allows you to more freely apply visualisations etc based on ready libraries and tutorials on the Internet
-3. [A basic understanding of the fundamental concepts of statistics](../data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](../three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
+3. [A basic understanding of the fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics/), as well as [a high-level understanding of what types of things can be accomplished with advanced statistical and CS methods](three-approaches-to-methods-for-digital-humanities-work-area/computational-data-analysis-method-literacy.md)
    * To understand what is possible
    * To be able to read research in computational humanities
    * To be able to communicate in collaborative projects
@@ -109,6 +109,6 @@ Similarly, instead of focusing on particular workflows for particular types of d
 ## Assignments
 
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
-* Look over the [final projects from previous participants](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [#introductions](https://slack.com/app\_redirect?channel=introductions\&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com) to introduce yourself and to describe why you chose those that project.
+* Look over the [final projects from previous participants](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [#introductions](https://slack.com/app\_redirect?channel=introductions\&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
 * Dig deeper (optional): to better understand the context of this course, read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
 

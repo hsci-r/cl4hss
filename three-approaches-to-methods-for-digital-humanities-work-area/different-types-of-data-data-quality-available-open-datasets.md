@@ -24,7 +24,7 @@ This is also the way in which many of your analysis processes will proceed. You 
 
 ## Modes of engagement with data
 
-Next, again for the purposes of this course, it is useful to delineate and contrast some archetypal modes of engaging with data (all examples being different ways of interacting with the [Finnish national library collection of digitised newspapers](https://digi.kansalliskirjasto.fi)):
+Next, again for the purposes of this course, it is useful to delineate and contrast some archetypal modes of engaging with data (all examples being different ways of interacting with the [Finnish national library collection of digitised newspapers](https://digi.kansalliskirjasto.fi/)):
 
 * [Non-digital / digital without any functionality](https://digi.kansalliskirjasto.fi/sanomalehti/titles/0785-398X?display=THUMB\&year=1929\&set\_language=en) - both finding relevant sources as well as their analysis happens through manual work and reading
 * [Search interfaces](https://digi.kansalliskirjasto.fi/search?query=Einstein\&orderBy=RELEVANCE\&set\_language=en) - aid in finding, but analysis and understanding happens through reading

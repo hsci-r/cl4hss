@@ -34,6 +34,6 @@ Read [this research article](https://doi.org/10.1073/pnas.1405984111) on the the
   * [Visualizing K-means clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) ([2](http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html))
   * Read on some small, actual work:
     * The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
-    * The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/) of the DHH15 Finnair Blue Wings multimodality group
+    * The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/?utm\_campaign=share\&utm\_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
     * If you understand Finnish, the [election questionnaire analysis and visualization](https://jiemakel.github.io/vaalikonedatavisu/)
 

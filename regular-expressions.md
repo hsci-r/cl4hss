@@ -40,7 +40,7 @@ In practice, crafting regular expressions is an iterative process, where you exp
 {% hint style="info" %}
 **Assignment**
 
-1. Go through [this regex tutorial](https://regexone.com)
+1. Go through [this regex tutorial](https://regexone.com/)
 2.  Create regexes to extract first names, last names, years, birth places etc from the bank matricle. To start with, here are some different attempts for matching the last names:
 
     * [^\[^ \]+](https://regex101.com/r/LHc1xP/1) (everything before a space at the start of the line)
@@ -64,7 +64,7 @@ One of the problems with regular expressions is that when you develop them itera
 
 ### Resources
 
-* [Regular expressions 101](https://regex101.com), an environment for experimenting with regular expressions
+* [Regular expressions 101](https://regex101.com/), an environment for experimenting with regular expressions
 * [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html) reference
 
 ![Regular Expressions. Source: https://xkcd.com/208/, CC BY-NC 2.5 license.](<.gitbook/assets/image (4).png>)

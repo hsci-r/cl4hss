@@ -23,7 +23,7 @@ Assignment
 
 
 
-Consider [this statement](http://www.natcorp.ox.ac.uk/corpus/index.xml) on the [British National Corpus](http://www.natcorp.ox.ac.uk): “The British National Corpus (BNC) is a 100 million word collection of _**samples**_ of written and spoken language from a wide range of sources, _**designed to represent**_ a wide cross-section of British English, both spoken and written, from the late twentieth century.” (emphases added).&#x20;
+Consider [this statement](http://www.natcorp.ox.ac.uk/corpus/index.xml) on the [British National Corpus](http://www.natcorp.ox.ac.uk/): “The British National Corpus (BNC) is a 100 million word collection of _**samples**_ of written and spoken language from a wide range of sources, _**designed to represent**_ a wide cross-section of British English, both spoken and written, from the late twentieth century.” (emphases added).&#x20;
 
 
 

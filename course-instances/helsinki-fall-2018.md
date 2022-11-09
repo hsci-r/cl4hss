@@ -2,7 +2,7 @@
 
 ## Timetable for fall 2018
 
-### Wednesday 31.10. — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists/)
+### Wednesday 31.10. — [Introduction](../introduction-three-approaches-to-methods-for-digital-humanists.md)
 
 {% tabs %}
 {% tab title="Assignments given" %}
@@ -10,7 +10,7 @@ For 2.11.:&#x20;
 
 1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 2. Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [#introductions](https://slack.com/app\_redirect?channel=introductions\&team=T276JCMEU) channel on the course Slack to introduce yourself and to describe why you chose those that project.
-3. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
+3. Read up on [the history of humanities computing](../history-of-humanities-computing.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
 {% endtab %}
 {% endtabs %}
 
@@ -22,7 +22,7 @@ For 2.11.:&#x20;
 {% tab title="Assignments due" %}
 1. Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
 2. Look over the [final projects from last year](../final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [#introductions](https://slack.com/app\_redirect?channel=introductions\&team=T276JCMEU) channel on the course Slack to introduce yourself and to describe why you chose those that project.
-3. Read up on [the history of humanities computing](../introduction-three-approaches-to-methods-for-digital-humanists/history-of-humanities-computing.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
+3. Read up on [the history of humanities computing](../history-of-humanities-computing.md#history-of-humanities-computing). Be ready to discuss in groups on the next lecture.
 {% endtab %}
 
 {% tab title="Assignments given" %}
@@ -49,17 +49,17 @@ Two full weeks to do these, need to be done only by 21.11.:
 1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
 2.  Visualisation: Experiment with at least one of the following tools:
 
-    * tabular data → chart visualisations: [RAW](http://rawgraphs.io)​
+    * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
     * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-    * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com)​
+    * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
     * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
       * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-    * tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com)​
-    * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org)​
-    * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu)​
+    * tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com/)​
+    * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+    * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
     * If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio.
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit) hands-on tutorial covering OpenRefine, RAW and Palladio.
 
     Afterwards, post a message on [#tools](https://slack.com/app\_redirect?channel=tools\&team=T276JCMEU) on Slack detailing:
 
@@ -90,17 +90,17 @@ Two full weeks to do these, need to be done only by 21.11.:
 1. Data cleanup: complete the [OpenRefine tutorial](https://programminghistorian.org/lessons/cleaning-data-with-openrefine).
 2.  Visualisation: Experiment with at least one of the following tools:
 
-    * tabular data → chart visualisations: [RAW](http://rawgraphs.io)​
+    * tabular data → chart visualisations: [RAW](http://rawgraphs.io/)​
     * tabular data → chart visualisations: [Voyager](http://vega.github.io/voyager/)
-    * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com)​
+    * tabular data → chart visualisations: ​[Tableau](https://www.tableau.com/)​
     * tabular data → ​interactive map/network/timeline/list/facet visualisations: [Palladio](https://moodle.helsinki.fi/hdlab.stanford.edu/palladio/)​
       * Palladio has [help pages](http://hdlab.stanford.edu/palladio/help/). There are also multiple tutorials on using Palladio, for example [this one](http://miriamposner.com/blog/getting-started-with-palladio/), or [this one](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) which is particularly on network analysis.
-    * tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com)​
-    * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org)​
-    * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu)​
+    * tabular data → map(+timeline) visualisations: ​[Carto](https://carto.com/)​
+    * ​text →​ interactive explorative interface for linguistic study: [Voyant tools](https://voyant-tools.org/)​
+    * ​big, preselected collections of text → interface for linguistic study: [Korp](https://moodle.helsinki.fi/korp.csc.fi) / [corpus.byu.edu](http://corpus.byu.edu/)​
     * If you're feeling explorative, feel free to also dig for more tools in  [TAPoR](http://tapor.ca/home).
 
-    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit#) hands-on tutorial covering OpenRefine, RAW and Palladio.
+    If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit) hands-on tutorial covering OpenRefine, RAW and Palladio.
 
     Afterwards, post a message on [#tools](https://slack.com/app\_redirect?channel=tools\&team=T276JCMEU) on Slack detailing:
 
@@ -147,7 +147,7 @@ Form a group with all the other people who selected the same articles. For class
 2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
 3. Read on some small, actual work:
    1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
-   2. The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/) of the DHH15 Finnair Blue Wings multimodality group
+   2. The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/?utm\_campaign=share\&utm\_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
    3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
 4. For 5.12., explore [this topic model](http://aulis.sange.fi/\~humis/tmp/ceecvis/) of [CEEC](https://www.helsinki.fi/en/researchgroups/varieng/corpus-of-early-english-correspondence) and read the [explanation](../digging-into-a-method-topic-modeling.md) on topic modelling
 {% endtab %}
@@ -161,7 +161,7 @@ Form a group with all the other people who selected the same articles. For class
 2. Check out the [Explained Visually](http://setosa.io/ev/) site, and especially [PCA explained visually](http://setosa.io/ev/principal-component-analysis/)
 3. Read on some small, actual work:
    1. The [presentation](https://docs.google.com/presentation/d/1eTj9Vu4WoatnutrjtzpfBk6EwgRwC9YlCAzW7GvoaeA/edit) of the DHH15 key concepts of socialism group
-   2. The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/) of the DHH15 Finnair Blue Wings multimodality group
+   2. The [presentation](https://prezi.com/g-0b\_r604myv/dhh15-multimodality/?utm\_campaign=share\&utm\_medium=copy) of the DHH15 Finnair Blue Wings multimodality group
    3. If you understand Finnish, the [election questionnaire analysis and visualisation](https://jiemakel.github.io/vaalikonedatavisu/)
 
 Select (at least) one of the following sets of paired articles based on your own interests:&#x20;

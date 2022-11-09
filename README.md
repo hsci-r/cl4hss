@@ -26,7 +26,7 @@ This course is an introductory course on **applying modern data processing to co
 1. make informed decisions on which computational approaches will be of use to themself, and
 2. understand, follow and discuss the development of computational approaches within their field in general&#x20;
 
-They will also have the necessary background to avail of more specific courses and learning resources to further their understanding in these directions. With regard to subfields of the humanities or social sciences, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists/).
+They will also have the necessary background to avail of more specific courses and learning resources to further their understanding in these directions. With regard to subfields of the humanities or social sciences, the course makes no delineations, on the contrary arguing that by taking examples from different fields, a deeper understanding of the possibilities afforded by computation can be attained. For more details, see the [introduction](introduction-three-approaches-to-methods-for-digital-humanists.md).
 
 In terms of smaller objectives, as part of the above, after the course:
 
@@ -48,7 +48,7 @@ Workload-wise, the full course is rated at 5 ECTS, which officially translates t
 
 ( :construction\_site: marks parts of the course not yet fully converted out of lecture slide format)
 
-1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists/)
+1. [Introduction: three approaches to methods for digital humanists](introduction-three-approaches-to-methods-for-digital-humanists.md)
    * Easy, ready-made tools for data acquisition, cleanup, visualisation and exploration
    * Fundamentals of programming for data processing
    * Data analysis method literacy
