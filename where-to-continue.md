@@ -2,6 +2,9 @@
 
 Here I'll gather some relevant links to further resources. I think these are good, but they're also somewhat of a random selection.
 
+* Term glossaries:
+  * [Data science](https://www.datacamp.com/blog/data-science-glossary)
+  * [Statistics](https://www.stat.berkeley.edu/\~stark/SticiGui/Text/gloss.htm)
 * General course lists:
   * [Elective theory and practice courses available as part of the Helsinki DH module](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/teaching#section-44332)
   * [Elective method courses as part of the Helsinki DH module](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/teaching#section-44333)
