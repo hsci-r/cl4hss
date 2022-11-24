@@ -3,7 +3,7 @@
 This page organises actual instances of the course
 
 * University of Helsinki
-  * [fall 2022](helsinki-fall-2022.md)
+  * [fall 2022](https://moodle.helsinki.fi/course/view.php?id=54135)
   * [fall 2021](helsinki-fall-2021.md)
   * [fall 2020](helsinki-fall-2020.md)
   * [fall 2019](helsinki-fall-2019.md)
