@@ -32,10 +32,10 @@ Tools for processing and analysis are for example:
 
 In your work, you are expected to **follow as best as possible the guidelines for open, reproducible research**. Thus, include with your project a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what you've done. Make sure the document answers the following questions:
 
-1. What are your humanities/social science research questions?
+1. What are your humanities/social science research questions? How do they relate to possible prior and related work?
 2. Which data did you use?
 3. What did you do to the data, and how can I reproduce it?
-4. What does the analysis show, how does it answer the humanities/social science research question?
+4. What does the analysis show, how does it answer the humanities/social science research question? How do the results relate to possible prior and related work?
 5. Critically analyse your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
 
 **Further info:** as said, the most important learning goal for this assignment is to learn how to navigate between the shoals of data, methods and questions in designing a computational human science research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are (and that is what question 5 is for). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline (e.g. the data cleaning part). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those (i.e. a plan for future research).
@@ -52,6 +52,8 @@ To return the assignment following open science best practices, you will need to
   2. Importantly, a reasoned and thorough discussion of the results from your analysis from the viewpoint of the humanities/social science research questions. If possible, contextualise your analysis with regard to other disciplinary knowledge (+1 grade)
 
 Here it should be noted that checking all the marks will be much easier with a pipeline that yields an analytical result at the end. It will be possible to attain these also with partial pipelines, but without an analytical result, you need to employ indirection and projection to relate your reliability analysis to how its results would affect substantive analysis. Alternatively or in addition, you might need to do a manual substantive analysis of a subset to be able to discuss implications from the viewpoint of humanities/social science scholarship.
+
+As a special consideration, while naturally hoping that your pipeline succeeds, sometimes in the end you find out that the approach you picked just can't be made to work. In this case, what I'm looking for is a "robust report of failure", meaning that you can document that you've spent a reasonable amount of effort in trying different options and ways to get the pipeline to work. In addition, you must be able to explain in detail exactly how the results are insufficient and/or problematic in being useful for answering your initial research questions.
 
 **Importantly, you are free to submit your final assignment as many times as you want, until you obtain the grade that you desire.**&#x20;
 
