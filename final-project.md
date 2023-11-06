@@ -61,14 +61,17 @@ As a special consideration, while naturally hoping that your pipeline succeeds, 
 
 To further aid you in your work, here are some previous submissions for inspiration (for most of them, you should actually click the GitHub link on the right to start to make sense of them):
 
+* Errors in machine translating Finnish surnames - DOI: [10.5281/zenodo.7469559](https://doi.org/10.5281/zenodo.7469559)
 * Themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
+* Differences and similarities in the depiction of ghosts in two Chinese novels from different eras - DOI: [10.5281/zenodo.7467017](https://doi.org/10.5281/zenodo.7467017)
 * Extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)
 * Analysis of a survey on user involvement in software development - DOI: [10.5281/zenodo.237727](https://doi.org/10.5281/zenodo.237727)
 * Comparing Language Complexity in Fact-Checked Fake and Real News - DOI:[ 10.5281/zenodo.4327219](https://doi.org/10.5281/zenodo.4327219)
 * Polite vs casual address form use by Finnish language learners in different situations - DOI: [10.5281/zenodo.218844](https://doi.org/10.5281/zenodo.218844)
 * Discovering patterns in chalcolithic and early bronze age burials in northeast England- DOI: [10.5281/zenodo.215932](https://doi.org/10.5281/zenodo.215932)
 * Finnish politicians in pictures - biases in the contents of the Finna portal - DOI:[ 10.5281/zenodo.4313215](https://doi.org/10.5281/zenodo.4313215)
-* Analysing the poets and themes selected for the book "Three Hundred Tang Poems" DOI: [10.5281/zenodo.5796611](https://doi.org/10.5281/zenodo.5796611)
+* Analysing the poets and themes selected for the book "Three Hundred Tang Poems" - DOI: [10.5281/zenodo.5796611](https://doi.org/10.5281/zenodo.5796611)
+* Analysing the composition of the collection of the Metropolitan Art museum - DOI: [10.5281/zenodo.8076250](https://doi.org/10.5281/zenodo.8076250)
 * Themes discussed in Helsingin Sanomat in 1905 - DOI: [10.5281/zenodo.44572](http://doi.org/10.5281/zenodo.44572)
 * Topics covered in Finnish proverbs from the 1930s - DOI: [10.5281/zenodo.6365445](https://doi.org/10.5281/zenodo.6365445)
 * Differences in use between the words _maahanmuuttaja_ and _pakolainen_ in Finnish newspapers 1970- to present - DOI: [10.5281/zenodo.44544](http://doi.org/10.5281/zenodo.44544)
