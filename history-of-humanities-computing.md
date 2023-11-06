@@ -51,7 +51,7 @@ After reading the given articles, do your own searches and dig up the history of
 
 After going through your sources, reflect on the general questions above about the development or non-development of humanities computing, 1) in general and 2) from the perspective of your own field.
 
-To report on your work write a couple of short paragraphs of text on your first impressions. Post the result on the [#dhhistory](https://slack.com/app\_redirect?channel=dhhistory\&team=T276JCMEU) channel. Also include links to any additional sources you dug up.
+To report on your work write a couple of short paragraphs of text on your first impressions. Post the result on the Slack. Also include links to any additional sources you dug up.
 {% endhint %}
 
 My own take is that on the one hand, there really is nothing new under the sun, apart from continuous incremental improvement. All through history, methodologists have developed better analytical, mathematical, statistical and computational methods for exposing and validating phenomena in data, while others have sought to apply them to whatever material and questions they have had. Which is all as it should be.
