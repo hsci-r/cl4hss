@@ -1,6 +1,6 @@
 # Computational literacy for the humanities and social sciences
 
-By [Eetu Mäkelä](http://iki.fi/eetu.makela), associate professor in [Human Sciences–Computing Interaction](http://heldig.fi/hsci) at the [University of Helsinki](https://www.helsinki.fi/).
+By [Eetu Mäkelä](http://iki.fi/eetu.makela), professor in Digital Humanities ([Human Sciences–Computing Interaction](http://heldig.fi/hsci)) at the [University of Helsinki](https://www.helsinki.fi/).
 
 {% hint style="warning" %}
 This content is not yet complete, in the sense that some sections have not yet been converted from their original lecture slide format into self-contained texts for self-study. Each such section has a header similar to this at the top noting its draft status, as well as a :construction\_site: mark in the [table of contents below](./#course-contents).
