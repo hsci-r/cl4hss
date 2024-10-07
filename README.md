@@ -40,7 +40,7 @@ In terms of smaller objectives, as part of the above, after the course:
 
 ## Format
 
-This course is meant for both independent self-study (reading up on only certain sections of the course), as well as for completing as either a contact learning or MOOC course with a group of like-minded students. For material relating to particular instances of this latter mode of study, see [here](course-instances/).
+This course is meant for both independent self-study (reading up on only certain sections of the course), as well as for completing as either a contact learning or MOOC course with a group of like-minded students. For material relating to particular instances of this latter mode of study, see [here](https://studies.helsinki.fi/courses/course-unit/otm-7a0d4651-9800-474d-9c32-668f753bd638).
 
 Workload-wise, the full course is rated at 5 ECTS, which officially translates to \~135 hours of study. However, ECTS workload ratings have always diverged both from reality, as well as student expectations. In practice, I expect the load to be some 60-70 hours, or about ½ to ⅔ of the official norm. Generally, courses at this workload-level seem to be evaluated by students as "moderate to heavyish" in workload (because sometimes you can get 5 ECTS even for something like 25h or ⅕ of the official norm, for example from just sitting in lectures 14 x 1½ hours, and then doing a couple of hours of work on top of that!)
 
@@ -85,4 +85,8 @@ If you do make use of this material, I'd naturally also appreciate a ping, as we
 
 For access to the source code of this GitBook, please see [this](https://github.com/jiemakel/METH4DH) GitHub repository.
 
-![](<.gitbook/assets/image (2).png>)
+<div align="left">
+
+<img src=".gitbook/assets/image (2).png" alt="">
+
+</div>
