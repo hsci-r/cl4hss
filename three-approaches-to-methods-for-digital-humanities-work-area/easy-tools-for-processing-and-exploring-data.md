@@ -64,7 +64,7 @@ Experiment with at least one of the following tools:
 
 If you're short on inspiration, feel free to go through [this](https://docs.google.com/document/d/13I7svLlqrg7i0iisw2E\_v48Gae5tnXVFWxmeHyGAKFU/edit) hands-on tutorial covering OpenRefine, RAW and Palladio.
 
-Afterwards, post a message on [#tools](https://slack.com/app\_redirect?channel=tools\&team=T276JCMEU) on Slack detailing:
+Afterwards, post a message on Slack detailing:
 
 1. What is the tool good for?
 2. What kind of data do you need for the tool to be useful?&#x20;
@@ -85,7 +85,7 @@ Read the following two research articles on developing visualisation tools for p
 * [Visualizing Mouvance: Toward a visual analysis of variant medieval text traditions](https://doi.org/10.1093/llc/fqx033)
 * [Rule‐based Visual Mappings – with a Case Study on Poetry Visualization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12125)
 
-Now, think of a visualisation that would help you in your field. What information would it visualise? Post a message on [#tools](https://slack.com/app\_redirect?channel=tools\&team=T276JCMEU) on Slack&#x20;
+Now, think of a visualisation that would help you in your field. What information would it visualise? Post a message on Slack&#x20;
 {% endhint %}
 
 ## Resources

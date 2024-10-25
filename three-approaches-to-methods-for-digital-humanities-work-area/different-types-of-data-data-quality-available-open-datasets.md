@@ -55,7 +55,7 @@ This section not yet written. In the meantime, please see [this presentation](ht
 {% hint style="info" %}
 **Assignment**
 
-1. Find a dataset that could be of interest to you in your final project. Post a message on [#datasets](https://slack.com/app\_redirect?channel=datasets\&team=T276JCMEU) on Slack giving:
+1. Find a dataset that could be of interest to you in your final project. Post a message on Slack giving:
    1. A link to the dataset
    2. A note on why you selected it
    3. A short description of what types of information the dataset contains, and&#x20;

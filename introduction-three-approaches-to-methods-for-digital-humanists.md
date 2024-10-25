@@ -109,6 +109,6 @@ Similarly, instead of focusing on particular workflows for particular types of d
 ## Assignments
 
 * Answer the course background [questionnaire](https://goo.gl/forms/gQpLPyOVV4ZvtL1x1)
-* Look over the [final projects from previous participants](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the [#introductions](https://slack.com/app\_redirect?channel=introductions\&team=T276JCMEU) channel on the course [Slack](http://meth4dh.slack.com/) to introduce yourself and to describe why you chose those that project.
+* Look over the [final projects from previous participants](final-project.md#submissions-from-previous-years). Select the project that interests you the most. Post a short message on the course Slack to introduce yourself and to describe why you chose those that project.
 * Dig deeper (optional): to better understand the context of this course, read up on [the history of humanities computing](https://jiemakel.gitbook.io/meth4dh/which-of-the-digital-humanities#assignment-1) and complete the assignments given there.
 

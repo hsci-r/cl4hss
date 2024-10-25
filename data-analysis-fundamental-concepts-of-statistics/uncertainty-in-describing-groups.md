@@ -12,7 +12,7 @@ This means that whatever inferences we derive from this distribution are accurat
 
 ## Populations and samples
 
-However, very often we do not have complete data on the _**population**_** ** we are interested in. For example, we do not have exact data on the height of every single Finnish person, and neither do we have complete age at death data for, for example, 15th and 18th-century people. In these situations, we may however have access to a smaller _**sample**_** ** of such data. If the sample is _**representative**_ of the population, its distribution will have the same general shape as the population, and we can use the sample as a proxy for the population in trying to describe it.
+However, very often we do not have complete data on the _**population**_ we are interested in. For example, we do not have exact data on the height of every single Finnish person, and neither do we have complete age at death data for, for example, 15th and 18th-century people. In these situations, we may however have access to a smaller _**sample**_ of such data. If the sample is _**representative**_ of the population, its distribution will have the same general shape as the population, and we can use the sample as a proxy for the population in trying to describe it.
 
 Turned around, in practice very often when we want to apply statistics to a domain, we start by trying to gather a sample set of values describing the thing we're interested in. To not make wrong inferences, we need to try our utmost to make the composition of this sample match the population. For example, if we wanted a 1000 person sample representing the heights of adult Finns, we could use external information we have that 50.68% of Finns are women to make the sample contain 507 women and 493 men. We might also want to sample for example people from different parts of the country in their true proportions, as well as sample from different social classes. After coming up with the sample, we'd then measure these 1000 people, and use the information derived from them to infer knowledge about Finns in general.
 
@@ -39,7 +39,7 @@ Now, consider that the composition of the BNC is subdivided as follows:
 
 
 
-Ponder and add to the discussion on #representativeness on Slack:&#x20;
+Ponder and add to the discussion on in a thread on Slack:&#x20;
 
 * Would you consider the BNC a representative sample of British English?&#x20;
   * If yes, with what reservations?&#x20;
