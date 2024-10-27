@@ -61,6 +61,7 @@ As a special consideration, while naturally hoping that your pipeline succeeds, 
 
 To further aid you in your work, here are some previous submissions for inspiration (for most of them, you should actually click the GitHub link on the right to start to make sense of them):
 
+* Sentiment analysis of  wall inscriptions found in Pompeii - DOI: [10.5281/zenodo.10395676](https://doi.org/10.5281/zenodo.10395676)
 * Errors in machine translating Finnish surnames - DOI: [10.5281/zenodo.7469559](https://doi.org/10.5281/zenodo.7469559)
 * Themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
 * Differences and similarities in the depiction of ghosts in two Chinese novels from different eras - DOI: [10.5281/zenodo.7467017](https://doi.org/10.5281/zenodo.7467017)
