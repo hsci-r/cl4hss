@@ -4,43 +4,7 @@ To pass the course, you are required to demonstrate that you're able to take wha
 
 To do this, you will need to navigate between the limits of the data, methods and research questions, trying to figure out which line of research is possible. Often, this is an iterative process, starting from something, running up against limits of either data or methodology, and then trying to sidestep those. The most important learning goal of this assignment is to gain experience in this process in practice by going through it.
 
-Potential datasets/APIs are for example (but instead of these please choose a dataset that is relevant to yourself):
-
-* [Korp API](https://kitwiki.csc.fi/twiki/bin/view/FinCLARIN/KielipankkiHelpKorpWebService)
-* [Finnish national gallery API / dump](http://kokoelmat.fng.fi/api/v2support/docs/#/download)
-* [Schoenberg database](http://dla.library.upenn.edu/dla/schoenberg/ancillary.html?id=dla/schoenberg/data)
-* [Cushman collection metadata](https://github.com/iulibdcs/cushman\_photos)
-* [WW2 covert support networks](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources#about-the-case-study)
-* [Europeana APIs](http://labs.europeana.eu/api)
-* [DPLA APIs](http://dp.la/info/developers/codex/)
-* [The European Library API](http://www.theeuropeanlibrary.org/confluence/display/developers/API+Documentation)
-* [Sydney Powerhouse Museum](http://www.powerhousemuseum.com/collection/database/download.php)
-* [EEBO-TCP Phase I](http://www.bodleian.ox.ac.uk/eebotcp/)
-* [ECCO-TCP](http://www.textcreationpartnership.org/tcp-ecco/)
-
-Tools for processing and analysis are for example:
-
-* Preprocessing: [R](https://www.r-project.org/), [Python](https://www.python.org/), [pandas](http://pandas.pydata.org/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [OpenRefine](http://openrefine.org/), [OpenCV](http://opencv.org/), [TensorFlow™ Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image\_recognition/index.html), [tuneR](https://cran.r-project.org/web/packages/tuneR/index.html), [pyAudio Analysis](https://github.com/tyiannak/pyAudioAnalysis), ...
-* Topic modeling: [Mallet](http://mallet.cs.umass.edu/), [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/index.html), [gensim](https://radimrehurek.com/gensim/), ...
-* Dimensionality reduction/clustering: [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html), [lsa](https://cran.r-project.org/web/packages/lsa/index.html), [BayesLCA](https://cran.r-project.org/web/packages/BayesLCA/index.html), [pvclust](https://cran.r-project.org/web/packages/pvclust/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), ...
-* Social network analysis: [igraph](http://igraph.org/), [sna](https://cran.r-project.org/web/packages/sna/index.html), [statnet](https://cran.r-project.org/web/packages/statnet/index.html), [sonia](http://web.stanford.edu/group/sonia/index.html), …
-* Simulation: [NetLogo](https://ccl.northwestern.edu/netlogo/), ...
-* Neural networks: [som](https://cran.r-project.org/web/packages/som/index.html), [TensorFlow™](http://www.tensorflow.org/), ...
-* Association rule learning: [arules](https://cran.r-project.org/web/packages/arules/index.html), [Weka](http://www.cs.waikato.ac.nz/ml/weka/),
-* Anomaly detection: [AnomalyDetection](https://github.com/twitter/AnomalyDetection), ...
-* Visualisation: [Palladio](http://palladio.designhumanities.org/), [nodegoat](http://nodegoat.net/), [matplotlib](http://matplotlib.org/), [seaborn](https://seaborn.pydata.org/index.html), [ggplot2](http://ggplot2.org/), [iPlots](https://cran.r-project.org/web/packages/iplots/index.html), [plot.ly](https://plot.ly/), ...
-
-In your work, you are expected to **follow as best as possible the guidelines for open, reproducible research**. Thus, include with your project a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what you've done. Make sure the document answers the following questions:
-
-1. What are your humanities/social science research questions? How do they relate to possible prior and related work?
-2. Which data did you use?
-3. What did you do to the data, and how can I reproduce it?
-4. What does the analysis show, how does it answer the humanities/social science research question? How do the results relate to possible prior and related work?
-5. Critically analyse your data and pipeline for potential bias and problems. What would still need to be done for the analysis to be trustable?
-
-**Further info:** as said, the most important learning goal for this assignment is to learn how to navigate between the shoals of data, methods and questions in designing a computational human science research process. Thus, for submissions, I prefer full pipelines that go from raw data to results. To get there, it is okay to cut massive corners as long as you know which those corners are (and that is what question 5 is for). However, sometimes this just isn't possible. Therefore, submissions can also be just some steps towards a complete pipeline (e.g. the data cleaning part). However, if you don't have end results, you need to very explicitly describe what your next steps would be to get those (i.e. a plan for future research).
-
-To return the assignment following open science best practices, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://forms.gle/mAzroPpS89Hw2BQS8)! (University of Helsinki students should use the [official version](https://coursefeedback.helsinki.fi/targets/38431427/feedback))
+Throughout the course, there are exercises designed to give you ideas on what you could do and what data and methods you could use. Apart from them, an excellent source for ideas and examples are the submissions from previous years listed at the bottom of this page.
 
 ### Evaluation criteria
 
@@ -57,31 +21,44 @@ As a special consideration, while naturally hoping that your pipeline succeeds, 
 
 **Importantly, you are free to submit your final assignment as many times as you want, until you obtain the grade that you desire.**&#x20;
 
+### Returning your assignment
+
+In your work, you are expected to **follow as best as possible the guidelines for open, reproducible research**. Thus, to return the assignment, you will need to upload your data, code and results into a [GitHub](http://github.com/) repository, link that repository with [Zenodo](https://zenodo.org/) and give us the Zenodo [DOI](https://www.doi.org/) for your work. To ensure readability, include with your project a document (e.g. a [README.md](https://help.github.com/articles/about-readmes/)) describing what all the parts of the project are (e.g. what is the main documentation file, where are the data, where are any code files, etc).
+
+To return your assignment, send the Zenodo DOI to Eetu on Slack, along with your student ID number. You probably won't want to include the ID number in the project files themselves, as all of those are public in perpetuity. Remember to also fill the course [feedback form](https://forms.gle/mAzroPpS89Hw2BQS8)! (University of Helsinki students should use the [official version](https://norppa.helsinki.fi/targets/82907178/feedback))
+
 ### Submissions from previous years
 
 To further aid you in your work, here are some previous submissions for inspiration (for most of them, you should actually click the GitHub link on the right to start to make sense of them):
 
-* Sentiment analysis of  wall inscriptions found in Pompeii - DOI: [10.5281/zenodo.10395676](https://doi.org/10.5281/zenodo.10395676)
 * Errors in machine translating Finnish surnames - DOI: [10.5281/zenodo.7469559](https://doi.org/10.5281/zenodo.7469559)
 * Themes in Hungarian folk love songs - DOI: [10.5281/zenodo.44570](http://doi.org/10.5281/zenodo.44570)
+* Languages used in Dutch Golden Age correspondence - DOI: [10.5281/zenodo.10932274](https://doi.org/10.5281/zenodo.10932274)
+* A tool for comparing different editions of the same book - DOI: [10.5281/zenodo.10415253](https://doi.org/10.5281/zenodo.10415253)
+* An analysis of Finnish milk propaganda - DOI: [10.5281/zenodo.10419360](https://doi.org/10.5281/zenodo.10419360)
+* Sentiment analysis of wall inscriptions found in Pompeii - DOI: [10.5281/zenodo.10395676](https://doi.org/10.5281/zenodo.10395676)
 * Differences and similarities in the depiction of ghosts in two Chinese novels from different eras - DOI: [10.5281/zenodo.7467017](https://doi.org/10.5281/zenodo.7467017)
+* Theories of consequence in early English books (1473-1700) - DOI: [10.5281/zenodo.5800084](https://doi.org/10.5281/zenodo.5800084)
 * Extracting and visualizing biographical information from an old bank matricle - DOI: [10.5281/zenodo.225890](http://doi.org/10.5281/zenodo.225890)
 * Analysis of a survey on user involvement in software development - DOI: [10.5281/zenodo.237727](https://doi.org/10.5281/zenodo.237727)
 * Comparing Language Complexity in Fact-Checked Fake and Real News - DOI:[ 10.5281/zenodo.4327219](https://doi.org/10.5281/zenodo.4327219)
 * Polite vs casual address form use by Finnish language learners in different situations - DOI: [10.5281/zenodo.218844](https://doi.org/10.5281/zenodo.218844)
+* Are people on the Internet more rude at night? - DOI: [10.5281/zenodo.10418513](https://doi.org/10.5281/zenodo.10418513)
 * Discovering patterns in chalcolithic and early bronze age burials in northeast England- DOI: [10.5281/zenodo.215932](https://doi.org/10.5281/zenodo.215932)
 * Finnish politicians in pictures - biases in the contents of the Finna portal - DOI:[ 10.5281/zenodo.4313215](https://doi.org/10.5281/zenodo.4313215)
 * Analysing the poets and themes selected for the book "Three Hundred Tang Poems" - DOI: [10.5281/zenodo.5796611](https://doi.org/10.5281/zenodo.5796611)
 * Analysing the composition of the collection of the Metropolitan Art museum - DOI: [10.5281/zenodo.8076250](https://doi.org/10.5281/zenodo.8076250)
+* Images of the human body across four Japanese novels - DOI: [10.5281/zenodo.10420251](https://doi.org/10.5281/zenodo.10420251)
 * Themes discussed in Helsingin Sanomat in 1905 - DOI: [10.5281/zenodo.44572](http://doi.org/10.5281/zenodo.44572)
 * Topics covered in Finnish proverbs from the 1930s - DOI: [10.5281/zenodo.6365445](https://doi.org/10.5281/zenodo.6365445)
 * Differences in use between the words _maahanmuuttaja_ and _pakolainen_ in Finnish newspapers 1970- to present - DOI: [10.5281/zenodo.44544](http://doi.org/10.5281/zenodo.44544)
+* Differences in how Australian and Indian news discuss violence against women - DOI: [10.5281/zenodo.10419406](https://doi.org/10.5281/zenodo.10419406)
 * Differences in how frequently Finnish and Swedish newspapers talk about the Romani people - DOI: [10.5281/zenodo.44590](http://doi.org/10.5281/zenodo.44590)
 * Contrasting Beck's lyrics to blues lyrics - DOI: [10.5281/zenodo.215292](http://doi.org/10.5281/zenodo.215292)
 * Extracting and analysing recipe information in an old cookbook - DOI: [10.5281/zenodo.216232](https://doi.org/10.5281/zenodo.216232)
-* Theories of consequence in early English books (1473-1700) - DOI: [10.5281/zenodo.5800084](https://doi.org/10.5281/zenodo.5800084)
 * Comparing the use of polite plural "you" in Mandarin Chinese and Lithuanian - DOI: [10.5281/zenodo.1134294](https://doi.org/10.5281/zenodo.1134294)
 * A thematic analysis of the discussion around Guggenheim on the Suomi24 forum - DOI: [10.5281/zenodo.217719](https://doi.org/10.5281/zenodo.217719)
+* Foci of climate change media discourse in the Southern China Morning Post 2016-2017 - DOI: [10.5281/zenodo.10866841](https://doi.org/10.5281/zenodo.10866841)
 * Sentiment analysis of Twitter discussion related to the Indian biometric identifier system Aadhaar - DOI: [10.5281/zenodo.1134623](https://doi.org/10.5281/zenodo.1134623)
 * Exploring themes in Helsinki tourist brochures 1967-2008 - DOI: [10.5281/zenodo.6045173](https://doi.org/10.5281/zenodo.6045173)
 * Differences in language between texts dealing with altered states of mind and normal fiction - DOI: [10.5281/zenodo.230676](https://doi.org/10.5281/zenodo.230676)
