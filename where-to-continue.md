@@ -4,7 +4,7 @@ Here I'll gather some relevant links to further resources. I think these are goo
 
 * Term glossaries:
   * [Data science](https://www.datacamp.com/blog/data-science-glossary)
-  * [Statistics](https://www.stat.berkeley.edu/\~stark/SticiGui/Text/gloss.htm)
+  * [Statistics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm)
 * General course lists:
   * [Elective theory and practice courses available as part of the Helsinki DH module](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/teaching#section-44332)
   * [Elective method courses as part of the Helsinki DH module](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/teaching#section-44333)
@@ -27,7 +27,7 @@ Here I'll gather some relevant links to further resources. I think these are goo
   * [Introduction to Open Data Science MOOC](https://mooc.helsinki.fi/course/view.php?id=158) at the University of Helsinki&#x20;
   * [Computational and Inferential Thinking - The Foundations of Data Science](https://www.inferentialthinking.com/), an excellent introduction to statistical analysis with interactive Python notebooks
   * [R for Data Science](https://r4ds.had.co.nz/) book
-  * [The historian’s macroscope](http://www.themacroscope.org/?page\_id=584), a good general-purpose book introducing different types of humanities data analysis
+  * [The historian’s macroscope](http://www.themacroscope.org/?page_id=584), a good general-purpose book introducing different types of humanities data analysis
   * [Statistics for the Humanities](http://www.statisticsforhumanities.net/book/wp-content/uploads/2014/07/StatisticsforHumanities%205Sept14.pdf)
   * [Explained Visually](http://setosa.io/ev/)
   * [Kristoffer Magnusson's Visualizations of statistical concepts](https://rpsychologist.com/viz/)
@@ -37,6 +37,6 @@ Here I'll gather some relevant links to further resources. I think these are goo
   * [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/)
   * [Teaching yourself to code in DH list](http://scottbot.net/teaching-yourself-to-code-in-dh/)
   * [Technical Foundations of Informatics](https://info201.github.io/index.html)
-  * [Computational Historical Thinking _With Applications in R_](http://dh-r.lincolnmullen.com/)__
+  * [Computational Historical Thinking _With Applications in R_](http://dh-r.lincolnmullen.com/)
   * [Humanities Data in R](http://humanitiesdata.org/)
   * [Text Mining with R](http://tidytextmining.com/)
