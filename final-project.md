@@ -8,7 +8,7 @@ Throughout the course, there are exercises designed to give you ideas on what yo
 
 ### Evaluation criteria
 
-* Minimum requirement (grade 1/5): Your project must include a humanities/social science research question, and a description of a complete pipeline that moves from a dataset to answer that question. Naturally in the context of this course, the pipeline also needs to rely on computation in at least one step. In addition, at least one computational step needs to be fully implemented.
+* Minimum requirement (grade 1/5): Your project must include a humanities/social science research question, and a description of a complete pipeline that moves from a dataset to answer that question. Naturally in the context of this course, the pipeline also needs to rely on computation in at least one step. In addition, a) at least one computational step needs to be fully implemented and b) no egregious errors or problems may appear when reviewing the implementation and analysis.
 * You need to document your pipeline in a way that it can be rerun and its results reproduced. (+1 grade)
 * You need to include an analysis of the results of your pipeline. If you do not end up with a full pipeline from data to analytical results, then you need to evaluate the reliability of the part of the pipeline that you did develop. (+1 grade)
 * To get a 4 or a 5, both your analysis as well as documentation need to be robust, logical and understandable. This includes:
