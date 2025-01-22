@@ -77,6 +77,6 @@ Assignment
 
 * If the concept of mean, median and mode did not already become clear to you, [this](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php) is another explanation of them that comes from a different angle, but which I think is also relatively accessible.
 * After you think you've nailed down what the different measures of central tendency are and how they relate to each other, do the practice problems relating to how altering data affects the mean and median at [Khan Academy](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point). If you still do not yet know how to answer the questions given there, peruse the videos and tutorials linked there before the problems.
-* For fun, go read the ["well-chosen average" section](https://archive.org/details/how-to-lie-with-statistics\_202008/page/28/mode/2up) of "How to lie with statistics"
+* For fun, go read the ["well-chosen average" section](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf) of "How to lie with statistics"
 {% endhint %}
 
