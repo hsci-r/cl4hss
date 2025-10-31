@@ -63,7 +63,7 @@ To further aid you in your work, here are some previous submissions for inspirat
 * Topics covered in Finnish proverbs from the 1930s - DOI: [10.5281/zenodo.6365445](https://doi.org/10.5281/zenodo.6365445)
 * Differences in use between the words _maahanmuuttaja_ and _pakolainen_ in Finnish newspapers 1970- to present - DOI: [10.5281/zenodo.44544](http://doi.org/10.5281/zenodo.44544)
 * Differences in how Australian and Indian news discuss violence against women - DOI: [10.5281/zenodo.10419406](https://doi.org/10.5281/zenodo.10419406)
-* Differences in how frequently Finnish and Swedish newspapers talk about the Romani people - DOI: [10.5281/zenodo.44590](http://doi.org/10.5281/zenodo.44590)
+* When did the word for novel appear in Finnish and Swedish newspapers - DOI: [10.5281/zenodo.44590](http://doi.org/10.5281/zenodo.44590)
 * Contrasting Beck's lyrics to blues lyrics - DOI: [10.5281/zenodo.215292](http://doi.org/10.5281/zenodo.215292)
 * Extracting and analysing recipe information in an old cookbook - DOI: [10.5281/zenodo.216232](https://doi.org/10.5281/zenodo.216232)
 * Comparing the use of polite plural "you" in Mandarin Chinese and Lithuanian - DOI: [10.5281/zenodo.1134294](https://doi.org/10.5281/zenodo.1134294)
